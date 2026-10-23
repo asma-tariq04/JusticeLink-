@@ -252,7 +252,7 @@ if st.session_state["current_screen"] == "home":
         /* Desktop View (Standard Landscape 16:9 Image) */
         @media (min-width: 769px) {
             [data-testid="stMain"] {
-                background-image: url("https://github.com/asma-tariq04/JusticeLink-/blob/f9ed191c58e7827db6c60900ac7ba038187c9037/ChatGPT%20Image%20Aug%2030,%202026,%2008_02_21%20PM.png?raw=true") !important;
+                background-image: url("https://github.com/asma-tariq04/JusticeLink-/blob/main/ChatGPT%20Image%20Aug%2030,%202026,%2008_02_21%20PM.png?raw=true !important;
                 background-size: cover !important;
                 background-repeat: no-repeat !important;
                 background-position: center center !important;
