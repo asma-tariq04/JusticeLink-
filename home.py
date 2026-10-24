@@ -252,7 +252,7 @@ if st.session_state["current_screen"] == "home":
         /* Desktop View (Standard Landscape 16:9 Image) */
         @media (min-width: 769px) {
             [data-testid="stMain"] {
-                background-image: url("https://raw.githubusercontent.com/asma-tariq04/JusticeLink-/main/home.png !important;
+               background-image: url("https://raw.githubusercontent.com/asma-tariq04/JusticeLink-/main/home.png") !important;
                 background-size: cover !important;
                 background-repeat: no-repeat !important;
                 background-position: center center !important;
@@ -263,7 +263,7 @@ if st.session_state["current_screen"] == "home":
         @media (max-width: 768px) {
             [data-testid="stMain"] {
                 
-                background-image: url("https://github.com/asma-tariq04/JusticeLink-/blob/main/mobile_app.jpg?raw=true") !important;
+                background-image: url("https://raw.githubusercontent.com/asma-tariq04/JusticeLink-/main/mobile_app.jpg") !important;
                 background-size: cover !important;
                 background-repeat: no-repeat !important;
                 background-position: center center !important;
