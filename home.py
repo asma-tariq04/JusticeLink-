@@ -67,7 +67,9 @@ st.sidebar.markdown("""
 
 st.markdown("""
 <style>
-
+[data-testid="stToolbar"] { visibility: hidden !important; }
+[data-testid="stDecoration"] { display: none !important; }
+footer { visibility: hidden !important; }
 .sidebar-title {
     display: flex;
     align-items: center;
