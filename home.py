@@ -67,7 +67,9 @@ st.sidebar.markdown("""
 
 st.markdown("""
 <style>
-[data-testid="stToolbar"] { visibility: hidden !important; }
+[data-testid="stToolbarActions"] { display: none !important; }
+[data-testid="stMainMenu"] { display: none !important; }
+[data-testid="stAppDeployButton"] { display: none !important; }
 [data-testid="stDecoration"] { display: none !important; }
 footer { visibility: hidden !important; }
 .sidebar-title {
