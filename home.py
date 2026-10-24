@@ -263,7 +263,7 @@ if st.session_state["current_screen"] == "home":
         @media (max-width: 768px) {
             [data-testid="stMain"] {
                 
-                background-image: url("https://github.com/asma-tariq04/JusticeLink-/blob/main/Gemini_Generated_Image_8at7df8at7df8at7%20(1).jpg?raw=true") !important;
+                background-image: url("https://github.com/asma-tariq04/JusticeLink-/blob/main/mobile_app.jpg?raw=true") !important;
                 background-size: cover !important;
                 background-repeat: no-repeat !important;
                 background-position: center center !important;
