@@ -27,7 +27,7 @@ if not is_logged_in():
         [data-testid="stToolbarActions"] { display: none !important; }
 [data-testid="stMainMenu"] { display: none !important; }
 [data-testid="stAppDeployButton"] { display: none !important; }
-[data-testid="stDecoration"] { display: none !important; }
+
 footer { visibility: hidden !important; }
         </style>
         """,
