@@ -213,7 +213,7 @@ def analyze_case(problem, docs, evidence):
 
         Rules:
         - evidence_checklist: exactly 6 items. 2 to 4 words only.
-        - Set "provided" to true only if evidence/docs show it exists. Otherwise false.
+        - Set "provided" to true if the evidence, docs, OR the user's problem description indicates it exists. Otherwise false.
         - authorities: maximum 3 items, official names only, no explanation.
         - suggestions: maximum 4 items, clear sentence under 25 words.
         - Do NOT include links, markdown formatting (*, [], **). Use plain ASCII.
