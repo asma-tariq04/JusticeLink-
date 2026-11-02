@@ -1,0 +1,129 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administratorba766d06d575ce5e609767b30ecdc04f.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 121
+TITLE: Constitution of the Tribunal
+TEXT:
+(1) The Federal Government shall constitute a Tribunal or Tribunals in consultation with the Commission and shall in respect of each Tribunal so constituted specify the territorial limits within which, or the class or classes of cases in respect of which each such Tribunal shall exercise jurisdiction under this Ordinance:
+Provided that the Federal Government may by notification in the official Gazette confer all or any of the powers of the Tribunal on any District or Additional District and Sessions Judge of an area where for any reason it may not be expedient to constitute a separate Tribunal, and in doing so the Federal Government shall also specify the composition and pecuniary and territorial limits of such a Tribunal.
+(2) The Tribunal shall consist of a Chairperson who shall be a serving or retired judge of the High Court and not less than two members being persons of ability and integrity who have such knowledge or experience of life insurance, non-life insurance, actuarial science, finance, economics, law, accountancy, administration or other discipline as would, in the opinion of the Federal Government, enable them to discharge the duties and functions of members of the Tribunal.
+(3) To constitute a sitting of a Tribunal the presence of the Chairperson and at least one other member shall be necessary.
+(4) A Tribunal shall not merely by reason of a change in its composition, or the absence of any member from any sitting, be bound to recall and rehear any witness who has given evidence, and may act on the evidence already recorded by or produced before it.
+(5) A Tribunal may hold its sitting at such places within its territorial jurisdiction as the Chairperson may decide from time to time.
+(6) No act or proceeding of a Tribunal shall be invalid by reason only of the existence of a vacancy in, or defect in the constitution of the Tribunal.
+===
+SECTION: 122
+TITLE: Powers of Tribunal
+TEXT:
+(1) A Tribunal shall:
+(a) in the exercise of its civil jurisdiction, have in respect of a claim filed by a policy holder against an insurance company in respect of, or arising out of a policy of insurance, all the powers vested in a civil Court under the Code of Civil Procedure, 1908 (Act V of 1908);
+(b) in the exercise of its criminal jurisdiction, try the offenses punishable under this Ordinance and shall, for this purpose, have the same powers as are vested in the Court of Sessions under the Code of Criminal Procedure, 1898 (Act V of 1898);
+(c) exercise and perform such other powers and functions as are, or may be, conferred upon, or assigned to it, by or under this Ordinance; and
+(d) in all matters with respect to which procedure has not been provided for in this Ordinance, follow the procedure laid down in the Code of Civil Procedure, 1908 (Act V of 1898) or the Code of Criminal Procedure, 1898 (Act V of 1898) as the case may be.
+(2) The jurisdiction of a Tribunal shall not extend to appeals to which section 33 and section 34 of the SECP Act apply.
+(3) No Court other than a Tribunal shall have or exercise any jurisdiction with respect to any matter to which the jurisdiction of a Tribunal extends under this Ordinance, including a decision as to the territorial limits and the execution of a decree, order or judgment passed by a Tribunal:
+Provided that for the purposes of this section a Small Claims Settlement Committee established under section 117 shall not be deemed to be a Court.
+===
+SECTION: 123
+TITLE: Procedure of the Tribunal
+TEXT:
+(1) A Tribunal shall for the purpose of the trial of an application, follow such procedure as may be prescribed and have the same powers as are vested in a civil court trying a suit under the Code of Civil Procedure, 1908 (Act V of 1908) in respect of:
+(a) summoning and enforcing the attendance of any person and examining him on oath;
+(b) requiring the discovery and production of documents and material objects;
+(c) receiving evidence on affidavits; and
+(d) issuing commissions for the examination of witnesses or documents.
+(2) If, in the course of the trial of an application, any one of its members ceases to hold office, or is, for any reason, unable to attend the sittings of that Tribunal, the trial shall continue notwithstanding such vacancy, and the decision may be given by the remaining members.
+(3) If upon any matter requiring the decision of the Tribunal there is a difference of opinion among its members, the opinion of the majority shall prevail and the decision of that Tribunal shall be expressed in terms of the view of the majority:
+Provided that where the members are equally divided on any point it shall be decided in accordance with the views of the Chairperson.
+(4) The decision of a Tribunal shall be given in writing and shall be signed by the Chairperson.
+(5) A Tribunal shall give a copy of the decision to each party to the dispute and shall also forward a copy to the Commission.
+(6) A Tribunal shall, upon an application made in this behalf by any party to a dispute adjudicated by it and on payment of such fee not exceeding one rupee for every one hundred words, and subject to such conditions, as may be prescribed, furnish certified copies of its proceedings or of any document submitted to or produced before it.
+===
+SECTION: 124
+TITLE: Appeal
+TEXT:
+(I) Subject to the right of appeal conferred by sub-section (2) hereof, the decision of the Tribunal on any application shall be final and shall not be questioned in any Court or before any other authority.
+(2) Any party aggrieved by a decision of the Tribunal may, if the amount of the claim in dispute or the penalty prescribed, as the case may be, is not less than one hundred thousand rupees, prefer an appeal to the High Court within a period of thirty days from the date of such decision.
+(3) An appeal under sub-section (2) shall be heard by a Bench of not less than two judges of the High Court having territorial jurisdiction over the relevant Tribunal.
+===
+SECTION: 125
+TITLE: Appointment of Insurance Ombudsman
+TEXT:
+(1) As soon as may be, after the commencement of this Ordinance, the Federal Government shall appoint an Insurance Ombudsman.
+(2) The Insurance Ombudsman shall be a natural person having high integrity and ability and unimpeachable insurance or legal credentials, and shall not at the date of his appointment be more than seventy years of age. He shall not be a shareholder of an insurance company.
+(3) The Insurance Ombudsman shall hold office for a period of four years from the date of his appointment unless he resigns earlier or is disqualified or removed in accordance with sub-section (2) or (3) of section 126. He shall not be eligible for any extension of tenure or for re-appointment under any circumstances whatsoever.
+(4) Any vacancy occurring in the office of the Insurance Ombudsman shall be filled within sixty days of the occurrence of such vacancy.
+(5) The Insurance Ombudsman shall not hold any other office of profit in the service of Pakistan or occupy any other position carrying the right to remuneration for the rendering of services, and shall not during the two years immediately prior to his appointment have held any office in any body corporate carrying on insurance business in Pakistan.
+===
+SECTION: 126
+TITLE: Terms and conditions of Insurance Ombudsman
+TEXT:
+(1) The Insurance Ombudsman shall be entitled to the same salary and allowances as a Judge of a High Court.
+(2) The Insurance Ombudsman may at any time resign his office by giving written notice to the Commission of not less than three months.
+(3) The Insurance Ombudsman shall be disqualified from holding his office and his appointment may be revoked if:
+(a) he has been convicted of an offence involving moral turpitud
+(b) he has been guilty of misconduct;
+(c) he has been or is adjudged insolvent;
+(d) he is incapable of discharging his duties by reason of physical, physiological or mental unfitness and has been so declared by a registered medical practitioner appointed by the Commission;
+(e) he is disqualified by virtue of holding an office (other than that of Insurance Ombudsman) for which he receives remuneration; or
+(f) he fails to discharge diligently or impartially his duties under this Ordinance:
+Provided that, unless a disqualification referred to in this sub-section arises from the judgement or a court or tribunal of competent jurisdiction under any relevant provision of applicable law, the appointment of an Insurance Ombudsman shall not be revoked without an enquiry by an impartial person or body of persons constituted in accordance with such procedure as may be prescribed by rules made by the Federal Government, and such rules shall provide for a reasonable opportunity for him to be heard in his defence.
+(4) The Insurance Ombudsman shall be provided with a secretariat to be appointed in consultation with the Commission. Appointments to the secretariat may be made on deputation from the Commission or other insurance companies or otherwise on the basis of professional qualifications. The costs of the secretariat shall be shared by insurance companies in such proportions as may be determined by the Commission.
+===
+SECTION: 127
+TITLE: Jurisdiction, functions and powers of Insurance Ombudsman
+TEXT:
+(1) The Insurance Ombudsman may on a complaint by any aggrieved person undertake any investigation into any allegation of mal-administration on the part of any insurance company
+Provided that the Insurance Ombudsman shall not have any jurisdiction to investigate or inquire into any matters which__
+(a) are within the jurisdiction of the Office of the Wafaqi Mohtasib under the Establishment of the Office of Wafaqi Mohtasib (Ombudsman) Order, 1983 (P.O.1 of 1983); or
+(b) are sub-judice before a court of competent jurisdiction or tribunal or board in Pakistan on the date of the receipt of a complaint, reference or motion by him.
+(2) For the purposes of this section “mal-administration” includes—
+(a) a decision, process, recommendation, act of omission or commission which:
+(i) is contrary to law, rules or regulations or is a departure from established practice or procedure, unless it is bona fide and for valid reasons; or
+(ii) is perverse, arbitrary or unreasonable, unjust, biased, oppressive, or discriminatory; or
+(iii) is based on irrelevant grounds; or
+(iv) involves the exercise of powers, or the failure or refusal to do so, for corrupt or improper motives, such as, bribery, jobbery, favoritism, nepotism and administrative excesses; and
+(b) corruption, nepotism, neglect, inattention, inordinate delay, incompetence, inefficiency and ineptitude in the administration or discharge of duties and responsibilities.
+(3) Notwithstanding anything contained in sub-section (1), the Insurance Ombudsman shall not accept for investigation any complaint which is brought by or on behalf of an insurance company and which relates to a contract of reinsurance.
+(4) Notwithstanding anything contained in sub-section (1), the Insurance Ombudsman shall not accept for investigation any complaint by or on behalf of an employee of an insurance company concerning any matters relating to the insurance company in respect of any personal grievance relating to his service therein.
+(5) For carrying out the objectives of this Ordinance and, in particular for ascertaining the root causes of corrupt practices and injustice, the Insurance Ombudsman may arrange for studies to be made or research to be conducted and may recommend appropriate steps for their eradication.
+===
+SECTION: [number kata hua, paste mein nahi]
+TITLE: [title kata hua, paste mein nahi]
+TEXT:
+case, a Court or Tribunal trying a case relating to an insurance company is of the opinion that the management of the insurance company has prima facie acted in a mala fide manner, or in violation of insurance rules and regulations, it may make reference to the Insurance Ombudsman for inquiring into the matter and passing such order in accordance with the provisions hereof as he may deem fit:
+Provided that the making of a reference shall not prevent the Court or Tribunal from deciding the claim before it on its merits.
+===
+SECTION: 129
+TITLE: Procedure for making complaints
+TEXT:
+(1) A complaint shall be made on solemn affirmation or oath in writing addressed to the Insurance Ombudsman. The complaint shall set out the full particulars of the transaction complained of and the name and address of the complainant.
+(2) Prior to making a complaint the complainant shall intimate in writing to the concerned insurance company his intention of filing a complaint and if the insurance company either fails to respond, or makes a reply which is unsatisfactory to the complaint, within a period of one month, the complainant may file a complaint at any time thereafter within a further period of three months:
+Provided that the Insurance Ombudsman may, if satisfied that there were reasonable grounds for the delay in filing the complaint, condone the delay and entertain the complaint.
+(3) The Insurance Ombudsman may adopt any procedure as he considers appropriate for investigating a complaint.
+Provided that he shall not pass any order against a insurance company without first giving it a notice and an opportunity to be heard.
+(4) Subject to section 128, the Insurance Ombudsman shall not have any power to issue an order in the nature of a stay order or to entertain any complaints if the matter is pending before a Court, Tribunal or other legal forum.
+(5) The Insurance Ombudsman may reject a complaint summarily or he may accept the same or pass any other order he deems fit:
+Provided that in each case he shall pass a reasoned order for his decision.
+(6) The Federal Government may further prescribe rules for the conduct of proceedings in relation to complaints brought before the Insurance Ombudsman.
+===
+SECTION: 130
+TITLE: Recommendations for implementation
+TEXT:
+(1) In the event the Insurance Ombudsman comes to the conclusion that the complaint is justified, in part or in whole, he shall try and facilitate an amicable resolution or settlement by resort to mediation and failing that communicate his findings to the concerned insurance company with the direction—
+(a) to reconsider the matter;
+(b) to modify or cancel the earlier decision, action or failure to take appropriate action;
+(c) to pay reasonable compensation to the complainant as fixed by the Insurance Ombudsman;
+(d) to take the requisite steps to improve the functioning or efficiency of the insurance company; or
+(e) to take such other remedial steps or actions as may be specified by the Insurance Ombudsman.
+(2) Any insurance company, or official of an insurance company or a complainant aggrieved by an order passed by the Insurance Ombudsman may file an appeal with the Commission within thirty days which shall pass any order thereon it deems fit.
+(3) Any order passed by the Insurance Ombudsman which has not been appealed against, or any order passed by the Commission in appeal, as the case may be, shall become final and operative and if not implemented shall render the insurance company concerned liable to such action including the imposition of a fine or penalty as the Commission may deem fit, and in relation to a insurance company officer, to the appropriate disciplinary or other proceedings.
+(4) Nothing contained herein shall prevent a complainant from filing a suit against an insurance company in the event his complaint is rejected
+===
+SECTION: 134
+TITLE: Report of Insurance Ombudsman
+TEXT:
+(1) The Insurance Ombudsman shall prepare and submit to the Federal Government on or before the 31st March in every year following the commencement date a report setting out a review of the activities of his office during the preceding
+(2) The Insurance Ombudsman shall also submit a report or reports to the Federal Government containing the results of such inquiries as he may be directed to conduct by the Federal Government from time to time.
+(3) All reports submitted by the Insurance Ombudsman shall be published and released to the public unless he directs otherwise for reasons to be recorded.
+===

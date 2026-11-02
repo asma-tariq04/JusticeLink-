@@ -1,0 +1,41 @@
+===
+AUTHORITY: Labour Court
+DESCRIPTION: A specialized judicial forum established to adjudicate individual and collective labor disputes, wage claims, unlawful terminations, and grievances arising under provincial and federal labor laws.
+COMPLAINT_PROCESS: Employees must first serve a formal Grievance Notice to the employer within the statutory timeframe, and upon failure to resolve, file a petition directly in the Labour Court.
+SOURCE: https://pakistancode.gov.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: National Industrial Relations Commission (NIRC)
+DESCRIPTION: A federal quasi-judicial body dealing with inter-provincial trade union registrations, unfair labor practices by employers or unions, and nationwide industrial disputes.
+COMPLAINT_PROCESS: Petitions or unfair labor practice charges can be filed through written applications at NIRC head office or its regional benches.
+SOURCE: https://pakistancode.gov.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: Family Court
+DESCRIPTION: A civil court having exclusive jurisdiction to adjudicate family disputes including dissolution of marriage (talaq/khula), restitution of conjugal rights, dower (haq mehr), and maintenance (nafa-nafa).
+COMPLAINT_PROCESS: Suits are instituted through a formal plaint filed in the local District Family Court, which initiates mandatory pre-trial reconciliation proceedings.
+SOURCE: https://pakistancode.gov.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: Guardian Court
+DESCRIPTION: A specialized judicial forum designated under the Guardians and Wards Act, 1890, to decide matters relating to the custody of minors (hizanat), visitation rights, and guardianship of their properties.
+COMPLAINT_PROCESS: An application or petition for custody or guardianship is filed before the Guardian Court specifying the welfare grounds of the minor.
+SOURCE: https://pakistancode.gov.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: Rent Tribunal
+DESCRIPTION: A judicial forum established under rental laws (such as the Punjab Rented Premises Act, 2009) to manage tenancy disputes, eviction orders, security deposit refunds, and rent agreement breaches.
+COMPLAINT_PROCESS: Landlords or tenants can file an application along with supporting tenancy documents through the designated Rent Tribunal or its electronic filing registry.
+SOURCE: https://pakistancode.gov.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: Ombudsperson against Harassment at Workplace
+DESCRIPTION: An independent quasi-judicial institution mandated to protect women and employees against workplace harassment, conduct inquiries, and issue penalties or protective orders.
+COMPLAINT_PROCESS: Written complaints can be submitted directly to the Ombudsperson office or through the organization's internal Inquiry Committee proceedings.
+SOURCE: https://pakistancode.gov.pk
+DATE_CHECKED: 2026-11-01

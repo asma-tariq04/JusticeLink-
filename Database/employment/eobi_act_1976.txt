@@ -1,0 +1,50 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administratorf3be1ec8d21dfebb9c5d1733f43cffe6.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 11
+TITLE: Registration of establishments, etc.
+TEXT:
+(1) Every employer shall, before the expiration of thirty days from the day on which this Act becomes applicable to the industry or establishment in respect of which he is the employer, communicate to the Institution the name and other prescribed particulars of the industry or establishment and of every insured person employed in the industry or establishment.
+(2) Every insured person may also communicate his name and other prescribed particulars to the Institution.
+(3) On receipt of a communication under sub-section (1) or sub-section (2), the Institution shall register the name of the industry or establishment or the insured person in such manner, and issue to the insured person a registration card in such form, as may be prescribed.
+===
+SECTION: 11A
+TITLE: Cancellation of registration of establishments, etc.
+TEXT:
+The Board may, on the basis of such evidence as the Board may find satisfactory for the purpose, cancel the registration of any establishment or industry which has ceased to exist:
+Provided that the cancellation of the registration of an
+===
+SECTION: 22
+TITLE: Old-age pension
+TEXT:
+(1) An insured person shall be entitled to a monthly old-age pension at the rate specified in the Schedule:
+Provided that—
+(a) he is over sixty years of age, or fifty-five years in the case of a women; and
+(b) contribution in respect of him were paid for not less than fifteen years:
+Provided further that the age specified in clause (a) will be reduced by five years in the case of an insured person employed in the occupation of mining for at least ten years immediately preceding retirement:
+Provided also that where the employee was insured under the provisions of this Act on or before 30th June 2002, and contributions payable under the Act by the employer prior to 30th June, 2002, in respect of said insured person had not been paid, the insured person shall enjoy the rights under this Act as if for the word “payable” the word “paid” were not substituted:
+Provided further that where the contribution under section 9B is paid regularly by the insured person himself in accordance with prescribed procedure, his entitlement, to the benefit shall not be affected by default in payment of employer’s share of contribution under section 9.
+(2) If an insured person was on the first day of July, 1976 or is on any day thereafter on which this Act becomes applicable to an industry or establishment,—
+(i) over forty years of age, or thirty-five years in the case of a woman, clause (b) of sub-section (1) shall have effect as if for the word “fifteen” therein the word “seven” were substituted; or
+(ii) over forty-five years of age, or forty years in the case of a woman, clause (b) of sub-section (1) shall have effect as if for the word “fifteen” therein the word “five” were substituted:
+Provided that nothing in this section shall apply to an employee insured under this Act on or after 1st day of July, 2008.
+(2A) Notwithstanding anything contained in sub-section (1), an insured person—
+(a) who was insured under the provisions of this Act on or before the 30th June, 1986, and will attain the age of fifty-five years (fifty years in the case of a woman) on or before the 30th June, 1991, and
+(b) in respect of whom contributions were payable to the Institution for the period required under the provisions of this Act,
+shall be entitled to old-age pension at the age of fifty-five year (fifty years in the case of a woman).
+(2B) An insured person already in receipt of an old-age or invalidity pension, or entitled to an old-age pension under the provisions of sub-section (2A), shall be entitled to a minimum pension at the rate specified in the Schedule.
+(2C) An insured person who retires from insurable employment before attaining the age of sixty years (fifty-five years in the case of a woman) but after attaining the age of fifty-five years (fifty years in the case of a woman) shall be entitled to a reduced old-age pension on fulfilling the following conditions, namely:—
+(a) the Institution is satisfied through documentary evidence that the employer has a definite established retirement age of less than sixty years (fifty-five years in the case of a woman);
+(b) the employer certifies that the insured person has been retired by him on attaining the age of superannuation; and
+(c) the contributions in respect of him were paid for the period required under the provisions of this Act.
+(2D) The old age pension shall be reduced by one-half per cent of the old-age pension specified in the Schedule for each completed month by which the age falls short of sixty years (fifty-five years in the case of a woman) and the minimum old age pension shall also be reduced in the aforesaid manner in the case of retirement from insurable employment before attaining the age of sixty years (fifty-five years in the case of a woman).
+(2E) The reduction in old-age pension specified in sub-section (2D) shall be for life and shall not be restored on the insured person’s attaining the normal pension age.
+(3) Subject to regulations, the old-age pension shall commence as from the month following that in which the insured person satisfies the condition for entitlement thereto, provided that no allowance shall be payable retroactively for more than six months preceding the month in which an application for old-age pension is submitted.
+(4) Insurable employment of a person for the purposes of this Act shall commence on the date from which the first contribution in respect of him becomes payable.
+(5) The old-age pension payable to an insured person shall be terminated at the end of the month in which the death of such person occurs.
+===
+SECTION: 22A
+TITLE: Old-age grant
+TEXT:
+If an insured person, not otherwise entitled to old-age pension, retires from insurable employment after attaining the age of sixty years, or fifty-five years in the case of a woman and a mine workers, and contributions in respect of him were paid for less than fifteen years, but not less than two years, he shall be entitled to an old-age grant paid in a lump sum equal to his one month’s average monthly wages for every completed year of insurable employment or part thereof in excess of six month
+===

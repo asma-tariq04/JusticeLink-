@@ -1,0 +1,9 @@
+SOURCE: https://pssr.org.pk/issues/v4/3/a-single-piece-of-legislation-on-consumer-protection-in-pakistan-is-a-matter-of-urgency-a-lesson-from-india.pdf ; https://sja.gos.pk/assets/Updated_Laws/Sindh%20Consumer%20Protection%20Act,%202014.pdf ; https://industries.balochistan.gov.pk/wp-content/uploads/2025/01/ConsumersProtectionAct2003.doc-2.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: province map
+TITLE: Consumer protection laws by province
+TEXT:
+Pakistan has no single national consumer law. Each province and Islamabad has its own Act: Islamabad Capital Territory: Islamabad Consumer Protection Act 1995. Khyber Pakhtunkhwa: Khyber Pakhtunkhwa Consumers Protection Act 1997 (amended in 2005, 2015 and 2017). Balochistan: Balochistan Consumer Protection Act 2003. Punjab: Punjab Consumer Protection Act 2005 (amended in 2025). Sindh: Sindh Consumer Protection Act 2014.
+In Punjab, claims are filed before a Consumer Court, which is a District Judge or Additional District Judge designated by the Lahore High Court for each district. An appeal against a final order of the Consumer Court lies to the Lahore High Court within 30 days.
+A user should file the claim under the law of the province where the seller or defendant lives or does business, or where the cause of action arose.

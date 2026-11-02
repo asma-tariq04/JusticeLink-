@@ -1,0 +1,60 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator8820e88efaf7eedabf5c1d8c73b3dee5.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 3
+TITLE: Responsibility for payment of wages
+TEXT:
+Every employer, including a contractor, shall be responsible for the payment to persons employed by him of all wages required to be paid under this Act:
+Provided that, in the case of persons employed (otherwise than by a contractor)—
+(a) in factories, if a person has been named as the manager of the factory under clause (e) of sub-section (1) of section 9 of the Factories Act, 1934 (XXV of 1934),
+(b) in industrial establishments, if there is a person responsible to the employer for the supervision and control of the industrial establishment,
+(c) upon railways (otherwise than in factories), if the employer is the railway administration and the railway administration has nominated a person in this behalf for the local area concerned,
+the person so named, the person so responsible to the employer, or the person so nominated, as the case may be, shall be responsible for such payment.
+===
+SECTION: 5
+TITLE: Time of payment of wages
+TEXT:
+(1) The wages of every person employed upon or in—
+(a) any railway, factory or industrial establishment upon or in which less than one thousand persons are employed, shall be paid before the expiry of the seventh day,
+(b) any other railway, factory or industrial establishment, shall be paid before the expiry of the tenth day,
+after the last day of the wage-period in respect of which the wages are payable.
+(2) Where the employment of any person is terminated by or on behalf of the employer, the wages earned by him shall be paid before the expiry of the second working day from the day on which his employment is terminated.
+(3) The Provincial Government may, by general or special order, exempt, to such extent and subject to such conditions as may be specified in the order, the person responsible for the payment of wages to persons employed upon any railway (otherwise than in a factory) from the operation of this section in respect of the wages of any such persons or class of such persons.
+(4) All payments of wages shall be made on a working-day.
+===
+SECTION: 7
+TITLE: Deductions which may be made from wages
+TEXT:
+(1) Notwithstanding the provisions of sub-section (2) of section 47 of the Railways Act, 1890 (IX of 1890), the wages of an employed person shall be paid to him without deductions of any kind except those authorised by or under this Act.
+Explanation.— Every payment made by the employed person to the employer or his agent shall, for the purposes of this Act, be deemed to be a deduction from wages.
+(2) Deductions from the wages of an employed person shall be made only in accordance with the provisions of this Act, and may be of the following kinds only, namely:—
+(a) fines;
+(b) deductions for absence from duty;
+(c) deductions for damage to or loss of goods expressly entrusted to the employed person for custody, or for loss of money for which he is required to account, where such damage or loss is directly attributable to his neglect or default;
+(d) deductions for house-accommodation supplied by the employer;
+(e) deductions for such amenities and services supplied by the employer as the Provincial Government may, by general or special order, authorise;
+Explanation.— The word “services” in this sub-clause does not include the supply of tools and raw materials required for the purposes of employment.
+(f) deductions for recovery of advances or for adjustment of over-payments of wages;
+(g) deductions of income-tax payable by the employed person;
+(h) deductions required to be made by order of a Court or other authority competent to make such order;
+(i) deductions for subscriptions to, and for repayment of advances from, any provident fund to which the Provident Funds Act, 1925 (XIX of 1925), applies or any recognised provident fund as defined in section clause (37) of section 2 of the Income Tax Ordinance, 1979 (XXXI of 1979), or any provident fund approved in this behalf by the Provincial Government, during the continuance of such approval;
+(j) deductions for payments to co-operative societies approved by the Provincial Government or to a scheme of insurance maintained by the Pakistan Post Office
+and (k) deductions, made with the written authorisation of the employed person, in furtherance of any War Savings Scheme, approved by the Provincial Government, for the purchase of securities of the Government of Pakistan, or the Government of the United Kingdom.
+===
+SECTION: 15
+TITLE: Claims arising out of deductions from wages or delay in payment of wages and penalty for malicious or vexatious claims
+TEXT:
+(1) The Provincial Government may, by notifications in the official Gazette, appoint any Commissioner for Workmen’s Compensation or other officer with experience as a Judge of a Civil Court or as a stipendiary Magistrate to be the authority to hear and decide for any specified area all claims arising out of deductions from the wages, or delay in payment of the wages, or non-payment of dues relating to provident fund or gratuity payable under any law, of persons employed or paid in that area.
+(2) Where contrary to the provisions of this Act any deduction has been made from the wages of an employed person, or any payment of wages or of any dues relating to provident fund or gratuity payable under any law, has been delayed, such person himself, or any legal practitioner or any official of a registered trade union authorised in writing to act on his behalf, or any Inspector under this Act, or any of the heirs of an employed person who has been died, or any other person acting with the permission of the authority appointed under sub-section (1), may apply to such authority for a direction under sub-section (3):
+Provided that every such application shall be presented within three years from the date on which the deduction from the wages was made or from the date on which the payment of the wages was due to be made, as the case may be:
+Provided further that any application may be admitted after the said period of three years when the applicant satisfies the authority that he had sufficient cause for not making the application within such period.
+(3) When any application under sub-section (2) is entertained, the authority shall hear the applicant and the employer or other person responsible for the payment of wages under section 3, or give them an opportunity of being heard, and, after such further inquiry (if any) as may be necessary, may, without prejudice to any other penalty to which such employer or other person is liable under this Act, direct the refund to the employed person or, if the applicant is one of the heirs of an employed person, the payment to such applicant, of the amount deducted, or the payment of the delayed wages, together with the payment of such compensation as the authority may think fit, not exceeding ten times the amount deducted in the former case and not exceeding ten rupees in the latter:
+Provided that no direction for the payment of compensation shall be made in the case of delayed wages if the authority is satisfied that the delay was due to—
+(a) a bonafide error or bonafide dispute as to the amount payable to the employed person, or
+(b) the occurrence of an emergency, or the existence of exceptional circumstances, such that the person responsible for the payment of the wages was unable, though exercising reasonable diligence, to make prompt payment, or
+(c) the failure of the employed person to apply for or accept payment.
+(4) If the authority hearing any application under this section is satisfied that it was either malicious or vexatious, the authority may direct that a penalty not exceeding fifty rupees be paid to the employer or other person responsible for the payment of wages by the person presenting the application.
+(5) any amount directed to be paid under this section may be recovered—
+(a) if the authority is a Magistrate, by the authority as if it were a fine imposed by him as Magistrate, and
+(b) if the authority is not a Magistrate, by the authority as an arrear of landrevenue, or, in the prescribed manner, by the authority by distress and sale of the movable property belonging to the person by whom the amount is to be paid, or by attachment and sale of the immovable property belonging to such person. to whom the authority makes application in this behalf, as if it were a fine imposed by such Magistrate.
+===

@@ -1,0 +1,72 @@
+SOURCE: https://punjablaws.punjab.gov.pk/uploads/articles/the_punjab_consumer_protection_act_2005-pdf.pdf
+DATE_CHECKED: 2026-11-01
+===
+SECTION: 2 (selected definitions)
+TITLE: Definitions
+TEXT:
+(c) “consumer” means a person or entity who–
+(i) buys or obtains on lease any product for a consideration and includes any user of such product but does not include a person who obtains any product for resale or for any commercial purpose; or
+(ii) hires any services for a consideration and includes any beneficiary of such services;
+Explanation: for the purposes of sub-clauses (i) and (ii):
+(a) the expression “buys or obtains on lease any product” and “hires any services” includes offline or online transactions through electronic means or teleshopping or direct selling or multi-level marketing; and
+(b) the expression “commercial purpose” does not include use by a consumer of products bought and used by him only for the purpose of his livelihood as a self-employed person.
+(d) “damage” means all damage caused by a product or service including damage to the product itself and economic loss arising from a deficiency in or loss of use of the product or service;
+(e) “entity” means an organization that has a legal identity apart from its members;
+(j) “product” has the same meaning as assigned to the word “goods” in the Sale of Goods Act, 1930, and includes products which have been subsequently incorporated into another product or an immovable but does not include animals or plants or natural fruits and other raw products, in their natural state, that are derived from animals or plants;
+(k) “services” includes the provision of any kind of facilities or advice or assistance such as provision of medical, legal or engineering services but does not include–
+(i) the rendering of any service under a contract of personal service;
+(ii) the rendering of non-professional services like astrology or palmistry; or
+(iii) a service, the essence of which is to deliver judgment by a court of law or arbitrator;
+===
+SECTION: 25
+TITLE: Filing of Claims
+TEXT:
+A claim for damages arising out of contravention of any provisions of this Act shall be filed before a Consumer Court set up under this Act.
+===
+SECTION: 26
+TITLE: Consumer Courts
+TEXT:
+(1) The Lahore High Court shall, by notification, designate a District Judge or an Additional District Judge in each district, having specific area of jurisdiction, as Consumer Court to try cases under the Act:
+Provided that the Lahore High Court may notify one or more such Courts in a district and in case of more than one Consumer Courts in a district, the senior judge of such Courts shall act as the administrative judge of the Consumer Courts in that district.
+===
+SECTION: 27
+TITLE: Jurisdiction of Consumer Courts
+TEXT:
+Subject to the provisions of this Act, the Consumer Court shall have jurisdiction to entertain complaints within the local limits of whose jurisdiction–
+(a) the defendant or each of the defendants, where there are more than one, at the time of filing of the claim, actually and voluntarily resides or carries on business or personally works for gain; or
+(b) any of the defendants where there are more than one, at the time of the filing of the claim, actually and voluntarily resides, or carries on business, or personally works for gain; provided that in such a case the permission is granted by the Consumer Court or the defendants who do not reside, or carry on business, or personally work for gain, as the case may be, acquiesce in such institution; or
+(c) the cause of action wholly or in part arises.
+===
+SECTION: 30
+TITLE: [heading PDF se dekh kar likho]
+TEXT:
+(1) [BEGINNING MISSING: PDF mein section 30 dhoondo aur "(1) The Consumer Court shall, on receip" tak ka hissa yahan copy karo] t of a claim if it relates to any products,–
+(a) forward a copy of the claim to the defendant mentioned in the claim directing him to file his written statement within a period of fifteen days or such extended period not exceeding fifteen days;
+(b) where the defendant, on receipt of claim referred to him under clause (a), denies or disputes the allegations contained in the claim, or omits or fails to present his case within the time specified, as the case may be, the Consumer Court shall proceed to settle the consumer dispute in the manner specified hereafter;
+(c) where the claim alleges that products are defective and do not conform to the accepted industry standards, the Consumer Court may decide the dispute on the basis of the evidence relating to the accepted industry standards and by inviting expert evidence in this regard;
+(2) The Consumer Court shall, if the claim relates to any services,–
+(a) forward a copy of such claim to the defendant directing him to file his written statement within a period of fifteen days or such extended period not exceeding fifteen days as may be granted by the Consumer Court; and
+(b) on receipt of the written statement of the defendant, if any, under clause (a), proceed to settle the dispute on the basis of evidence produced by both the parties:
+Provided that if the defendant does not deny or dispute the allegations made in the complaint or fails to present his case within the specified period, the dispute shall be settled on the basis of the evidence brought by the claimant.
+(5) The Consumer Court shall decide the claim within six months after the service of summons on the respondent.
+===
+SECTION: 31
+TITLE: Order of Consumer Court
+TEXT:
+If, after the proceedings conducted under this Act, the Consumer Court is satisfied that the products complained against suffer from any of the defects specified in the claim or that any or all of the allegations contained in the claim about the services provided are true, it shall issue an order to the defendant directing him to take one or more of the following actions, namely:–
+(a) to remove defect from the products in question;
+(b) to replace the products with new products of similar description which shall be free from any defect;
+(c) to return to the claimant the price or, as the case may be, the charges paid by the claimant;
+(d) to do such other things as may be necessary for adequate and proper compliance with the requirements of this Act;
+(e) to pay reasonable compensation to the consumer for any loss suffered by him due to the negligence of the defendant;
+(f) to award damages where appropriate;
+(g) to award actual costs including lawyers’ fees incurred on the legal proceedings;
+(h) to recall the product from trade or commerce;
+(i) to confiscate or destroy the defective product;
+(j) to remedy the defect in such period as may be deemed fit; or
+(k) to cease to provide the defective or faulty service until it achieves the required standard.
+===
+SECTION: 33
+TITLE: Appeal
+TEXT:
+Any person aggrieved by any final order of the Consumer Court may file an appeal in the Lahore High Court within 30 days of such order.

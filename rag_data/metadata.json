@@ -1,0 +1,298 @@
+[
+  {
+    "folder": "authorities",
+    "file": "consumer_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "cyber_and_fraud_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "cyber_and_fraud_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "cyber_and_fraud_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "cyber_and_fraud_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "cyber_and_fraud_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "labour_family_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "labour_family_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "labour_family_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "labour_family_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "labour_family_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "labour_family_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "utilities_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "utilities_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "utilities_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "utilities_authorities.txt"
+  },
+  {
+    "folder": "authorities",
+    "file": "utilities_authorities.txt"
+  },
+  {
+    "folder": "banking",
+    "file": "banking_mohtasib_order_2006.txt"
+  },
+  {
+    "folder": "banking",
+    "file": "negotiable_instruments_act_1881.txt"
+  },
+  {
+    "folder": "banking",
+    "file": "payment_systems_eft_act_2007.txt"
+  },
+  {
+    "folder": "banking",
+    "file": "ppc_489f.txt"
+  },
+  {
+    "folder": "business",
+    "file": "partnership_act_1932.txt"
+  },
+  {
+    "folder": "consumer",
+    "file": "province_map.txt"
+  },
+  {
+    "folder": "consumer",
+    "file": "punjab_consumer_protection_act_2005.txt"
+  },
+  {
+    "folder": "consumer",
+    "file": "sale_of_goods_act_1930.txt"
+  },
+  {
+    "folder": "cyber",
+    "file": "peca_2016.txt"
+  },
+  {
+    "folder": "cyber",
+    "file": "ppc_cyber_related.txt"
+  },
+  {
+    "folder": "education",
+    "file": "hec_ordinance_2002.txt"
+  },
+  {
+    "folder": "education",
+    "file": "punjab_private_educational_institutions_ordinance_1984.txt"
+  },
+  {
+    "folder": "employment",
+    "file": "eobi_act_1976.txt"
+  },
+  {
+    "folder": "employment",
+    "file": "industrial_relations_act_2012.txt"
+  },
+  {
+    "folder": "employment",
+    "file": "payment_of_wages_act_1936.txt"
+  },
+  {
+    "folder": "employment",
+    "file": "punjab_domestic_workers_act_2019.txt"
+  },
+  {
+    "folder": "employment",
+    "file": "standing_orders_ordinance_1968.txt"
+  },
+  {
+    "folder": "family",
+    "file": "dissolution_of_muslim_marriages_act_1939.txt"
+  },
+  {
+    "folder": "family",
+    "file": "dowry_and_bridal_gifts_act_1976.txt"
+  },
+  {
+    "folder": "family",
+    "file": "family_courts_act_1964.txt"
+  },
+  {
+    "folder": "family",
+    "file": "guardians_and_wards_act_1890.txt"
+  },
+  {
+    "folder": "family",
+    "file": "mflo_1961.txt"
+  },
+  {
+    "folder": "family",
+    "file": "muslim_personal_law_shariat_act_1962.txt"
+  },
+  {
+    "folder": "family",
+    "file": "punjab_protection_of_women_act_2016.txt"
+  },
+  {
+    "folder": "family",
+    "file": "punjab_womens_property_rights_act_2021.txt"
+  },
+  {
+    "folder": "general",
+    "file": "contract_act_1872.txt"
+  },
+  {
+    "folder": "general",
+    "file": "defamation_ordinance_2002.txt"
+  },
+  {
+    "folder": "general",
+    "file": "limitation_act_1908.txt"
+  },
+  {
+    "folder": "general",
+    "file": "qanun_e_shahadat_1984.txt"
+  },
+  {
+    "folder": "harassment",
+    "file": "workplace_harassment_act_2010.txt"
+  },
+  {
+    "folder": "healthcare",
+    "file": "pakistan_medical_commission_act_2020.txt"
+  },
+  {
+    "folder": "healthcare",
+    "file": "punjab_healthcare_commission_act_2010.txt"
+  },
+  {
+    "folder": "insurance_invest",
+    "file": "insurance_ordinance_2000.txt"
+  },
+  {
+    "folder": "insurance_invest",
+    "file": "securities_act_2015.txt"
+  },
+  {
+    "folder": "ip",
+    "file": "copyright_ordinance_1962.txt"
+  },
+  {
+    "folder": "ip",
+    "file": "trade_marks_ordinance_2001.txt"
+  },
+  {
+    "folder": "ombudsman",
+    "file": "wafaqi_mohtasib_order_1983.txt"
+  },
+  {
+    "folder": "police",
+    "file": "constitution_articles.txt"
+  },
+  {
+    "folder": "police",
+    "file": "crpc_1898.txt"
+  },
+  {
+    "folder": "police",
+    "file": "police_order_2002.txt"
+  },
+  {
+    "folder": "property",
+    "file": "cooperative_societies_act_1925.txt"
+  },
+  {
+    "folder": "property",
+    "file": "punjab_land_revenue_act_1967.txt"
+  },
+  {
+    "folder": "property",
+    "file": "specific_relief_act_1877.txt"
+  },
+  {
+    "folder": "rent",
+    "file": "illegal_dispossession_act_2005.txt"
+  },
+  {
+    "folder": "rent",
+    "file": "province_map.txt"
+  },
+  {
+    "folder": "rent",
+    "file": "punjab_rented_premises_act_2009.txt"
+  },
+  {
+    "folder": "rent",
+    "file": "registration_act_1908.txt"
+  },
+  {
+    "folder": "rent",
+    "file": "transfer_of_property_act_1882.txt"
+  },
+  {
+    "folder": "telecom",
+    "file": "pta_reorganization_act_1996.txt"
+  },
+  {
+    "folder": "travel_courier",
+    "file": "caa_ordinance_1960.txt"
+  },
+  {
+    "folder": "travel_courier",
+    "file": "emigration_ordinance_1979.txt"
+  },
+  {
+    "folder": "travel_courier",
+    "file": "pakistan_post_office_act_1898.txt"
+  },
+  {
+    "folder": "utilities",
+    "file": "electricity_act_1910.txt"
+  },
+  {
+    "folder": "utilities",
+    "file": "gas_theft_control_act_2016.txt"
+  },
+  {
+    "folder": "utilities",
+    "file": "nepra_act_1997.txt"
+  },
+  {
+    "folder": "utilities",
+    "file": "ogra_ordinance_2002.txt"
+  },
+  {
+    "folder": "vehicle",
+    "file": "motor_vehicles_ordinance_1965.txt"
+  }
+]

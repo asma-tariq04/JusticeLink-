@@ -1,0 +1,37 @@
+SOURCE: https://os.phc.org.pk/downloads/PHC_Final_Act.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: [number kata hua, paste mein nahi]
+TITLE: Medical negligence
+TEXT:
+(1) Subject to sub-section (2), a healthcare service provider may be held guilty of medical negligence on one of the following two findings:-
+19. the healthcare establishment does not have the requisite human resource and equipments which it professes to have possessed; or he or any of his employee did not, in the given case, exercise with reasonable competence the skill which he or his employee did possess.
+===
+SECTION: 22
+TITLE: Inspection
+TEXT:
+(1) The Commission may, by order in writing, appoint an inspection team to perform the functions and exercise the powers of the Commission in relation to inspections under this Act, rules
+The inspection team may inspect a healthcare establishment:
+(a) at the time of issuance and renewal of license; or
+(b) on receipt of a complaint.
+(3) The inspection team may inspect any apparatus, appliance, equipment, instrument, product, goods or item used or found in, or any practice or procedure being carried out at, the healthcare establishment.
+The inspection team may enquire any case if there has been any instance or allegation of maladministration, malpractice or failure in the provision of healthcare services against a healthcare establishment.
+The Commission may impose a fine upon a healthcare service provider who–
+(4) (5)
+refuses or fails, without reasonable cause, to furnish any information to the inspection team; or
+gives any false or misleading information to the inspection team.
+(a) (b)
+(6) Except in the case of a prosecution for an offence under this Act, a member of the inspection team shall not be bound to give evidence in any proceedings in respect of, or to produce any document containing, any information which has been obtained from any healthcare establishment in the course of carrying out any investigation, inspection, enquiry or performing any duty or function under this Act.
+A member of the inspection team shall not disclose any information at any forum which is contained in the medical record, or which relates to the condition, treatment or diagnosis, of any person, as may have come to his knowledge in the course of carrying out any investigation, inspection, enquiry or performing any duty or function under this Act unless allowed in writing by the Commission.
+===
+SECTION: 23
+TITLE: [title kata hua, paste mein nahi]
+TEXT:
+An aggrieved person may, within sixty days from the date of knowledge of the cause of action, file a complaint against a healthcare service provider or healthcare establishment by submitting an application in writing supported by an affidavit of the aggrieved person.
+===
+SECTION: [number kata hua, paste mein nahi]
+TITLE: Procedure of investigation
+TEXT:
+(1) The Commission shall prescribe the procedure for the conduct of investigation to be carried out by the Commission under this Act.
+The Commission shall not entertain an anonymous or pseudonymous complaint against a healthcare service provider or healthcare establishment.
+===

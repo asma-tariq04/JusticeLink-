@@ -1,0 +1,173 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administratora4ef8d40e3d97faef49343d2242e0c3a.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 14
+TITLE: Absolute grounds for refusal of registration
+TEXT:
+(1) The following shall not be registered, namely: ___
+(a) marks which do not satisfy the requirements of clause (xlvii) of section 2;
+(b) trade marks which are devoid of any distinctive character;
+(c) trade marks which consist exclusively of marks or indications which may serve, in trade, to designate the kind, quality, quantity, intended purpose, value, geographical origin, the time of production of goods or of rendering of services, or other characteristics of goods or services; and
+(d) trade mark which consist exclusively of marks or indications which have become customary in the current language or in the bone fide and established practices of the trade;
+Provided that a trade mark shall not be refused registration by virtue of clause (b), (c) or (d) if, before the date of application for registration, it has, in fact, acquired a distinctive character as a result of the use made of it or is a well known trade mark.
+(2) A mark shall not be registered as a trade mark if it consists exclusively of___
+(a) the shape which results from the nature of the goods themselves;
+(b) the shape of goods which is necessary to obtain a technical result; or
+(c) the shape of which gives substantial value to the goods.
+(3) No trade mark on any part thereof in respect of any goods or services shall be registered which consists of, or contains, any scandalous design, or any matter the use of which would___
+(a) by reasons of its being likely to deceive or to cause confusion or otherwise, be disentitled to protection in the High Court.
+(b) be likely to hurt the religious susceptibilities of any class of citizens of Pakistan, per se, or in terms of goods or services it is intended to be so registered; or
+(c) be contrary to any law, for the time being in force, or morality.
+(4) A trade mark shall not be registered if or to the extent that the application is made in bad faith.
+===
+SECTION: 15
+TITLE: Limitation as to colour
+TEXT:
+(1) A trade mark may be limited wholly or in part to one or more specified colours, and any such limitation shall be taken into consideration by any tribunal having to decide on the distinctive character of the trade mark.
+(2) So far as a trade mark is registered without limitation of colour it shall be deemed to be registered for all colours.
+===
+SECTION: 16
+TITLE: Use of names of chemical compounds barred
+TEXT:
+(1) No word which is the commonly used and accepted name of any single chemical element or single chemical compound as distinguished from a mixture or which is declared by the World Health Organization and notified in the prescribed manner by the Registrar, from time to time, as an international non-proprietary name shall be registered as a trade mark in respect of a chemical substance or preparation, and any such registration shall, notwithstanding anything in section 44, be deemed for the purposes of section 98 to be an entry made in the Register without sufficient cause or an entry wrongly remaining on the Register, as the circumstances may require.
+(2) This section shall not apply to a word which is used to denote only a brand or make of the element or compound as made by the proprietor or a license of the trade mark, as distinguished from the element or compound as made by others, and in association with a suitable name or description open to the public use.
+===
+SECTION: 17
+TITLE: Relative grounds for refusal of registration
+TEXT:
+(1) A trade mark shall not be registered if it is identical with an earlier trade mark and the goods or services, for which the trade mark is applied for, are identical with the goods or services for which the earlier trade mark is registered.
+(2) A trade mark shall not be registered because___
+(a) it is identical with an earlier trade mark and is to be registered for goods or services similar to those for which the earlier trade mark is registered; or
+(b) it is similar to an earlier trade mark and is to be registered for goods or services identical with or similar to those for which the earlier trade mark is registered,
+and there exists a likelihood of confusion on the part of the public which includes the likelihood of association with the earlier trade mark.
+(3) A trade mark which___
+(a) is identical with or similar to an earlier trade mark; and
+(b) is to be registered for goods or services which are not similar to those for which the earlier trade mark is registered,
+shall not be registered if, or to the extent that, the earlier trade mark has a reputation in Pakistan and the use of the later mark without due cause would take unfair advantage of, or be detrimental to, the distinctive character or the repute or the earlier trade mark.
+(4) A trade mark shall not be registered if, or to the extent that, its use in Pakistan is liable to be prevented__
+(a) by virtue of any law, in particular, the law of passing off, protecting an unregistered trade mark or other mark used in the course of trade; or
+(b) by virtue of an earlier right other than those referred to in sub-section (1), (2) and (3) or clause (a) of this sub-section, in particular by virtue of the law of copyright design right or registered designs.
+(5) Nothing in this section shall prevent the registration of a trade mark where the proprietor of the earlier trade mark or other earlier right consents to the registration.
+(6) Where separate applications arc made by different persons to be registered as proprietors respectively of trade marks which are identical or nearly resemble each other, in respect of the same goods or description of goods, or services or description of services the Registrar, if thinks fit, may refuse to register any of them until their rights have been determined by the High Court
+===
+SECTION: 18
+TITLE: Meaning of “earlier trade mark”
+TEXT:
+(1) In this Ordinance, “earlier trade mark” means___
+(a) a registered trade mark or a Convention trade mark as per the Paris Convention which has a date of application for registration earlier than that of the trade mark in question, taking account, where appropriate, of the priorities claimed in respect of the trade marks;
+(b) a trade mark filed under sub-section (1) of section 26; or
+(c) a trade mark which, on the date of application for registration of the trade mark in question, or where appropriate, of the priority claimed in respect of the application was entitled to protection under the Paris Convention as a well known trade mark.
+(2) References in this Ordinance to an earlier trade mark include a trade mark in respect of which an application for registration has been made and which, if registered, would be an earlier trade mark by virtue of clause (a) or (b) of sub-section (1), subject to its being so registered.
+(3) A trade mark shall, within clause (a) or (b) of sub-section (1), whose registration expires continue to be taken into account in determining the registrability of a later mark for a period of one year after the expiry unless the Registrar is satisfied that there was no bona fide use of the mark during two years immediately preceding the expiry.
+===
+SECTION: 19
+TITLE: Raising of relative grounds in case of honest concurrent use
+TEXT:
+(1) Where on application for the registration of a trade mark it appears to the Registrar that there is___
+===
+SECTION: 20
+TITLE: Registration of parts of trade marks and of trade marks as a series
+TEXT:
+(1) Where the proprietor of a trade mark claims to be entitled to exclusive use of any part thereof separately, he may apply to register the whole and the part as separate trade marks.
+(2) Each such separate trade mark shall satisfy all the conditions applying to, and have all the incidents of an independent trade mark.
+(3) Where a person claiming to be the proprietor of several trade marks in respect of the same goods or services or description of goods or description of services which while resembling each other in the material particulars thereof are yet different in respect of___
+(a) statements or representations as to the goods or services in relation to which the trade marks are respectively used or proposed to be used;
+(b) statements or representations as to number, price, quality or names of places;
+(c) other matter of a non-distinctive character which does not substantially affect the identity of the trade mark; or
+(d) the colour or any part of the trade mark.
+seeks to register those trade marks, they may be registered as a series in one registration.
+===
+SECTION: 21
+TITLE: Registration subject to disclaimer
+TEXT:
+If a trade mark contains___
+(a) any part not separately registered as a trade mark in the name of the proprietor;
+(b) any part for the separate registration of which no application has been made; or
+(c) any matter common to the trade, or otherwise of a non-distinctive character.
+the tribunal, in deciding whether the trade mark shall be entered or shall remain on the Register, may require, as a condition of its being on the Register, that the proprietor shall either disclaim any right to the exclusive use of such part or of all or any portion of such matter, as the case may be, to the exclusive use of which the tribunal holds him not to be entitled, or make such other disclaimer as the tribunal may consider necessary for the purpose of defining the rights of the proprietor under the registration;
+Provided that no disclaimer shall affect any rights of the proprietor of a trade mark except such as arise out of the registration of the trade mark in respect of which the disclaimer is made.
+===
+SECTION: 39
+TITLE: Rights conferred by registration
+TEXT:
+(1) A registered trade mark shall be a personal property.
+(2) The proprietor of a registered trade mark shall have exclusive rights in the trade mark which are infringed by use of the trade mark in Pakistan without his consent.
+(3) Without prejudice to the rights of the proprietor of a registered trade mark to obtain any relief under any other law for the time being in force, the proprietor shall also have the right to obtain relief under this Ordinance if the trade mark is infringed.
+(4) References in this Ordinance to the infringement of a registered trade mark shall be to any such infringement of the rights of the proprietor.
+(5) The rights of the proprietor shall have effect from the date of registration:
+Provided that no infringement proceedings shall begin before the date on which the trade mark is in fact registered.
+(6) The rights conferred by registration of trade marks under this Ordinance shall extend to trade marks registered under the Trade Marks Act, 1940 (V of 1940).
+===
+SECTION: 40
+TITLE: Infringement of registered trade mark
+TEXT:
+(1) A person shall infringe a registered trade mark if such person uses in the course of trade a mark which is identical with the trade mark in relation to goods or services which are identical with those for which it is registered.
+(2) A person shall infringe a registered trade mark if such person uses in the course of trade a mark where because___
+(a) the mark is identical with the trade mark and is used in relation to goods or services similar to the goods or services for which the trade mark is registered; or
+(b) the mark is deceptively similar to the trade mark and is used in relation to goods or services identical with or similar to the goods or services for which the trade mark is registered,
+there exists a likelihood of confusion on the part of public, which includes the likelihood of association with the trade mark.
+(3) A person shall infringe a registered trade mark if the person uses in the course of trade a mark which is identical with, or deceptively similar to, the trade mark in relation to—
+(a) goods of the same description as that of goods in respect of which the trade mark is registered;
+(b) services that are closely related to goods in respect of which the trade mark is registered;
+(c) services of the same description as that of services in respect of which the trade mark is registered; or
+(d) goods that are closely related to services in respect of which the trade mark is registered.
+(4) A person shall infringe a registered trade mark if the person uses in the course of trade a mark which___
+(a) is identical with or deceptively similar to the trade mark; and
+(b) is used in relation to goods or services which are not similar to those for which the trade mark is registered, where the trade mark is a well known trade mark, or has a reputation in Pakistan, and the use of the mark, being without due cause, takes unfair advantage of, or is detrimental to, the distinctive character or the repute of the trade mark
+(5) A person shall infringe a registered trade mark if the person uses such registered trade mark as his trade name or part of his trade name.
+(6) A person shall infringe a registered trade mark if the person uses such registered trade mark as his domain name or part of his domain name or obtains such domain name without the consent of the proprietor of the registered trade mark, with the intention of selling such domain name to another including the proprietor of the registered trade mark.
+(7) A person who applies a registered trade mark to material intended to be used for labeling or packaging goods shall be treated as a party to any use of the material which infringes the registered trade mark if when he applied the mark he knew or had reason to believe that the application of the mark was not duly authorised by the proprietor or a licensee.
+(8) In all legal proceedings, a person who sells or offers or exposes goods for sale, or puts them on the market or has in possession for sale or any purpose of trade or manufacture any goods bearing a mark which infringes a registered trade mark shall be treated as a party to infringement of a registered trade mark, unless he proves that___
+(a) having taken all reasonable precautions, he had no reasons to suspect the genuineness of the mark; and
+b) on demand made by tribunal, he gave all the information in his power with respect to the persons from whom he obtained such goods; or
+(c) he had, otherwise acted innocently.
+===
+SECTION: 41
+TITLE: Infringement of trade mark by breach of certain restrictions
+TEXT:
+Subject to the provisions of section 42, if the proprietor of a registered trade mark or a licensee having power to do so, has caused to be displayed on goods the words “registered goods” in respect of which a trade mark is registered, or on their packaging, or on the container in which they are offered to the public, a notice prohibiting any of the following acts___
+(a) apply the trade mark to registered goods or using the trade mark in physical relation to them, after the state, condition, get-up or packaging in which they were originally offered to the public has been altered;
+(b) altering, or partially removing or obliterating, any representation of the trade mark applied to registered goods and used in physical relation to them;
+(c) if the trade mark has been applied to registered goods, or used in physical relation to them, together with other matter indicating that the proprietor or the licensee has dealt with the goods, removing or obliterating, totally or in part, any representation of the trade mark without totally removing or obliterating the other matters;
+(d) applying another trade mark to registered goods or using another trade mark in physical relation to them; or
+(e) if the trade mark has been applied to registered goods, or used in physical relation to them, using on the goods, or on the packaging or container of the goods, any matter that is likely to injure the repute of the trade mark.
+a person who does or authorizes someone to do any of the foregoing prohibiting acts shall be liable for infringement of the trade mark:
+Provided that the trade mark shall not be infringed if the owner of the goods acquired them in good faith and without being aware of the notice of prohibition, or became the owner of the goods by virtue of a title derived from a person who has so acquired them.
+===
+SECTION: 42
+TITLE: When a trade mark is not infringed
+TEXT:
+(1) A person shall not infringe a registered trade mark when___
+(a) the person uses in good faith___
+(i) the person's name or the name of the person's place of business, so long as such use does not result in a likelihood of confusion or otherwise interfere with an existing trade mark or other property right; or
+(ii) the name of the predecessor in business of the person or the name of the predecessor's place of business;
+(b) the person uses a mark in good faith to indicate__
+(i) the kind, quality, quantity, intended purpose, value, geographical origin, or some other characteristic, of goods or services; or
+(ii) the time of production of goods or of the rendering of services;
+(c) the person uses the trade mark in good faith to indicate the intended purpose of goods, in particular as accessories or spare parts, or services; or
+(d) the person uses the trade mark for the purposes of comparative advertising.
+(2) If the right to the use of a trade mark given under section 39 by registration is subject to any conditions or limitations entered on the Register, such right shall not be deemed to be infringed by the use of any such trade mark as aforesaid in any mode, in relation to goods to be sold or otherwise traded in or in relation to services provided by, in any place, or in relation to goods or services to be exported to any market, or in any other circumstances, to which, having regard to any such limitations the registration does not extend.
+===
+SECTION: 46
+TITLE: Action for infringement
+TEXT:
+(1) Save as otherwise provided in this Ordinance, an infringement of a registered trade mark shall be actionable by the proprietor of the trade mark.
+(2) In an action for infringement all such relief by way of damages, injunctions, accounts or otherwise shall be available to the proprietor of the trade mark as is available in respect of the infringement of any other property right.
+(3) Nothing in this Ordinance shall be deemed to affect rights of action against any person for passing off goods as the goods of another person or services as services provided by another person, or the remedies in respect thereof.
+===
+SECTION: 47
+TITLE: Order for erasure of offending mark
+TEXT:
+(1) Where a person is found to have infringed a registered trade mark, the High Court or an IP Tribunal may make an order requiring him___
+(a) to cause the offending trade mark to be erased, removed or obliterated from any infringing goods, material or articles in his possession, custody or control; or
+(b) to secure the destruction of the infringing goods, material or articles, if is not reasonably practicable for the offending trade mark to be erased, removed or obliterated.
+(2) If an order under sub-section (1) is not complied with, or it appears to the High Court or IP Tribunal likely that such an order would not be complied with, the High Court or an IP Tribunal may order that infringing goods, material or articles be delivered to such person as the High Court or an IP Tribunal may direct for erasure, removal or obliteration of the mark, or for destruction, as the case may be.
+===
+SECTION: 48
+TITLE: Order for delivery up of infringing goods, material or articles
+TEXT:
+(1) The proprietor of a registered trade mark may apply to the High Court or an IP Tribunal for an order for the delivery up to him, or such other person as the High Court or an IP Tribunal may direct, of any infringing goods, material or articles which a person has in his possession, custody or control in the course of a business.
+(2) An application shall not be made after the expiry of the period specified in section 50, and no order shall be made unless the High Court or an IP Tribunal also makes, or it appears to the High Court or an IP Tribunal that there are grounds for making, an order under section 51.
+(3) A person to whom any infringing goods, material or articles are delivered in pursuance of an order under this section shall, if an order under section 51 has not been made, retain them pending the making of an order, or the decision not to make an order, under that section.
+(4) Nothing in this section shall affect any other power of the High Court or an IP Tribuna
+===

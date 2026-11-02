@@ -1,0 +1,44 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator964ce81cc171ed5dcd0960630e922422.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 2 (selected definitions)
+TITLE: Definitions
+TEXT:
+In this Act, unless there is anything repugnant in the subject or context,—
+(i) “arbitrator” means a person appointed as such under Section 40;
+(ii) “award” means the determination by the Commission or Arbitrator of any industrial dispute or any matter relating thereto and includes an interim award;
+(iii) “Bench” and “Full Bench” mean a Bench and Full Bench of the Commission;
+(iv) “collective bargaining agent” in relation to an establishment, group of establishments or industry, means the trade union of the workmen which under Section 19, is the agent of workmen in the establishment or, as the case may be, industry, in the matter of collective bargaining;
+(v) “collective bargaining unit” means those workers or class of workers of an employer in one or more establishment falling within the same class of industry whose terms and conditions of employment are, or could appropriately be, the subject of collective bargaining together;
+(vi) “Commission” means the Industrial Relations Commission constituted under Section 53;
+(vii) “conciliation proceedings” means any proceedings before a conciliator;
+(viii) “Conciliator” means a person appointed as such under Section 36;
+(ix) “employer” in relation to an establishment, means any person or body of persons, whether incorporated or not, who or which employs workmen in the establishment under a contract of employment and includes—
+(a) an heir, successor or assign, as the case may be, of such person or body as aforesaid;
+(b) any person responsible for the management and control of the establishment
+(xxvii) “Registrar” means a Registrar of trade unions appointed under Section 4;
+(xxviii) “rules” and “regulations” mean rules and regulations made under this Act;
+(xxix) “settlement” means a settlement arrived at in the course of a conciliation proceeding, and includes an agreement between an employer and his workmen where there is no Collective Bargaining Agent, or Collective Bargaining Agent, as the case may be, arrived at or in the course of any conciliation proceedings, where such agreement is in writing, has been signed by the parties thereto in such manner as may be prescribed and a copy thereof has been sent to the Government, the Conciliator and such other person as may be prescribed;
+(xxx) “strike” means a cessation of work by a body of persons employed in any establishment acting in combination or a concerted refusal, or refusal under a common understanding of any number of persons who have been so employed to continue to work or to accept employment;
+(xxxi) “trade union” means any combination of workmen or employers formed primarily for the purpose of regulating the relations between workmen and employers, or workmen and workmen or employers and employers, or for imposing restrictive conditions on the conduct of any trade or business, and includes a federation of two or more trade unions;
+(xxxii) “trans-provincial” means any establishment, group of establishments, industry, having its branches in more than one province;
+(xxxiii) “worker” and “workman” mean person not falling within the definition of employer who is employed (including employment as a supervisor or as an apprentice) in an establishment or industry for hire or reward either directly or through a contractor whether the terms of employment are express or implied, and, for the purpose of any proceedings under this Act in relation to an industrial dispute includes a person who has been dismissed, discharged, retrenched, laid off or otherwise removed from employment in connection with or as a consequence of that dispute or whose dismissal, discharge, retrenchment, lay-off, or removal has led to that dispute but does not include any person who is employed mainly in managerial or administrative capacity.
+===
+SECTION: 33
+TITLE: Redress of individual grievances
+TEXT:
+(1) A worker may bring his grievance in respect of any right guaranteed or secured to him by or under any law or any award or settlement for the time being in force to the notice of his employer in writing, either himself or through his shop steward or collective bargaining agent within ninety days of the day on which the cause of such grievance arises.
+(2) Where a worker himself brings his grievance to the notice of the employer, the employer shall, within fifteen days of the grievance being brought to his notice, communicate his decision in writing to the worker.
+(3) Where a worker brings his grievance to the notice of his employer through his shop steward or collective bargaining agent, the employer shall, within seven days of the grievance being brought to his notice, communicate his decision in writing to the shop steward or as the case may be the collective bargaining agent.
+(4) If the employer fails to communicate a decision within the period specified in sub-section (2) or, as the case may be sub-section (3), or if the worker is dissatisfied with such decision, the worker or the shop steward may take the matter to his collective bargaining agent or to the Commission or, as the case may be, the collective bargaining agent may take the matter to the Commission, and where the matter is taken to the Commission, it shall give a decision within seven days from the date of the matter being brought before it as if such matter were an industrial dispute:
+Provided that a worker who desires to so take the matter to the Commission shall do so within a period of sixty days from the date of the communication of the employer or, as the case may be, from the expiry of the period mentioned in sub-section (2), or sub-section (3), as the case may be.
+(5) In adjudicating and determining a grievance under sub-section (4), the Commission shall go into all the facts of the case and pass such orders as may be just and proper in the circumstances of the case.
+(6) If a decision under sub-section (4) or an order under sub-section (5) given by the Commission or a decision in an appeal against such a decision or order is not given effect to or complied with within seven days or within the period specified in such order or decision, the defaulter shall be punishable
+(7) No person shall be prosecuted under sub-section (6) except on a complaint in writing—
+(a) by the workman if the order or decision in his favour is not implemented within the period specified therein; or
+(b) by the Commission if an order or decision thereof is not complied with.
+(8) For the purposes of this section, workers having common grievance arising out of a common cause of action may make a joint application to the Commission.
+(9) Any collective bargaining agent or any employer may apply to the Commission for the enforcement of any right guaranteed or secured to it or him by or under any law or any award or settlement.
+(10) There shall be a Tripartite Council for review of grievances of workers in the Islamabad Capital Territory comprising not less than three members each of the workers, employers and the Government:
+Provided that the representatives of the workers and the employers shall be nominated by the Government after consultation with registered trade unions and employers’ organizations to be notified in the Official Gazette
+===

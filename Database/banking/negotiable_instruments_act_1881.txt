@@ -1,0 +1,37 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator2bbb145adb573172ec68151f4e70dfb5.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 6
+TITLE: Cheque
+TEXT:
+A “cheque” is a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.
+===
+SECTION: 91
+TITLE: Dishonour by non-acceptance
+TEXT:
+A bill of exchange is said to be dishonoured by nonacceptance when the drawee, or one of several drawees not being partners, makes default in acceptance upon being duly required to accept the bill, or where presentment is excused and the bill is not accepted. Where the drawee is incompetent to contract, or the acceptance is qualified, the bill may be treated as dishonoured.
+===
+SECTION: 92
+TITLE: Dishonour by non-payment
+TEXT:
+A promissory note, bill of exchange or cheque is said to be dishonoured by non-payment when the maker of the note, acceptor of the bill or drawee of the cheque makes default in payment upon being duly required to pay the same.
+===
+SECTION: 93
+TITLE: By and to whom notice should be given
+TEXT:
+When a promissory note, bill of exchange or cheque is dishonoured by non-acceptance or non-payment, the holder thereof, or some party thereto who remains liable thereon, must give notice that the instrument has been so dishonoured to all other parties whom the holder seeks to make severally liable thereon, and to some one of several parties whom he seeks to make jointly liable thereon.
+When a bill of exchange is dishonoured by non-acceptance the drawer or any indorser to whom such notice is not given is discharged; but the rights of a holder in due course subsequent to the omission to give notice shall not be prejudiced by that omission. When a bill of exchange is dishonoured by non-acceptance and due notice of dishonour is given, it shall not be necessary to give notice of a subsequent dishonour by non-payment, unless the bill shall, in the meantime, have been accepted.
+Nothing in this section renders it necessary to give notice to the maker of the dishonoured promissory note or the drawee or acceptor of the dishonoured bill of exchange or cheque.
+===
+SECTION: 118
+TITLE: Presumptions as to negotiable instruments
+TEXT:
+Until the contrary is proved, the following presumptions shall be made:
+(a) of consideration; that every negotiable instrument was made or drawn for consideration, and that every such instrument, when it has been accepted, indorsed, negotiated or transferred, was accepted, indorsed, negotiated or transferred for consideration;
+(b) as to date; that every negotiable instrument bearing a date was made or drawn on such date;
+(c) as to time of acceptance; that every accepted bill of exchange was accepted within a reasonable time after its date and before its maturity;
+(d) as to time of transfer; that every transfer of a negotiable instrument was made before its maturity;
+(e) as to order of indorsement; that the indorsements appearing upon a negotiable instrument were made in the order in which they appear thereon;
+(f) as to stamp; that a lost promissory note, bill of exchange or cheque was duly stamped;
+(g) that the holder of a negotiable instrument is a holder in due course: provided that, where the instrument has been obtained from its lawful owner, or from any person in lawful custody thereof, by means of an offence or fraud, or has been obtained from the maker or acceptor thereof by means of an offence or fraud, or for unlawful consideration, the burthen of proving that the holder is a holder in due course lies upon him.
+===

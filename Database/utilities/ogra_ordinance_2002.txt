@@ -1,0 +1,46 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator34cd31814840fd2c6ae4ebe36e42c55b.pdf
+DATE_CHECKED: 2026-11-01
+===
+SECTION: 6
+TITLE: Functions of the Authority (OGRA)
+TEXT:
+(1) Subject to such conditions as may be imposed on it or transferred under this Ordinance, the Authority shall be exclusively responsible for granting licences for the carrying out of regulated activities and regulating such activities.
+(2) Without prejudice to the generality of the foregoing, the Authority shall—
+(a) grant, issue, and renew licences, modify, amend, extend, suspend, review, cancel and reissue, revoke or terminate any licence for the undertaking of any regulated activity and prescribe requirements to be satisfied by applicants;
+(b) in consultation with licensees, specify performance and service standards and other conditions;
+(c) prescribe a uniform form of accounts and accounting practices;
+(d) administer, enforce and certify standards and other conditions;
+(e) specify and review standards for equipment and materials;
+(f) promote and ensure efficient practices in transmission, distribution, processing, refining, marketing, storage, and transportation of petroleum by pipelines;
+(g) promote effective competition and efficiency;
+(h) monitor and enforce compliance by licensees with licence conditions;
+(i) resolve complaints and other claims against licensees for contravention of provisions of this Ordinance, rules or regulations;
+(j) ensure the provision of open access, common carrier and common operator based on an application, provided excess capacity is available and owners are compensated;
+(k) resolve disputes between licensees, or between licensees and any other person;
+(l) provide for submission, filing, recording and dissemination of information;
+(o) safeguard the public interest, including national security interest;
+(p) prescribe fines for contravention of this Ordinance, rules, regulations or licence conditions;
+(q) protect interests of stakeholders including consumers and licensees;
+(s) prescribe, review, approve and regulate tariffs for natural gas and marketing of refined oil products;
+(t) determine a reasonable rate of return for natural gas licensees;
+(u) oversee capital expenditure by natural gas licensees;
+(v) prescribe procedures and standards for investment programmes;
+(w) determine and notify well-head gas prices;
+(x) enforce standards and specifications for refined oil products.
+===
+SECTION: 11
+TITLE: Complaints
+TEXT:
+(1) Any interested person may file a written complaint with the Authority against a licensee for contravention of any provision of this Ordinance or of any rule or regulation.
+(2) The Authority shall, on receipt of a complaint, provide an opportunity to the complainant as well as to the licensee, or any other person against whom such complaint has been made to state its case before taking action thereon.
+===
+SECTION: 12
+TITLE: Appeal, etc.
+TEXT:
+(1) Any person aggrieved by any order or decision of the delegatees of a power delegated by the Authority under section 10 may, within thirty days of the receipt of such decision or order, prefer appeal to the Authority and Authority shall hear and decide the appeal within ninety days from the date of its presentation.
+(2) In relation to any decision concerning a regulated activity, the High Court may, if it is satisfied that no other adequate remedy is provided, on application of an aggrieved party, make an order—
+(a) directing the Authority to refrain from doing anything it is not permitted by law to do, or to do anything the Authority is required by law to do; or
+(b) declaring that any act done or proceeding taken by the Authority has been done or taken without lawful authority and is of no legal effect.
+(3) Where an application is made to a High Court for an order under sub-section (2), and the making of an interim order would prejudice public work, public interest, state property, or public revenues, the Court shall not make an interim order unless the Attorney-General has been given notice and an opportunity of being heard.
+(4) An interim order made by a High Court shall cease to have effect on the expiration of six months unless decided earlier.
+(5) Every case in which the High Court has made an interim order shall be disposed of on merits within six months.

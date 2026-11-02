@@ -1,0 +1,42 @@
+SOURCE: https://hed.punjab.gov.pk/system/files/the_punjab_private_educational_institutions_-promotion_and_regulation-_ordinance-_1984-doc-pdf.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 7
+TITLE: Conditions of Registration
+TEXT:
+An institution shall comply with such conditions of registration including payment of fees as may be prescribed.
+===
+SECTION: 7A
+TITLE: Fees, etc.
+TEXT:
+(1) Subject to this section, a school charging fee at the rate of four thousand rupees per month or above shall not charge the fee at a rate higher than five percent of the fee charged for the class during the previous academic year but this limitation shall not apply to a school charging monthly fee from a class of students at the rate which is less than four thousand rupees per month inclusive of the increase in the fee.
+(2) If there is reasonable justification for increase in the existing fee at a rate higher than five percent under subsection (1), the Incharge may, at least sixty days before the commencement of the next academic year, apply to the Registering Authority incorporating justification.
+(3) The application shall contain reasons and justification for the proposed increase and all the requisite documents or evidence in support of the application shall be annexed with the application.
+(4) The Incharge shall provide such other information or documents to the Registering Authority as may be necessary for the disposal of the application.
+(5) The Registering Authority may, after affording an opportunity of hearing to the Incharge and after recording reasons, reject the application for increase in the fee of the school or allow reasonable increase in the fee not exceeding eight per cent of the fee charged for the class during the previous academic year.
+(7) The Registering Authority shall, within thirty days from the receipt of the application for increase in the fee, take appropriate decision and inform the applicant of the decision taken.
+(8) The admission fee or the security shall not exceed the amount equal to the tuition fee payable by the student for a month.
+(9) The word ‘fee’ in this section means admission fee, tuition fee, security, laboratory fee, library fee or any other fee or amount charged by an institution from a student.
+(10) An institution shall not require the parents to purchase textbooks, uniform or other material from a particular shop or provider.
+===
+SECTION: 8
+TITLE: Inspection
+TEXT:
+(1) The Registering Authority or an officer authorised by Government may inspect any institution and may give directions to require compliance with the conditions prescribed for registration.
+(2) The directions under sub-section (1) shall be communicated to the incharge of the institution through an order and such person shall comply with the same within such time as may be specified therein.
+===
+SECTION: 9
+TITLE: Cancellation of Registration
+TEXT:
+A certificate of registration granted under section 6 may be cancelled by the Registering Authority after giving an opportunity of being heard to the incharge of the institution if–
+(i) there is a contravention of any of the provisions of this Ordinance or the rules:
+Provided that in case of a minor default which can be easily remedied, opportunity may be given to remove the default within a time specified in the order and if it is not removed within the time so specified, cancellation shall follow;
+(ii) the incharge of the institution has failed within the period specified to comply with any direction issued under the provisions of this Ordinance or the rules; and
+(iii) the institution has ceased to exist.
+===
+SECTION: 10
+TITLE: Appeal
+TEXT:
+(1) Any person aggrieved by a final order of the Registering Authority may, within thirty days of the date of receipt of the order, prefer an appeal to the Commissioner of the Division and the Commissioner shall decide the appeal within thirty days.
+(2) The decision of the Commissioner shall be final.
+===

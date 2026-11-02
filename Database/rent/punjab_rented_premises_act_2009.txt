@@ -1,0 +1,41 @@
+SOURCE: https://punjabcode.punjab.gov.pk/uploads/articles/THE_PUNJAB_RENTED_PREMISES_ACT_2009.doc.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 2 (selected definitions)
+TITLE: Definitions
+TEXT:
+In this Act:
+(a) “building” means a building or part thereof, together with all fixtures and fittings therein, if any, and includes any garage, garden, godown, out house and open space attached or appurtenant thereto, let out for residential or non residential purpose, whether actually being used for that purpose or not, but does not include a room in a hotel, hostel, boarding house, guest house or any place of religious worship;
+(d) “landlord” means the owner of a premises and includes a person for the time being entitled or authorized to receive rent in respect of the premises;
+(e) “pagri” includes any amount received by a landlord at the time of grant or renewal of a tenancy except advance rent or security;
+(f) “premises” means a building or rented land not being an agricultural land or land subservient to agriculture;
+(h) “rent” includes arrears of rent, a utility bill and any amount that may be payable by a tenant in relation to the tenancy;
+(j) “Rent Tribunal” means a Rent Tribunal established under the Act;
+(k) “Special Judge (Rent)” means a Special Judge (Rent) appointed under the Act;
+(l) “tenant” means a person who undertakes or is bound to pay rent as consideration for the occupation of a premises by him or by any other person on his behalf and includes;
+(i) a person who continues to be in occupation of the premises after the termination of his tenancy for the purpose of a proceeding under this Act;
+(ii) legal heirs of a tenant in the event of death of the tenant who continue to be in occupation of the premises; and
+(iii) a sub-tenant who is in possession of the premises or part thereof with the written consent of the landlord;
+===
+SECTION: 5
+TITLE: Agreement between landlord and tenant
+TEXT:
+(1) A landlord shall not let out a premises to a tenant except by a tenancy agreement.
+(2) A landlord shall present the tenancy agreement before the Rent Registrar.
+(3) The Rent Registrar shall enter the particulars of the tenancy in a register, affix his official seal on the tenancy agreement, retain a copy thereof and return the original tenancy agreement to the landlord.
+(4) The entry of particulars of the tenancy shall not absolve the landlord or the tenant of their liability to register the tenancy agreement under the law relating to registration of documents.
+(5) A tenancy agreement entered in the office of a Rent Registrar or a certified copy thereof shall be a proof of the relationship of landlord and tenant.
+(6) Any agreement which may be executed between the landlord and the tenant in respect of the premises shall be presented before the Rent Registrar in the same manner as provided in sub-section (2).
+===
+SECTION: 6
+TITLE: Contents of tenancy agreement
+TEXT:
+(1) A tenancy agreement shall contain, as far as possible, the following:
+(a) particulars of the landlord and the tenant;
+(b) description of the premises;
+(c) period of the tenancy;
+(d) rate of rent, rate of enhancement, due date and mode of payment of rent;
+(e) particulars of the bank account of the landlord, if the rent is to be paid through a bank;
+(f) the purpose for which the premises is let out; and
+(g) amount of advance rent, security or pagri, if any.
+(2) If the

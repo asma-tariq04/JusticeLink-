@@ -1,0 +1,42 @@
+SOURCE: https://punjabcode.punjab.gov.pk/uploads/articles/punjab-enforcement-of-womens-property-rights-act-2021-pdf1.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 2
+TITLE: Definitions
+TEXT:
+In this Act:
+(a) “complainant” means a woman who files a complaint or for whom proceedings are initiated in respect of the title or possession of her property;
+(b) “Government” means Government of the Punjab;
+(c) “Ombudsperson” means the Ombudsperson appointed under section 7 of the Protection against Harassment of Women at the Workplace Act, 2010 (IV of 2010);
+(d) “prescribed” means prescribed by the rules;
+(e) “property” includes any moveable and immoveable property; and
+(f) “rules” means the rules made under this Act.
+===
+SECTION: 4
+TITLE: Complaint to the Ombudsperson in case no proceedings in a court of law are pending
+TEXT:
+(1) Any woman deprived of ownership or possession of her property, by any means, may file a complaint to the Ombudsperson if no proceedings in a court of law are pending regarding that property:
+Provided that the Ombudsperson, on its own motion or on a complaint filed by any person including a non-governmental organization, may also initiate action under subsection (1) in relation to the ownership or possession of a woman's property, if no proceedings are pending in a court in respect of that property.
+(2) The Ombudsperson shall make preliminary assessment of the complaint filed under subsection (1) whereafter he may, if the matter requires further probe or investigation, refer the matter to the concerned Deputy Commissioner, who, after calling the record, if necessary, and issuing notices to the complainant or her adversaries, conduct a summary enquiry and submit a report within fifteen days to the Ombudsperson.
+(3) If the matter does not require any detailed probe, investigation or recording of evidence, the Ombudsperson may, after calling any record, if deemed necessary, pass orders under section 5.
+(4) The Ombudsperson upon receiving the report under subsection (2), may further conduct such summary enquiry and call for such record as he may deem fit.
+(5) The Ombudsperson after confronting the report of the concerned Deputy Commissioner and the conclusion and findings of his own enquiry, shall call upon the complainant and her adversaries to submit objections, whereafter he may conduct a hearing, and pass orders under section 5, preferably within sixty days of receipt of the complaint under subsection (1).
+===
+SECTION: 5
+TITLE: Delivery of possession and transfer of ownership of property to women
+TEXT:
+(1) On conclusion of the proceedings under section 4, if the Ombudsperson finds that the complainant has been illegally deprived of ownership or possession of her property, he shall direct the Deputy Commissioner or a state functionary or any private person to take steps so as to restore or confer possession or title of the property to the complainant, including measures to perfect such title.
+(2) The Ombudsperson may, where deemed fit, direct the officer-in-charge of a police station for such assistance as may be required for the purposes of implementing the orders passed under subsection (1).
+(3) The concerned Deputy Commissioner shall submit a compliance report within seven days to the Ombudsperson in respect of implementation of his orders.
+===
+SECTION: 7
+TITLE: Complaint to the Ombudsperson in case proceedings in a court of law are pending
+TEXT:
+(1) Where proceedings in a court of law are pending in relation to the ownership or possession of any property claimed to be owned by a woman, she may file a complaint under this subsection to the Ombudsperson:
+Provided that the Ombudsperson, on its own motion or on a complaint filed by any person including a non-governmental organization may also initiate action under subsection (1) in relation to the ownership or possession of a woman’s property, even if proceedings are pending in a court in respect of that property.
+(2) The Ombudsperson shall make a preliminary assessment of the complaint under subsection (1), whereafter he may, if the matter requires further probe or investigation, refer the matter to the concerned Deputy Commissioner, who, after calling the record, if necessary, and issuing notices to the complainant or her adversaries, conduct a summary enquiry and submit a report within fifteen days to the Ombudsperson.
+(3) If the matter does not require any detailed probe, investigation or recording of evidence, the Ombudsperson may, after calling any record, if deemed necessary, file a report in the court of law, in which the case is pending, recommending that the proceedings in the court may be terminated or put in abeyance unconditionally or subject to any order of the court, and the Ombudsperson be permitted by the court to take further proceedings under this Act.
+(4) Before filing of the report under subsection (3), the Ombudsperson shall call upon the complainant and her adversaries to submit objections, and conduct a hearing and pass orders, preferably within thirty days of the hearing, as to whether the Ombudsperson shall or shall not file a report under subsection (3).
+(5) In case the Ombudsperson passes an order of not filing a report under subsection (3), he may advise the complainant to pursue the proceedings in the court of law and terminate the complaint.
+(6) The Ombudsperson upon receiving the report under subsection (2), may further conduct such summary inquiry and call for such record as he may deem fit
+===

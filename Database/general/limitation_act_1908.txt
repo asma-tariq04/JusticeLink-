@@ -1,0 +1,23 @@
+SOURCE:https://pakistancode.gov.pk/pdffiles/administrator3294e35255f255ea96b3356091fb4844.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 3
+TITLE: Dismissal of suits, etc., instituted, etc., after period of limitation
+TEXT:
+Subject to the provisions contained in sections 4 to 25 (inclusive), every suit instituted, appeal preferred, and application made, after the period of limitation prescribed therefor by the first schedule shall be dismissed, although limitation has not been set up as a defence.
+Explanation.—A suit is instituted, in ordinary cases, when the plaint is presented to the proper officer; in the case of a pauper, when his application for leave to sue as a pauper is made; and, in the case of a claim against a company which is being wound up by the Court, when the claimant first sends in his claim to the official liquidator.
+===
+SECTION: 5
+TITLE: Extension of period in certain cases
+TEXT:
+Any appeal or application for a revision or a review of judgment or for leave to appeal or any other application to which this section may be made applicable by or under any enactment for the time being in force may be admitted after the period of limitation prescribed therefor, when the appellant or applicant satisfies the Court that he had sufficient cause for not preferring the appeal or making the application within such period.
+Explanation.—The fact that the appellant or applicant was misled by any order, practice or judgment of the High Court in ascertaining or computing the prescribed period of limitation may be sufficient cause within the meaning of this section.
+===
+SECTION: 14
+TITLE: Exclusion of time of proceeding bona fide in Court without jurisdiction
+TEXT:
+(1) In computing the period of limitation prescribed for any suit, the time during which the plaintiff has been prosecuting with due diligence another civil proceeding, whether in a Court of first instance or in a Court of appeal, against the defendant, shall be excluded, where the proceeding is founded upon the same cause of action and is prosecuted in good faith in a Court which, from defect of jurisdiction, or other cause of a like nature, is unable to entertain it.
+(2) In computing the period of limitation prescribed for any application, the time during which the applicant has been prosecuting with due diligence another civil proceeding, whether in a Court of first instance or in a Court of appeal, against the same party for the same relief shall be excluded, where such proceeding is prosecuted in good faith in a Court which, from defect of jurisdiction, or other cause of a like nature, is unable to entertain it.
+Explanation I.—In excluding the time during which a former suit or application was pending, the day on which that suit or application was instituted or made, and the day on which the proceedings therein ended, shall both be counted.
+Explanation II.—For the purposes of this section, a plaintiff or an applicant resisting an appeal shall be deemed to be prosecuting a proceeding.
+Explanation III.—For the purposes of this section misjoinder of parties or of cause of action shall be deemed to be a cause of a like nature with defect of jurisdiction.

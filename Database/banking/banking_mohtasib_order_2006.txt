@@ -1,0 +1,79 @@
+SOURCE:https://www.bankingmohtasib.gov.pk/website/WebPages.aspx?enc_+=UmlvGedSIifJLYLfadRPM6UL6ULOTE77oQa+id1Ynw6HaZaT9vUleUSqZFjIMgl3
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 82A
+TITLE: Appointment of Mohtasib
+TEXT:
+1. There shall be a Banking Mohtasib who shall be appointed by the President in consultation with the Governor of the State Bank of Pakistan.
+2. The Banking Mohtasib shall be a person of high integrity and unimpeachable banking or legal credentials who is not a shareholder of a banking company or financial institution and is not, has not, been a bank defaulter.
+3. The jurisdiction of the Banking Mohtasib in relation to banking transactions shall be to:
+(a) enquire into complaints of banking malpractices;
+(b) perverse, arbitrary or discriminatory actions;
+(c) violations of banking laws, rules, regulations or guidelines;
+(d) inordinate delays or inefficiency and
+(e) corruption, nepotism or other forms or maladministration.
+4. The Banking Mohtasib shall hold office for a period of three years and shall not be eligible for any extension of tenure or for re-appointment under any circumstances whatsoever.
+5. The Banking Mohtasib shall not hold any other office of profit in the service of Pakistan or occupy any other position carrying the right to remuneration for the rendering of services.
+===
+SECTION: 82B
+TITLE: Terms and conditions of the Banking Mohtasib
+TEXT:
+1. The Banking Mohtasib shall be entitled to the same salary and allowances as a Judge of a High Court.
+2. The Banking Mohtasib may be removed from office on the ground that he has been guilty of misconduct or that he is incapable of properly performing the duties of his office by reason of physical or mental incapacity.
+Provided that he shall have the right to file an appeal before the Federal Services Tribunal.
+3. The Banking Mohtasib shall be provided with a secretariat to be appointed in consultation with the State Bank. Appointments to the Secretariat may be made on deputation from the State Bank of Pakistan or other banks or otherwise on the basis of professional qualifications and the costs of the Secretariat shall be shared by banks in such proportions as may be determined by the State Bank of Pakistan.
+4. The Banking Mohtasib shall have the power and responsibility ---
+(a) to entertain complaints from customers, borrowers, banks or from any concerned body or organization;
+(b) to facilitate the amicable resolution of complaints after giving hearings to the complainant and the concerned Bank;
+(c) To receive evidence on affidavit;
+(d) To issue commission for the examination of witnesses; and
+(e) in the event that complaints cannot be resolved by consent, to give finding which shall be acted upon in the manner set out herein.
+5. The Banking Mohtasib shall exercise his powers and authority in the following manner :-
+(a) In relation to all banks operating in Pakistan:- The Banking Mohtasib shall be authorized to entertain complaints of the nature set out herein below:-
+(i) failure to act in accordance with banking laws and regulations including policy directives or guidelines issued by the State Bank from time to time.
+Provided that there is a dispute as to the proper interpretation of any regulations, directions or guidelines, the same shall be referred to the State Bank for clarification.
+(ii) delays or fraud in relation to the payment or collection of cheques, drafts, or other banking instruments or the transfer of funds;
+(iii) fraudulent or unauthorized withdrawals or debit entries in accounts;
+(iv) complaints from exporters or importers relating to banking services and obligations including letter of credits;
+(v) complaints from holders of foreign currency accounts, whether maintained by residents or non-residents;
+(vi) complaints relating to remittances to or from abroad;
+(vii) complaints relating to mark-up or interest rates based on the ground of a violation of an agreement or of State Bank directives; and
+(viii) complaints relating to the payment of utility bills.
+(b) In relation to banks in the public sector:-. The Banking Mohtasib shall be authorized to entertain complaints against such banks on the following additional grounds as well ---
+(i) corrupt or malafide practices by bank officers;
+(ii) gross dereliction of duty in dealing with customers; and
+(iii) inordinate delays in taking decisions.
+(c) The Banking Mohtasib shall not entertain any complaint or application which has already been disposed off by the State Bank or any court in Pakistan.
+===
+SECTION: 82C
+TITLE: Reference to Banking Mohtasib by Court
+TEXT:
+If at any time during the pendency of a case, a court trying a case relating to recovery of loan by a banking company is of the opinion that the management of the banking company has prima facie acted in a malafide manner, or in violation of banking rules and regulations, it may reference to the Banking Mohtasib for inquiring into the matter and passing such order in accordance with the provisions hereof as may deem fit:
+Provided that the making of a reference shall not prevent the court from deciding Claim before it on merits.
+===
+SECTION: 82D
+TITLE: Procedure for making complaints
+TEXT:
+1. A complaint shall be made on solemn affirmation or oath in writing addressed to the Banking Mohtasib. The complaint shall set out the full particulars of the transaction complained of and the name and address of the complainant.
+2. Prior to making a complaint the complainant shall intimate in writing to the concerned bank his intention of filing a complaint and if the bank either fails to respond, or make a reply which is unsatisfactory to the complaint, within a period of forty-five days, the complainant may file a complaint at any time thereafter within a further period of forty-five days:
+Provided that the Banking Mohtasib may, if satisfied that there were grounds for the delay in filing the complaint, condone the delay and entertain the complaints.
+3. The Banking Mohtasib may adopt any procedure as he considers appropriate for investigating a complaint :
+Provided that he shall not pass any order against a bank without first giving it a notice and an opportunity of a hearing.
+4. Subject to section 82C, the Banking Mohtasib shall not have any power to issue an order in the nature of a stay order or to entertain any complaints if the matter is pending before a court or other legal forum.
+5. The Banking Mohtasib may reject a complaint summarily or he may accept the same or pass any other order he deems fit:
+Provided that in each case he shall pass a reasoned order for his decision.
+===
+SECTION: 82E
+TITLE: Recommendations for implementation
+TEXT:
+1. In the event the Banking Mohtasib comes to the conclusion that the complaint is justified, in part or in whole, he shall try and facilitate an amicable resolution or settlement by resort to mediation and failing that communicate his findings to the concerned bank with the direction ---
+(a) to reconsider the matter;
+(b) to modify or cancel the earlier decision, action or failure to the appropriate action;
+(c) to pay reasonable compensation to the complaint as fixed by the Banking Mohtasib;
+(d) to take the requisite steps to improve the functioning or efficiency of the bank; and
+(e) to take such other remedial steps or actions as may be specified by the Banking Mohtasib.
+3. In no case whatsoever shall the Banking Mohtasib have the power to direct that loans, advances or finances be given to a complainant.
+5. The findings of the Banking Mohtasib shall be implemented by concerned Bank and financial institution within a period of forty days and compliance thereof shall be submitted accordingly. In case an appeal against the decision of the Banking Mohtasib is filed before the President of Pakistan the aforesaid period of forty days shall be reckoned from the date of rejecting the said appeal; and
+6. Any order passed by the Banking Mohtasib which has not been appealed against, within a period of thirty days or any order passed by the President of Pakistan in appeal, as the case may be, shall become final and operative and if not implemented shall render the bank concerned to such action including the imposition of a fine or penalty as the State Bank may deem fit, and in relation to a bank officer, to the appropriate disciplinary or other proceedings.
+7. Nothing contained herein shall prevent a complainant from filing a suit against a bank in the event his complaint is rejected.
+===

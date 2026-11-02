@@ -1,0 +1,28 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator03eadfb5474bfa7c9e45ab4558d5a926.pdf
+DATE_CHECKED: 2026-11-01
+===
+SECTION: 2 (selected definitions)
+TITLE: Definitions
+TEXT:
+In this Act, unless there is anything repugnant in the subject or context,—
+(1) “buyer” means a person who buys or agrees to buy goods;
+(2) “delivery” means voluntary transfer of possession from one person to another;
+(7) “goods” means every kind of moveable property other than actionable claims and money; and includes electricity, water, gas, stock and shares, growing crops, grass and things attached to or forming part of the land which are agreed to be served before sale or under the contract of sale;
+(10) “price” means the money consideration for a sale of goods;
+(12) “quality of goods” includes their state or condition;
+(13) “seller” means a person who sells or agrees to sell goods;
+===
+SECTION: 12
+TITLE: Condition and warranty
+TEXT:
+(1) A stipulation in a contract of sale with reference to goods which are the subject thereof may be a condition or a warranty.
+(2) A condition is a stipulation essential to the main purpose of the contract, the breach of which gives rise to a right to treat the contract as repudiated.
+(3) A warranty is a stipulation collateral to the main purpose of the contract, the breach of which gives rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated.
+(4) Whether a stipulation in a contract of sale is condition or a warranty depends in each case on the construction of the contract. A stipulation may be a condition, though called a warranty in the contract.
+===
+SECTION: 13
+TITLE: When condition to be treated as warranty
+TEXT:
+(1) Where a contract of sale is subject to any condition to be fulfilled by the seller, the buyer may waive the condition or elect to treat the breach of the condition as a breach of warranty and not as a ground for treating the contract as repudiated.
+(2) Where a contract of sale is not severable and the buyer has accepted the goods or part thereof, the breach of any condition to be fulfilled by the seller can only be treated as a breach of warranty and not as a ground for rejecting the goods and treating the contract as repudiated, unless there is a term of the contract, express or implied, to that effect.
+(3) Nothing in this section shall affect the case of

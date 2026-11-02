@@ -1,0 +1,37 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator741de22e0685408278606962079d12b2.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 2
+TITLE: Definitions
+TEXT:
+In this Ordinance, unless there is anything repugnant in the subject or context,—
+(b) “broadcasting” means the dissemination of writing, signs, signals, pictures and sounds of all kind, including any electronic device, intended to be received by the public either directly or through the medium of relay stations, by means of—
+(i) a form of wireless radio-electric communication utilizing Hertzian waves, including radiotelegraph and radiotelephone, or
+(ii) cables, computer, wires, fibre-optic linkages or laser beams, and “broadcast” has a corresponding meaning;
+(bb) “Court” means the District Court;
+(c) “editor” means a person or operator having editorial or equivalent responsibility for the content of the statement or the decision to publish or circulate it;
+(d) “newspaper” means a paper containing public news, intelligence or occurrences or remarks or observations or containing only, or principally, advertisements, printed for distribution to the public and published periodically, or in parts or members, and includes such other periodical works as the Federal Government may, by notification in the official Gazette, declare to be newspaper;
+(dd) “originator” means the initiator of a defamatory statement or any other defamatory act;
+(e) “publication” means the communication of the words to at least one person other than the person defamed and includes a newspaper or broadcast through the internet or other media; and
+(f) “publisher” means a commercial publisher, that is, a person whose business is issuing material to the public, or a section of the public, who issues material containing the statement in the course of that business.
+===
+SECTION: 3
+TITLE: Defamation
+TEXT:
+(1) Any wrongful act or publication or circulation of a false statement or representation made orally or in written or visual form which injuries the reputation of a person, tends to lower him in the estimation of others or tends to reduce him to ridicule, unjust criticism, dislike, contempt or hatred shall be actionable as defamation.
+(2) Defamation is of two forms, namely:—
+(i) slander; and
+(ii) libel.
+(3) Any false oral statement or representation that amounts to defamation shall be actionable as slander.
+(4) Any false written, documentary or visual statement or representation made either by ordinary form or expression or by electronic or other modern means or devices that amounts to defamation shall be actionable as libel.
+===
+SECTION: 4
+TITLE: Defamation actionable
+TEXT:
+The publication of defamatory matter is an actionable wrong without proof of special damage.
+===
+SECTION: 9
+TITLE: Remedies
+TEXT:
+Where defamation shall be proved to have occurred, the court may pass order directing the defendant to tender an apology, if acceptable to the plaintiff, and publish the same in similar manner and with the same prominence as the defamatory statement made and pay reasonable compensatory damages as general damages with a minimum of Rs.50,000 (Rupees fifty thousand) and in addition thereto, any special damage incurred that is proved by the plaintiff to the satisfaction of the Court:
+Provided that in case of the originator the minimum compensatory damages as general damages shall be three hundred thousand rupees.

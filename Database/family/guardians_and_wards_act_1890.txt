@@ -1,0 +1,37 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administratord265c726d2d564a9377ed7a8e04708ae.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 7
+TITLE: Power of the Court to make order as to guardianship
+TEXT:
+(1) Where the Court is satisfied that it is for the welfare of a minor that an order should be made—
+(a) appointing a guardian of his person or property, or both, or
+(b) declaring a person to be such a guardian,
+the Court may make an order accordingly.
+(2) An order under this section shall imply the removal of any guardian who has not been appointed by will or other instrument or appointed or declared by the Court.
+(3) Where a guardian has been appointed by will or other instrument or appointed or declared by the Court, an order under this section appointing or declaring another person to be guardian in his stead shall not be made until the powers of the guardian appointed or declared as aforesaid have ceased under the provisions of this Act.
+===
+SECTION: 12
+TITLE: Power to make interlocutory order of production of minor and interim protection of person and property
+TEXT:
+(1) The Court may direct that the person, if any, having the custody of the minor shall produce him or cause him to be produced at such place and time and before such person as it appoints, and may make such order for the temporary custody and protection of the person or property of the minor as it thinks proper.
+(2) If the minor is a female who ought not to be compelled to appear in public, the direction under sub-section (1) for her production shall require her to be produced in accordance with the customs and manners of the country.
+(3) Nothing in this section shall authorise—
+(a) the Court to place a female minor in the temporary custody of a person claiming to be her guardian on the ground of his being her husband, unless she is already in his custody with the consent of her parents, if any,
+(b) any person to whom the temporary custody and protection of the property of a minor is entrusted to dispossess otherwise than by due course of law any person in possession of any of the property.
+===
+SECTION: 17
+TITLE: Matters to be considered by the Court in appointing guardian
+TEXT:
+(1) In appointing or declaring the guardian of a minor, the Court shall, subject to the provisions of this section, be guided by what, consistently with the law to which the minor is subject, appears in the circumstances to be for the welfare of the minor.
+(2) In considering what will be for the welfare of the minor, the Court shall have regard to the age, sex and religion of the minor, the character and capacity of the proposed guardian and his nearness of kin to the minor, the wishes, if any, of a deceased parent, and any existing or previous relations of the proposed guardian with the minor or his property.
+(3) If the minor is old enough to form an intelligent preference, the Court may consider that preference.
+(5) The Court shall not appoint or declare any person to be a guardian against his will.
+===
+SECTION: 25
+TITLE: Title of guardian to custody of ward
+TEXT:
+(1) If a ward leaves or is removed from the custody of a guardian of his person, the Court, if it is of opinion that it will be for the welfare of the ward to return to the custody of his guardian, may make an order for his return, and for the purpose of enforcing the order may cause the ward to be arrested and to be delivered into the custody of the guardian.
+(2) For the purpose of arresting the ward, the Court may exercise the power conferred on a Magistrate of the first class by section 100 of the Code of Criminal Procedure, 1898 (Act V of 1898).
+(3) The residence of a ward against the will of his guardian with a person who is not his guardian does not of itself terminate the guardianship.
+===

@@ -1,0 +1,46 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator134638c99323be93a26c9cb34428ac7f.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 12
+TITLE: Grant of Overseas Employment Promoter’s Licence
+TEXT:
+(1) Whoever desires to engage, or to assist or to recruit any person to emigrate shall apply for a licence to the secretary of the division concerned and shall with his application furnish such information and documents, pay such security and fee, and at such time and in such manner as may be prescribed.
+(2) On receiving an application under sub-section (1), the secretary of the division concerned may, after such inquiry as it may deem necessary, grant the licence applied for on such terms and conditions, if any, and on payment of such fee and on furnishing such security, as may be prescribed, or withhold such licence, and the decision of the secretary of the division concerned shall be final.
+(2A) A licence issued under the Emigration Act, 1922 (VII of 1922), shall be deemed to have been issued under this Ordinance, but it shall not be deemed to be a valid licence unless the security and fee for the said licence as prescribed by this Ordinance and the rules made thereunder have duly been paid.
+(3) If at any time during the period for which a licence is valid the secretary of the division concerned is satisfied, after making such inquiry as he may deem necessary, that the licensee has been guilty of misconduct, or that his conduct and performance as a licensee has been otherwise unsatisfactory, or that he has committed a breach of any of the provisions of this Ordinance or the rules or the prescribed code of conduct, the secretary of the division concerned may, by order in writing, cancel the licence or suspend it for a specified period and may also pass orders in regard to the forfeiture of the security furnished under sub-section (2) in whole or in part, and the decision of the secretary of the division concerned shall be final.
+(3A) Before an order is passed under sub-section (3), the licensee shall be afforded an opportunity of being heard.
+(4) On the expiry of the period for which the licence is granted, or on being informed by the licensee that he does not propose to continue to act as an Overseas Employment Promoter, and on being satisfied that no ground exists for forfeiting the security in whole or in part the secretary of the division concerned may order the return of the security or any part thereof to the person by whom it was furnished or to his authorized representative.
+===
+SECTION: 13
+TITLE: Powers to withdraw licences
+TEXT:
+Notwithstanding anything contained in this Ordinance, if, at any time, it appears to the Federal Government that, in the public interest, it is necessary to discontinue the practice of granting licences to Overseas Employment Promoters, it may, by notification in the official Gazette, withdraw all such licences and entrust the functions concerning emigration for employment abroad to the Corporation or any other institution established or controlled by Government, in such manner as it may deem fit.
+===
+SECTION: 17
+TITLE: Unlawful emigration, etc.
+TEXT:
+(1) Whoever, except in conformity with the provisions of this Ordinance and the rules, emigrates or departs or attempts to emigrate or depart
+(2) Whoever, except in conformity with the provisions of this Ordinance or of the rules,—
+(a) makes, or attempts to make, any agreement with any person purporting to bind that person, or any other person, to emigrate or depart; or
+(b) causes or assists, or attempts to cause or assist, any person to emigrate or depart or to attempt to emigrate or depart or to leave any place for the purpose of emigrating or departing; or
+(c) causes any person engaged, assisted or recruited by him, after grant of the licence referred to in section 12, to depart without appearing before the Protector of Emigrants as required by section 15;
+(3) When, in the course of any proceeding in connection with emigration in which an Overseas Employment Promoter is concerned, a breach of the provisions of this Ordinance or of the rules is committed, such person shall be liable to the punishment provided by sub-section (2), unless he proves that he was not responsible for and could not have prevented the commission of the breach.
+(4) Whoever, in contravention of the provisions of section 9, recruits a citizen of Pakistan or holds an interview or examination or issues an advertisement for such recruitment, and the editor, printer and publisher of a newspaper in which such advertisement is published, shall be liable to the punishment provided by sub-section (2).
+===
+SECTION: 18
+TITLE: Fraudulently inducing to emigrate etc.
+TEXT:
+Whoever,—
+(a) forges any document required for, or relating to, the emigration of any person, or has in his possession or under his control any instrument or article which may be used for the purpose of such forgery, or
+(b) by means of intoxication, coercion, fraud or wilful misrepresentation, causes or induces, or attempts to cause or induce, any person to emigrate, or enter into any agreement to emigrate, or leave any place with a view to emigrating.
+===
+SECTION: 19
+TITLE: False representation of Government authority
+TEXT:
+Whoever falsely represents that any emigrant is required by the Government or is to be engaged on behalfe of the Government,
+===
+SECTION: 20
+TITLE: Violation of terms of agreement with foreign employer by emigrant
+TEXT:
+Whoever violates the terms of the agreement with his foreign employer by abandoning his employment or otherwise shall, after his repatriation to Pakistan,
+===

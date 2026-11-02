@@ -1,0 +1,96 @@
+SOURCE:https://pakistancode.gov.pk/pdffiles/administratorf257754bbb3c6863d879492bc8cd8f6e.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 8
+TITLE: Recovery of specific immoveable property
+TEXT:
+A person entitled to the possession of specific immoveable property may recover it in the manner prescribed by the Code of Civil Procedure.
+===
+SECTION: 9
+TITLE: Suit by person dispossessed of immoveable property
+TEXT:
+If any person is dispossessed without his consent of immoveable property otherwise than in due course of law, he or any person claiming through him may, by suit recover possession thereof, notwithstanding any other title that may be set up in such suit.
+Nothing in this section shall bar any person from suing to establish his title to such property and to recover possession thereof.
+No suit under this section shall be brought against the Federal Government or any Provincial Government.
+No appeal shall lie from any order or decree passed in any suit instituted under this section, nor shall any review of any such order or decree be allowed
+===
+SECTION: 12
+TITLE: Cases in which specific performance enforceable
+TEXT:
+Except as otherwise provided in this Chapter, the specific performance of any contract may in the discretion of the Court be enforced—
+(a) when the act agreed to be done is in the performance, wholly or partly, of a trust;
+(b) when their exists no standard for ascertaining the actual damage caused by non-performance of the act agreed to be done;
+(c) when the act agreed to be done is such that pecuniary compensation for its non-performance would not afford adequate relief; or
+(d) when it is probable that pecuniary compensation cannot be got for the non-performance of the act agreed to be done.
+Explanation.— Unless and until the contrary is proved, the Court shall presume that the breach of a contract to transfer immoveable property cannot be adequately relieved by compensation in money, and that the breach of a contract to transfer moveable property can be thus relieved.
+Illustrations
+of clause (b)—
+A agrees to buy, and B agrees to sell, a picture by a dead painter and two rare China vases. A may compel B specifically to perform this contract, for there is no standard for ascertaining the actual damage which would be caused by its non-performance.
+of clause (c)—
+A contracts with B to sell him a house for Rs. 1,000. B is entitled to a decree directing A to convey the house to him, he paying the purchase-money.
+In consideration of being released from certain obligations imposed on it by its act of Incorporation, a railway-company contract with Z to make an archway through their railway to connect lands of Z served by the railway, to construct a road between certain specified points, to pay a certain annual sum towards the maintenance of this road, and also to construct a siding and a wharf as specified in the contract. Z is entitled to have this contract specifically enforced, for his interest in its performance cannot be adequately compensated for by money: and the Court may appoint a proper person to superintend the construction of the archway, road, siding and wharf.
+A contracts to sell, and B contracts to buy, a certain number of railway shares of a particular description. A refuses to complete the sale. B may compel A specifically to perform this agreement, for the shares are limited in number and not always to be had in the market, and their possession carries with it the status of a shareholder, which cannot otherwise be procured.
+A contracts with B to paint a picture for B, who agrees to pay therefor Rs. 1,000. The picture is painted. B is entitled to have it delivered to him on payment or tender of the Rs. 1,000.
+of clause (d)—
+A transfers without endorsement, but for valuable consideration, a promissory note to B. A becomes insolvent, and C is appointed his assignee. B may compel C to endorse the note, for C has succeeded to A’s liabilities, and a decree for pecuniary compensation for not endorsing the note would be fruitle
+===
+SECTION: 42
+TITLE: Discretion of Court as to declaration of status or right
+TEXT:
+(1) Any person entitled to any character, or any right to any property, may institute a suit against any person denying, or interested to deny, his title to such character or right, and the Court may in its discretion make therein a declaration that he is so entitled and the plaintiff need not in such suit ask for any further relief:
+Provided that no Court shall make any such declaration where the plaintiff, being able to seek further relief than a mere declaration of title, omits to do so.
+(2) Notwithstanding anything contained in any other law for the time being in force, a suit filed under sub-section (1) shall be decided by the Court within six months and the appellate court shall decide the appeal not later than ninety days, as the case may be.
+===
+SECTION: 54
+TITLE: Perpetual injunctions when granted
+TEXT:
+Subject to the other provisions contained in, or referred to by, this Chapter, a perpetual injunction may be granted to prevent the breach of an obligation existing in favour of the applicant, whether expressly or by implication.
+When such obligation arises from contract, the Court shall be guided by the rules and provisions contained in Chapter II of this Act.
+When the defendant invades or threatens to invade the plaintiff’s right to, or enjoyment of, property, the Court may grant a perpetual injunction in the following cases (namely):—
+(a) where the defendant is trustee of the property for the plaintiff;
+(b) where there exists no standard for ascertaining the actual damage caused, or likely to be caused, by the invasion;
+(c) where the invasion is such that pecuniary compensation would not afford adequate relief;
+(d) where it is probable that pecuniary compensation can not be got for the invasion;
+(e) where the injunction is necessary to prevent a multiplicity of judicial proceedings.
+Explanation.— For the purpose of this section a trademark is property.
+Illustrations
+(a) A lets certain lands to B and B contracts not to dig sand or gravel thereout. A may sue for an injunction to restrain B from digging in violation of his contract.
+(b) A trustee threatens a breach of trust. His co-trustees, if any, should, and the beneficial owners may, sue for an injunction to prevent the breach.
+(c) The directors of a public company are about to pay a dividend out of capital or borrowed money. Any of the shareholders may sue for an injunction to restrain them.
+(d) The directors of a fire and life-insurance company are about to engage in marine insurances. Any of the shareholders may sue for an injunction to restrain them.
+(e) A, an executor, through misconduct or insolvency, is bringing the property of the deceased into danger. The Court may grant an injunction to restrain him from getting in the assets.
+(f) A, a trustee for B, is about to make an imprudent sale of a small part of the trust-property. B may sue for an injunction to restrain the sale, even though compensation in money would have afforded him adequate relief.
+(g) A makes a settlement (not founded on marriage or other valuable consideration) of an estate on B and his children. A then contracts to sell the estate to C. B or any of his children may sue for an injunction to restrain the sale.
+(h) In the course of A’s employment as a vakil, certain papers belonging to his client, B, come into his possession. A threatens to make these papers public, or to communicate their contents to a stranger. B may sue for an injunction to restrain A from so doing.
+(i) A is B’s medical adviser. He demands money of B which B declines to pay. A then threatens to make known the effect of B’s communications to him as a patient. This is contrary to A’s duty, and B may sue for an injunction to restrain him from so doing.
+(j) A, the owner of two adjoining houses, lets one to B and afterwards lets the other to C. A and C begin to make such alterations in the house let to C as will prevent the comfortable enjoyment of the house let to B. B may sue for an injunction to restrain them from so doing
+A lets certain arable lands to B for purposes of husbandry, but without any express contract as to the mode of cultivation. Contrary to the mode of cultivation customary in the district, B threatens to sow the lands with seed injurious thereto and requiring many years to eradicate. A may sue for an injunction to restrain B from sowing the lands in contravention of his implied contract to use them in a husband like manner.
+(l) A, B and C are partners, the partnership being determinable at will. A threatens to do an act tending to the destruction of the partnership-property. B and C may, without seeking a dissolution of the partnership, sue for an injunction to restrain A from doing the act.
+(m) A, a Hindu widow in possession of her deceased husband’s property, commits destruction of the property without any cause sufficient to justify her in so doing. The heir-expectant may sue for an injunction to restrain her.
+(n) A, B and C are members of an undivided Hindu family. A cuts timber growing on the family-property, and threatens to destroy part of the family-house and to sell some of the family-utensils. B and C may sue for an injunction to restrain him.
+(o) A, the owner of certain houses in Karachi, becomes insolvent B buys them from the Official Assignee and enters into possession. A persists in trespassing on and damaging the houses, and B is thereby compelled, at considerable expense, to employ men to protect the possession. B may sue for an injunction to restrain further acts of trespass.
+(p) The inhabitants of a village claim a right of way over A’s land. In a suit against several of them, A obtains a declaratory decree that his land is subject to no such right. Afterwards each of the other villagers sues A for obstructing his alleged right of way over the land. A may sue for an injunction to restrain them.
+(q) A, in an administration-suit to which a creditor, B, is not a party, obtains a decree for the administration of C’s assets. B proceeds against C’s estate for his debt. A may sue for an injunction to restrain B.
+(r) A and B are in possession of contiguous lands and of the mines underneath them. A works his mine so as to extend under B’s mine and threatens to remove certain pillars which help to support B’s mine. B may sue for an injunction to restrain him from so doing.
+(s) A rings bells or makes some other unnecessary noise so near a house as to interfere materially and unreasonably with the physical comfort of the occupier, B . B may sue for an injunction restraining A from making the noise.
+(t) A pollutes the air with smoke so as to interfere materially with the physical comfort of B and C, who carry on business in a neighbouring house. B and C may sue for an injunction to restrain the pollution.
+(u) A infringes B’s patent. If the Court is satisfied that the patent is valid and has been infringed, B may obtain an injunction to restrain the infringement.
+(v) A pirates B’s copyright. B may obtain an injunction to restrain the piracy, unless the work of which copyright is claimed is libellous or obscene.
+(w) A improperly uses the trademark of B. B may obtain an injunction to restrain the user, provided that B’s use of the trademark is honest.
+(x) A, a tradesman, holds out B as his partner against the wish and without the authority of B. B may sue for an injunction to restrain A from so doing.
+(y) A, a very eminent man, writes letters on family-topics to B. After the death of A and B, C who is B’s residuary legatee, proposes to make money by publishing A’s letters. D, who is A’s executor, has a prosperity in the letters, and may sue for an injunction to restrain C from publishing them.
+(z) A carries on a manufactory and B is his assistant. In the course of his business, A imparts to B a secret process of value. B afterwards demands money of A, threatening, in case of refusal, to disclose the process to C, a rival manufacturer. A may sue for an injunction to restrain B from disclosing the process.
+===
+SECTION: 55
+TITLE: Mandatory injunction
+TEXT:
+When, to prevent the breach of an obligation, it is necessary to compel the performance of certain acts which the Court is capable of enforcing, the Court may in its discretion grant an injunction to prevent the breach complained of, and also to compel performance of the requisite acts.
+Illustrations
+(a) A, by new buildings, obstructs lights to the access and use of which B has acquired a right under the Limitation Act, 1908 (IX of 1908) Part IV. B may obtain an injunction, not only to restrain A from going on with the buildings, but also to pull down so much of them as obstructs B’s lights.
+A builds a house with eaves projecting over B’s land. B may sue for an injunction to pull down so much of the eaves as so project.
+(c) In the case put as illustration (i) to section 54, the Court may also order all written communications made by B, as patient, to A, as medical adviser, to be destroyed.
+(d) In the case put as illustration (y) to section 54, the Court may also order A’s letters to be destroyed.
+(e) A threatens to publish statements concerning B which would be punishable under Chapter XXI of the Pakistan Penal Code (XLV of 1860). The Court may grant an injunction to restrain the publication, even though it may be shown not to be injurious to B’s property.
+(f) A, being B’s medical adviser, threatens to publish B’s written communications with him, showing that B has led an immoral life. B may obtain an injunction to restrain the publication.
+(g) In the cases put as illustrations (v) and (w) to section 54 and in illustrations (e) and (f) to this section, the Court may also order the copies produced by piracy, and the trade-marks, statements and communications, therein respectively mentioned, to be given up or destroyed.
+===

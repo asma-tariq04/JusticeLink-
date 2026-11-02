@@ -1,0 +1,40 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator5b5a573f3bc475ac52eaf06c3dba6c45.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 12
+TITLE: Termination of employment
+TEXT:
+(1) For terminating employment of a permanent workman, for any reason other than misconduct, one month’s notice shall be given either by the employer or the workman. One month’s wages calculated on the basis of average wages earned by the workman during the last three months shall be paid in lieu of notice.
+(2) No temporary workman, whether monthly-rated, weekly-rated, daily-rated or piece-rated, and no probationer or badli, shall be entitled to any notice if his services are terminated by the employer, nor shall any such workman be required to give any notice or pay any wages in lieu thereof to the employer if he leaves employments of his own accord.
+(3) The services of a workman shall not be terminated, nor shall a workman be removed, retrenched, discharged or dismissed from service, except by an order in writing which shall explicitly state the reason for the action taken. In case a workman is aggrieved by the termination of his services or removal, retrenchment, discharge or dismissal, he may take action in accordance with the provisions of section 25A of the Industrial Relations Ordinance, 1969 (XXIII of 1969), and thereupon the provisions of said section shall apply as they apply to the redress of an individual grievance.
+(4) Where the services of any workman are terminated, the wages earned by him and other dues, including payment for unavailed leave as defined in clause (1) of Standing Order 8, shall be paid before the expiry of the second working day from the day on which his services are terminated.
+(5) The services of permanent or temporary workman shall not be terminated on the ground of misconduct otherwise than in the manner prescribed in Standing Order 15.
+(6) Where a workman resigns from service or his services are terminated by the employer, for any reason other than misconduct, he shall, in addition to any other benefit to which he may be entitled under this Ordinance or in accordance with the terms of his employment or any custom, usage or any settlement or an award of a Labour Court under the Industrial Relations Ordinance, 1969 (XXIII of 1969), be paid gratuity equivalent to thirty days, wages, calculated on the basis of the wages admissible to him in the last month of service if he is a fixed-rated workman or the highest pay drawn by him during the last twelve months if he is a piece-rated workman, for every completed year of service or any part thereof in excess of six months:
+Provided that, where the employer has established a Provident Fund to which the workman is a contributor and the contribution of the employer to which is not less than the contribution made by the workman, no such gratuity shall be payable for the period during which such Provident Fund has been in existence:
+Provided further that if through collective bargaining the employer offers and contributes to an “Approved Pension Fund” as defined in the Income Tax ordinance, 2001 (XLIX of 2001), and where the contribution of the employer is not less than fifteen per cent of the limit prescribed in the aforesaid Ordinance, and to which the workman is also a contributor for the remaining fifty per cent or less, no gratuity shall be payable for the period during which such contributions has been made.
+(7) A workman shall be entitled to receive the amount standing to his credit in the Provident Fund, including the contributions of the employer to such Fund, even if he resigns or is dismissed from service.
+(g) Where workman dies while in service of the employer, his dependant shall be paid gratuity in accordance with the provisions of clause (6):
+Provided that no payment of gratuity in such cases shall be made otherwise than by a deposit with the Commissioner who shall proceed with the allocation of the deposit to the dependant of the deceased in accordance with the provisions of section 8 of the Workmen’s Compensation Act, 1923 (VIII of 1923).
+(9) If the employer fails to deposit the amount of the gratuity under clause (8), the dependant of the deceased may make an application to the Commissioner for the recovery of the amount thereof.
+Explanation.— “Commissioner” and “dependant” in this Standing Order shall have the same meanings as are respectively assigned to them in the Workmen’s Compensation Act, 1923 (VIII of 1923).
+===
+SECTION: 13
+TITLE: Procedure for retrenchment
+TEXT:
+Where any workman is to be retrenched and he belongs to a particular category of workmen, the employer shall retrench the workman who is the last person employed in that category.
+===
+SECTION: 14
+TITLE: Re-employment of retrenched workmen
+TEXT:
+Where any number of workmen are retrenched and the employer proposes to take into his employ any person within a period of one year from the date of such retrenchment, he shall give an opportunity to the retrenched workmen belonging to the category concerned, by sending a notice by registered post to their last known addresses to offer themselves for re-employment, and they shall have preference ove
+===
+SECTION: 19
+TITLE: Certificate of termination of service
+TEXT:
+Every permanent workman shall be entitled to a service certificate at the time of his dismissal, discharge, retrenchment or retirement from service.
+===
+SECTION: 20
+TITLE: Liability of employer
+TEXT:
+The employer of the industrial and commercial establishment shall personally be held responsible for the proper and faithful observance of the Standing Orders, whether or not the workmen of such establishment are employed through contractors.
+===

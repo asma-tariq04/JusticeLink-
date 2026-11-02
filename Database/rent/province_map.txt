@@ -1,0 +1,8 @@
+SOURCE: https://www.zameen.com/blog/your-101-on-pakistans-rental-laws.html ; https://sja.gos.pk/assets/Updated_Laws/Sindh%20Rented%20Premises%20Ordinance,1979.pdf ; http://kpcode.kp.gov.pk/uploads/1959_06_THE_WEST_PAKISTAN_URBAN_RENT_RESTRICTION_ORDINANCE_1959.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: province map
+TITLE: Rent laws by province
+TEXT:
+Rent disputes between landlord and tenant are governed by a different law in each province: Punjab: Punjab Rented Premises Act 2009. Sindh: Sindh Rented Premises Ordinance 1979. Islamabad Capital Territory: Islamabad Rent Restriction Ordinance 2001. Khyber Pakhtunkhwa and Balochistan: the Urban Rent Restriction Ordinance 1959 (originally the West Pakistan Urban Rent Restriction Ordinance 1959, now applied in these two provinces). Cantonment areas: Cantonments Rent Restriction Act 1963.
+The first forum in Punjab is the Rent Tribunal. In Islamabad, Sindh, Khyber Pakhtunkhwa and Balochistan the first forum is the Controller of Rents.

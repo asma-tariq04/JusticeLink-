@@ -1,0 +1,57 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administratorbbc0b5b0d78c35e99e3b94f6b77b69db.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 4
+TITLE: Definition of “partnership”, “partner”, “firm” and “firm name”
+TEXT:
+“Partnership” is the relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all.
+Persons who have entered into partnership with one another are called individually “partners” and collectively “a firm”, and the name under which their business is carried on is called the “firm name”.
+===
+SECTION: 5
+TITLE: Partnership not created by status
+TEXT:
+The relation of partnership arises from contract and not from status; and, in particular, the members of a Hindu undivided family carrying on a family business as such, or a Burmese Buddhist husband and wife carrying on business as such are not partners in such business.
+===
+SECTION: 6
+TITLE: Mode of determining existence of partnership
+TEXT:
+In determining whether a group of persons is or is not a firm, or whether a person is or is not a partner in a firm, regard shall be had to the real relation between the parties, as shown by all relevant facts taken together.
+Explanation 1.—The sharing of profits or of gross returns arising from property by persons holding a joint or common interest in that property does not of itself make such persons partners.
+Explanation 2.—The receipt by a person of a share of the profits of a business, or of a payment contingent upon the earning of profits or varying with the profits earned by a business, does not of itself make him a partner with the persons carrying on the business; and in particular, the receipt of such share or payment—
+(a) by a lender of money to persons engaged or about to engage in any business,
+(b) by a servant or agent as remuneration,
+(c) by the widow or child of a deceased partner, as annunity, or
+(d) by a previous owner or part owner of the business, as consideration for the sale of the goodwill or share thereof,
+does not of itself make the receiver a partner with the persons carrying on the business.
+===
+SECTION: 6A
+TITLE: Act not to apply to certain relationships
+TEXT:
+Nothing contained in this Act shall apply to a relationship created by any agreement between a banking company and a person or group of persons providing for sharing of profit and losses arising from or relating to the provision by the banking company of finance to such person or group of persons.
+Explanation. For the purposes of this section, “banking company” “and finance” shall have the same meaning as in the banking Tribunals Ordinance, 1984.
+===
+SECTION: 13
+TITLE: Mutual rights and liabilities
+TEXT:
+Subject to contract between the partners—
+(a) a partner is not entitled to receive remuneration for taking part in the conduct of the business;
+(b) the partners are entitled to share equally in the profits earned, and shall contribute equally to the losses sustained by the firm;
+(c) where a partner is entitled to interest on the capital subscribed by him such interest shall be payable only out of profits;
+(d) a partner making, for the purposes of the business, any payment or advance beyond the amount of capital he has agreed to subscribe, is entitled to interest thereon at the rate of six per cent, per annum;
+(e) the firm shall indemnify a partner in respect of payment made and liabilities incurred by him—
+(i) in the ordinary and proper conduct of the business and
+(ii) in doing such act, in an emergency, for the purpose of protecting the firm from loss, as would be done by a person of ordinary prudence, in his own case, under similar circumstances; and
+(f) a partner shall indemnify the firm for any
+===
+SECTION: 69
+TITLE: Effect of non-registration
+TEXT:
+(1) No suit to enforce a right arising from a contract or conferred by this Act shall be instituted in any Court by or on behalf of any person suing as a partner in a firm against the firm or any person alleged to be or to have been a partner in the firm unless the firm is registered and the person suing is or has been shown in the Register of Firms as a partner in the firm.
+(2) No suit to enforce a right arising from a contract shall be instituted in any Court by or on behalf of a firm against any third party unless the firm is registered and the persons suing are or have been shown in the Register of Firms as partners in the firm.
+(3) The provisions of sub-sections (1) and (2) shall apply also to a claim of set-off or other proceeding to enforce a right arising from a contract, but shall not affect
+(a) the enforcement of any right to sue for the dissolution of a firm or for accounts of a dissolved firm, or any right or power to realise the property of a dissolved firm, or
+(b) the powers of an official assignee, receiver or Court under the Insolvency (Karachi Division Act (III of 1909), or the Provincial Insolvency Act, 1920 (V of 1920) to realise the property of an insolvent partner.
+(4) This section shall not apply
+(a) to firms or to partners in firms which have no place of business in Pakistan, or whose places of business in Pakistan are situated in areas to which, by notification under section 56 this Chapter does not apply, or
+(b) to any suit or claim of set-off not exceeding one hundred rupees in value which, is not of a kind specified in the Second Schedule to the Provincial Small Cause Courts Act, 1887 (IX of 1887), or to any proceeding in execution or other proceeding incidental to or arising from any such suit or claim.
+===

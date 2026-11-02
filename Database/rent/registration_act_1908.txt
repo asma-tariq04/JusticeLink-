@@ -1,0 +1,28 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator0f29bc9f1e3dfed37c0034eed1e29d53.pdf
+===
+SECTION: 17 (selected clauses)
+TITLE: Documents of which registration is compulsory
+TEXT:
+(1) The following documents shall be registered, if the property to which they relate is situate in a district in which, and if they have been executed on or after the date on which this Act came or comes into force, namely:—
+(a) instruments of gift of immoveable property;
+(b) other non-testamentary instruments which purport or operate to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent, of the value of one hundred rupees and upwards, to or in immoveable property;
+(ba) an instrument which grants power to an attorney or which constitutes an agreement to create, declare, assign, limit or extinguish, by way of sale, any right, title or interest of the value of one hundred rupees and upward, to or in immovable property;
+(c) non-testamentary instruments which acknowledge the receipt or payment of any consideration on account of the creation, declaration, assignment, limitation or extinction of any such right, title or interest; and
+(d) leases of immoveable property from year to year, or for any term exceeding one year, or reserving a yearly rent;
+(2) Nothing in clauses (b) and (c) of sub-section (1) applies to—
+(v) any document not itself creating, declaring, assigning, limiting or extinguishing any right, title or interest of the value of one hundred rupees and upwards to or in immoveable property, but merely creating a right to obtain another document which will, when executed, create, declare, assign, limit or extinguish any such right, title or interest except a document which grants power to an attorney or is an agreement to sell any right, title or interest of the said value in immovable property;
+Explanation.— A document purporting or operating to effect a contract for the sale of immoveable property shall not be deemed to require or ever to have required registration by reason only of the fact that such document contains a recital of the payment of any earnest money or of the whole or any part of the purchase money.
+===
+SECTION: 23
+TITLE: Time for presenting documents
+TEXT:
+Subject to the provisions contained in sections 24, 25 and 26, no document other than a will shall be accepted for registration unless presented for that purpose to the proper officer within four months from the date of its execution:
+Provided that a copy of a decree or order may be presented within four months from the day on which the decree or order was made, or, where it is appealable, within four months from the day on which it becomes final.
+===
+SECTION: 49
+TITLE: Effect of non-registration of documents required to be registered
+TEXT:
+No document required to be registered under this Act or under any earlier law providing for or relating to registration of documents shall—
+(a) operate to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent, to or in immoveable property, or
+(b) confer any power to adopt,
+unless it has been registered.

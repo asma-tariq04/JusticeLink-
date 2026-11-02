@@ -1,0 +1,15 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator8af69a2733e5a880a7795e33df01e2e8.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 3
+TITLE: Prevention of illegal possession of property, etc.
+TEXT:
+(1) No one shall enter into or upon any property to dispossess, grab, control or occupy it without having any lawful authority to do so with the intention to dispossess, grab, control or occupy the property from owners or occupier of such property.
+(2) Whoever contravenes the provisions of the sub-section (1). [penalty clause omitted] The victim of the offence shall also be compensated in accordance with the provision of section 544A of the Code (the Code of Criminal Procedure, 1898).
+(3) Whoever forcibly and wrongfully dispossesses any owner or occupier of any property and his act does not fall within sub-section (1). [penalty clause omitted] The person dispossessed shall also be compensated in accordance with provisions of section 544A of the Code.
+===
+SECTION: 4
+TITLE: Cognizance of offence
+TEXT:
+(1) Notwithstanding anything contained in the Code or any law for the time being in force, the contravention of section 3 shall be triable by the Court of Session on a complaint.
+(2) The offence under this Act shall be non-cognizable.

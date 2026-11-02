@@ -1,0 +1,60 @@
+SOURCE: https://power.gov.pk/siteimage/policy/3-nepraact1997.pdf
+DATE_CHECKED: 2026-11-01
+===
+SECTION: 7
+TITLE: Powers and functions of the Authority
+TEXT:
+(1) The Authority shall be exclusively responsible for regulating the provision of electric power services.
+(2) In particular and without prejudice to the generality of the foregoing power, only the Authority, subject to the provisions in sub-section (4), shall —
+(a) grant licences under this Act;
+(aa) specify procedures and standards for registration of persons providing electric power services;
+(ab) aid and advise the Federal Government in the formulation of national electricity plan;
+(ac) ensure efficient tariff structures and market design for sufficient liquidity in the power markets;
+(b) specify procedures and standards for investment programmes by generation companies and persons licensed or registered under this Act;
+(c) specify and enforce performance standards for generation companies and persons licensed or registered under this Act;
+(d) specify accounting standards and establish a uniform system of account by generation companies and persons licensed or registered under this Act;
+(e) specify fees including fees for grant of licences and renewal thereof;
+(g) review its orders, decisions or determinations;
+(h) settle disputes between licensees in accordance with the specified procedure;
+(i) issue guidelines and standards operating procedures;
+(ia) promote the development of a market, including trading, in accordance with the national electricity policy and the national electricity plan; and
+(j) perform any other function which is incidental or consequential to any of the aforesaid functions.
+(3) Notwithstanding the provisions of sub-section (2) and without prejudice to the generality of the power conferred by sub-section (1) the Authority shall—
+(a) determine tariff, rates, charges and other terms and conditions for supply of electric power services by the generation, transmission and distribution companies and recommend to the Federal Government for notification;
+(b) review organizational affairs of generation companies and persons licensed or registered under this Act to avoid any adverse effect on the operation of electric power services and for continuous and efficient supply of such services;
+(c) encourage uniform industry standards and code of conduct for generation companies and persons licensed or registered under this Act;
+(d) tender advice to public sector projects;
+(e) submit reports to the Federal Government in respect of activities of generation companies and persons licensed or registered under this Act; and
+(f) perform any other function which is incidental or consequential to any of the aforesaid functions.
+(4) Notwithstanding anything contained in this Act, the Government of a Province may construct power houses and grid stations and lay transmission lines for use within the Province and determine the tariff for distribution of electricity within the Province, and such tariff shall not be called into question by the Authority.
+(5) Before approving the tariff for the supply of electric power by generation companies using hydro-electric plants, the Authority shall consider the recommendations of the Government of the Province in which such generation facility is located.
+(6) In performing its functions under this Act, the Authority shall protect the interests of consumers and companies providing electric power services in accordance with the principles of transparency and impartiality.
+===
+SECTION: 12G
+TITLE: Appellate procedures
+TEXT:
+(1) Any person aggrieved by a decision or order of the Authority or a single member thereof or a Tribunal established under section 11 may, within thirty days of the decision or order, prefer an appeal to the Appellate Tribunal in the prescribed manner and the Appellate Tribunal shall decide such appeal within three months after the filing of the appeal.
+(2) In examining an appeal under sub-section (1), the Appellate Tribunal may make such further inquiry as it may consider necessary and after giving the Authority or the Tribunal and an appellant an opportunity of being heard, pass such order as it thinks fit, confirming, altering or annulling a decision or order appealed against:
+Provided that if the decision under appeal is a determination of tariff by the Authority, then the Appellate Tribunal may in case of disagreement with the determination of the Authority, remand the matter back to the Authority with relevant guidelines, which shall be duly considered by the Authority which shall be bound to review its determination within one month of the receipt of such guidelines from the Appellate Tribunal.
+(3) The decision of the Appellate Tribunal shall be in writing, detailing the issues raised in the appeal and the arguments adopted by the appellant and the Authority or Tribunal as the case may be. The Appellate Tribunal shall also provide reasons for reaching its decision with reference to the provisions of this Act and the facts of the case.
+(4) The Appellate Tribunal shall provide copies of its decision to all the appellants and the respondents including the Authority or Tribunal, as the case may be, not later than five days from the date of rendering its decision.
+(5) A decision or order of the Authority or Tribunal, as the case may be, shall be given full force and effect during the pendency of any appeal of such determination.
+(6) The decision of the Appellate Tribunal shall be appealable before the High Court having territorial jurisdiction.
+===
+SECTION: 12H
+TITLE: Disclosure of interest
+TEXT:
+The following shall apply to Members of the Appellate Tribunal including the Chairman, namely:–
+(a) a Member of the Appellate Tribunal shall be deemed to have an interest in a matter if he has any interest, pecuniary or otherwise, in such matter which could reasonably be regarded as giving rise to a conflict between his duty to honestly perform his functions, so that his ability to consider and decide any question impartially or to give any advice without bias, may reasonably be regarded as impaired;
+(b) a Member of the Appellate Tribunal having any interest in any matter to be discussed or decided by the Appellate Tribunal shall disclose in writing to the Secretary to the Tribunal, the fact of his interest and the nature thereof;
+(c) a Member of the Appellate Tribunal shall give written notice to the Secretary to the Appellate Tribunal of all direct or indirect pecuniary or other material or personal interests that he has or acquires in a body corporate involved in a matter before the Appellate Tribunal; and
+(d) a disclosure of interest under clause (a) shall be made a part of the record of the Appellate Tribunal in that particular matter.
+===
+SECTION: 12I
+TITLE: Powers of the Appellate Tribunal
+TEXT:
+(1) The Appellate Tribunal shall, for the purpose of deciding an appeal, be deemed to be a civil court and shall have the same powers as are vested in such court under the Code of Civil Procedure, 1908 (Act V of 1908), including the powers of –
+(a) enforcing the attendance of any person and examining him on oath;
+(b) compelling the production of documents; and
+(c) issuing commissions for the examination of witnesses and documents.
+(2) The Appellate Tribunal may call for and examine any record, information or documents from any person in relation to the matter under appeal before it for the purposes of enabling it to come to a decision.

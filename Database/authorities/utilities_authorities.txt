@@ -1,0 +1,34 @@
+===
+AUTHORITY: National Electric Power Regulatory Authority (nepra)
+DESCRIPTION: The federal regulator for the electricity sector, responsible for fixing tariffs, regulating distribution companies (DISCOs), and addressing consumer complaints regarding billing errors, overbilling, and power supply.
+COMPLAINT_PROCESS: Consumers must first register a complaint with their respective local DISCO complaint cell; if unresolved, complaints can be escalated online via the NEPRA consumer portal.
+SOURCE: https://www.nepra.org.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: Oil and Gas Regulatory Authority (OGRA)
+DESCRIPTION: The regulatory authority supervising the supply, transmission, pricing, and distribution of natural gas, LPG, and petroleum products, alongside resolving consumer grievances against gas utility companies.
+COMPLAINT_PROCESS: Initial complaints must be logged with the regional gas company (SNGPL/SSGC); subsequent appeals can be forwarded to OGRA's consumer affairs department.
+SOURCE: https://www.ogra.org.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: Pakistan Telecommunication Authority (PTA)
+DESCRIPTION: The telecom regulator which oversees internet, broadband, and mobile network service standards, utility billing disputes, and consumer quality-of-service issues.
+COMPLAINT_PROCESS: Complaints are registered electronically through the PTA Consumer Complaint Management System (CMS) portal.
+SOURCE: https://www.pta.gov.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: Wafaqi Mohtasib (Federal Ombudsman)
+DESCRIPTION: An independent federal institution that investigates complaints of maladministration, delays, corruption, or arbitrary decisions by federal government departments, utility providers, and public agencies.
+COMPLAINT_PROCESS: Online complaints can be filed free of cost by filling out the form on the official Wafaqi Mohtasib website or via postal correspondence.
+SOURCE: https://www.ombudsperson.gov.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: Electricity & Gas Companies Complaint Cells (DISCOs / SNGPL / SSGC)
+DESCRIPTION: First-line operational customer service centers established by utility companies to handle day-to-day electrical/gas faults, meter replacements, line breakages, and localized billing adjustments.
+COMPLAINT_PROCESS: Consumers can contact them directly via local customer care helplines, official mobile apps, or walk-in regional customer service centers.
+SOURCE: https://pakistancode.gov.pk
+DATE_CHECKED: 2026-11-01

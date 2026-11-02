@@ -1,0 +1,38 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator7db1e56f0f1d39a6e67573ec6b0944e2.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 22A (sub-section 6)
+TITLE: Powers of Justices of the Peace
+TEXT:
+(6) An ex-officio Justice of the Peace may issue appropriate directions to the police authorities concerned on a complaint regarding—
+(i) non-registration of a criminal case;
+(ii) transfer of investigation from one police officer to another; and
+(iii) neglect, failure or excess committed by a police authority in relation to its functions and duties.
+===
+SECTION: 155
+TITLE: Information in non-cognizable cases
+TEXT:
+(1) When information is given to an officer in charge of a police-station of the commission within the limits of such station of a non-cognizable offence, he shall enter in a book to be kept as aforesaid the substance of such information and refer the informant to the Magistrate.
+(2) Investigation into non-cognizable cases. No police-officer shall investigate a non-cognizable case without the order of a Magistrate of the first or second class having power to try such case or send the same for trial to the Court of Session.
+(3) Any police-officer receiving such order may exercise the same powers in respect of the investigation (except the power to arrest without warrant) as an officer in charge of a police-station may exercise in a cognizable case.
+===
+SECTION: 156
+TITLE: Investigation into cognizable cases
+TEXT:
+(1) Any officer in charge of a police-station may, without the order of a Magistrate, investigate any cognizable case which a Court having jurisdiction over the local area within the limits of such station would have power to inquire into or try under the provisions of Chapter XV relating to the place of inquiry or trial.
+(2) No proceeding of a police-officer in any such case shall at any stage be called in question on the ground that the case was one which such officer was not empowered under this section to investigate.
+(3) Any Magistrate empowered under section 190 may order such an investigation as above-mentioned.
+===
+SECTION: 190
+TITLE: Cognizance of offences by Magistrates
+TEXT:
+(1) All Magistrates of the first class, or any other Magistrate specially empowered by the Provincial Government on the recommendation of the High Court, may take cognizance of any offence—
+(a) upon receiving a complaint of facts which constitute such offence;
+(b) upon a report in writing of such facts made by any police officer;
+(c) upon information received from any person other than a police officer, or upon his own knowledge or suspicion that such offence has been committed which he may try or send to the Court of Sessions for trial.
+(2) A Magistrate taking cognizance under sub-section (1) of an offence triable exclusively by a Court of Session shall, without recording any evidence, send the case to the Court of Session for trial.
+===
+SECTION: 200
+TITLE: Examination of complainant
+TEXT:
+A Magistrate taking cognizance of an offence on complaint shall at once examine the complainant upon oath, and the substance of the examination shall be reduced to writing and shall be signed by the complainant, and also by the Magistrate.

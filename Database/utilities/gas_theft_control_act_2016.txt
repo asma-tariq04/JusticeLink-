@@ -1,0 +1,32 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administratorbc7a7889f6f45447c3879f7c2107c0b2.pdf
+DATE_CHECKED: 2026-11-01
+===
+SECTION: 5
+TITLE: Powers of the Gas Utility Court
+TEXT:
+(1) Subject to the provisions of this Act, a Gas Utility Court shall,—
+(a) in the exercise of its civil jurisdiction have all the powers vested in a Civil Court under the Code of Civil Procedure, 1908 (Act V of 1908); and
+(b) in the exercise of its criminal jurisdiction, try offences punishable under this Act and shall for this purpose have the same powers as are vested in a Court of Sessions under the Code of Criminal Procedure, 1898 (Act V of 1898).
+(2) A Gas Utility Court shall not take cognizance of any offence punishable under this Act except upon a complaint made in writing by a person authorized in this behalf by a Gas Utility Company.
+(3) A Gas Utility Court shall follow the procedure laid down in the CPC 1908 and CrPC 1898 where not provided for in this Act.
+(4) All proceedings before a Gas Utility Court shall be deemed to be judicial proceedings within the meaning of sections 193 and 228 of the Pakistan Penal Code, 1860.
+(5) No court or authority shall exercise jurisdiction with respect to any matter to which the jurisdiction of a Gas Utility Court extends, except for rights of utility companies or consumers to seek remedies before other courts/tribunals as provided.
+===
+SECTION: 6
+TITLE: Procedure for complaints and suits for default before Gas Utility Courts
+TEXT:
+(1) Where a person is involved in an offence under this Act or where there are sums due or recoverable, or where a consumer has a dispute regarding billing or metering against a Gas Utility Company, a consumer or Gas Utility Company may file a complaint or suit before a Gas Utility Court as prescribed by CPC 1908 or CrPC 1898.
+(2) The plaint shall be supported by a gas sales agreement, gas bill, or other documentation evidencing the contract or obligation, along with sufficient copies for defendants.
+(3) The plaint in a suit for recovery by a Gas Utility Company shall specifically state the quantity of gas consumed, amounts paid with dates, and total outstanding dues up to the date of institution.
+(4) Summons shall be served on the defendant through bailiff, registered post, courier, and publication in one English and one Urdu daily newspaper, which shall be deemed valid service.
+===
+SECTION: 7
+TITLE: Leave to defend
+TEXT:
+(1) The defendant shall not be entitled to defend the suit unless he obtains leave from the Gas Utility Court; in default, allegations of fact shall be deemed admitted and a decree may be passed.
+(2) The application for leave to defend shall be filed within twenty-one days of the date of first service.
+(3) The application shall be in the form of a written statement containing a summary of substantial questions of law and fact.
+(4) The application shall specifically state gas consumed, amounts paid, outstanding dues, disputed amounts, and admit/deny documents relied upon in the plaint, accompanied by supporting documents.
+(7) The plaintiff shall be given an opportunity to file a reply in the form of a replication.
+(8) The Gas Utility Court shall grant leave to defend if substantial questions of law or fact are raised requiring evidence.
+(12) Where the application for leave to defend is rejected or conditions are not fulfilled, the Gas Utility Court shall forthwith pass judgment and decree in favour of the plaintiff.

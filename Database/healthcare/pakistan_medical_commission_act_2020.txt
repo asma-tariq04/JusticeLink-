@@ -1,0 +1,31 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator34991d9e421dc841af80fca994884efa.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 30
+TITLE: Inspection
+TEXT:
+(1) The Authority shall appoint inspectors in accordance with terms and qualifications prescribed by the Council to inspect facilities for training available at the medical or dental institutions for grant of recognition to provide house job, internship or foundation year training or post graduate training:
+Provided that an institution recognized for training by the College of Physicians and Surgeons of Pakistan shall be provisionally recognized by the Council for purposes of post graduate training subject to verification of compliance with prescribed criteria in due course.
+(2) Inspectors shall immediately upon completion of the inspection compile a comprehensive report on the prescribed format on the standard of the inspected facilities and on the courses of study and facilities for teaching provided by the medical or dental institution inspected and shall submit it to the Authority.
+(3) The Authority shall forward a copy of such report to the medical or dental institution concerned for any response prior to placing the report along with its recommendation before the Council.
+(4) The Authority may conduct inspections of recognized facilities on a periodical basis, provided that every institution shall be re-inspected at least once in every five years.
+===
+SECTION: 32
+TITLE: Disciplinary proceedings, suspension or cancellation of licence
+TEXT:
+(1) The Council in compliance to directions of the Medical Tribunal or upon a finding pursuant to a disciplinary hearing or upon an inquiry and hearing conducted by the Authority or the Council itself, may temporarily suspend or permanently cancel the licence of a practitioner or impose such penalties as may be prescribed for having violated any obligation imposed upon the licensee or for medical or professional negligence or misconduct.
+(2) The licence of a practitioner which has expired or who has not successfully re-validated within the time prescribed shall be deemed to have been suspended until such time as it is re-validated in the prescribed manner.
+(3) The Commission shall on the complaint of any person or authority or of its own motion on information received, initiate disciplinary proceedings against any full licence holder or any recognized institution in respect of medical negligence, misconduct or violation of any obligation under this Act, or any rules or regulations or directions of the Commission other than offences provided for under sub-sections (1), (2), (3), (4) and (5) of section 34:
+Provided that a show cause notice shall be issued within fifteen days of receipt of the complaint to the person stating the allegations and providing a period of at least thirty days to respond and a right to be heard before the disciplinary committee:
+Provided further that the identity of the person filing a complaint shall be disclosed to the accused and any person found to have filed a false and frivolous complaint shall be required to pay the costs incurred by the accused and a further penalty being a fine to be determined by the disciplinary committee.
+(4) The Council shall form a disciplinary committee consisting of three members of the Council of which one shall be the member having legal qualifications to hear all disciplinary matters. The member law shall act as secretary to the disciplinary committee.
+(5) The Authority shall select at least one licensed practitioner as an expert with a minimum fifteen years standing in the speciality to which the complaint relates to assist the disciplinary committee at the hearing. The written opinion of the expert shall be appended with the decision of the disciplinary committee and shall form part of the record.
+(6) The disciplinary committee shall hear and decide each complaint within ninety days of the issuance of the show cause notice. The disciplinary committee shall impose penalties as prescribed by regulations made by the Council specifying penalties commensurate with each category of offence.
+(7) For the purpose of an inquiry or disciplinary hearing, the Council or a committee of the Council shall exercise all the powers of a civil court under the Code of Civil Procedure, 1908 (Act V of 1908) for summoning the witnesses, for compelling the production of documents and for issuing commissions.
+===
+SECTION: 37
+TITLE: Appeals to the Medical Tribunal
+TEXT:
+(1) Any person including an employee of the Commission aggrieved by any order or direction of the Commission, including the Council. Authority or disciplinary committee, under any provision of this Act, or rules or regulations may prefer an appeal only before the Medical Tribunal within thirty days of the date of communication of the impugned order or direction.
+(2) An appeal to the Medical Tribunal shall be in such form, contain such particulars and be accompanied by such fees as may be prescribe
+===

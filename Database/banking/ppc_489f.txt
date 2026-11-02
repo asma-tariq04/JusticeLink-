@@ -1,0 +1,8 @@
+SOURCE: https://galaxefi.com/pakistan-penal-code-section-489-f/
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 489-F
+TITLE: Dishonestly issuing a cheque
+TEXT:
+Whoever dishonestly issues a cheque towards repayment of a loan or fulfillment of an obligation which is dishonored on presentation, unless he can establish, for which the burden of proof shall rest on him, that he had made arrangements with his bank to ensure that the cheque would be honored and that the bank was at fault in not honoring the cheque.
+===

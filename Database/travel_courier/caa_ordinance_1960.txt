@@ -1,0 +1,90 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator61805913d2877bbf319c042d8394196d.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 11
+TITLE: Master-plan and master programme
+TEXT:
+The Authority shall prepare a master-plan and a phased master-programme for the development of the Capital Site, and may prepare a similar plan and programme for the rest of the Specified Areas, and all such plans and programmes shall be submitted to the Federal Government for approval.
+===
+SECTION: 13
+TITLE: Preparation of schemes by Authority
+TEXT:
+The Authority may, pursuant to the master-programme, itself prepare, when it considers it desirable to do so in the public interest, schemes for the Specified Areas relating to the matters enumerated in sub-section (2) of section 12.
+===
+SECTION: 15
+TITLE: Power of the Authority
+TEXT:
+(1) Subject to the other provisions of this Ordinance and the rules, the Authority may take such measures and exercise such powers as may be necessary for the carrying out of the purposes of this Ordinance. 
+(2) Without prejudice to the generality of powers conferred by sub-section (1), the Authority may— 
+(i) acquire any land in the Specified Areas in accordance with the procedure laid down in Chapter IV; 
+(ii) undertake any works in the Specified Areas in pursuance of any scheme prepared under Section 13; 
+(iii) incur any expenditure; 
+(iv) procure plant, machinery, instruments and materials required for its use; 
+(v) enter into and perform all such contracts including but not limited to joint ventures, public private partnerships, concession agreements, etc. as it may consider necessary; 
+(vi) cause studies, surveys, experiments and technical researches to be made or contribute towards the cost of any such studies, surveys, experiments or technical researches made by any other agency at the request of the Authority; 
+(vii) issue interim development orders for areas for which a master-plan is under preparation and restrict or prohibit by general or special order any change in the use of land and alteration in buildings, structures and installations; 
+(viii) cause removal of any works obstructing the execution of its schemes; 
+(ix) seek and obtain advice and assistance for the preparation of any planning scheme or for the execution of any schemes from any local body or agency and such local body or agency shall give the advice and assistance sought by the Authority to the best of its ability, knowledge and judgment, and the additional expenditure, if any, involved in giving such advice or assistance shall be borne by the Authority.
+===
+SECTION: 16
+TITLE: Borrowing powers
+TEXT:
+(1) The Authority may, with the previous approval in writing of the Federal Government, raise funds for the purpose of raising its working capital by issuing bonds and debentures carrying interest at such rates as may be approved by the Federal Government. 
+(2) The repayment of the principal and the payment of interest due on the bonds and debentures issued by the Authority shall be guaranteed by the Federal Government.
+===
+SECTION: 22
+TITLE: Liability to acquisition
+TEXT:
+All land within the Specified Areas shall be liable to acquisition at any time in accordance with the provisions of this Chapter.
+===
+SECTION: 25
+TITLE: Power to acquire land
+TEXT:
+(1) Subject to the other provisions of this Ordinance, the rules made thereunder, and the directions of the Authority, the Deputy Commissioner may, by order in writing, acquire any land for the purposes of this Ordinance. 
+(2) No order under sub-section (1) shall be issued except on the receipt by the Deputy Commissioner of specified directions from the Authority.
+===
+SECTION: 28
+TITLE: Enquiry and award of Deputy Commissioner
+TEXT:
+(1) On the day so fixed, or on any other day to which the enquiry has been adjourned, the Deputy Commissioner shall proceed to enquire into the objections, if any, which any person interested has stated pursuant to the notice given under section 27, and into the market value of the land and into the respective interests of the persons claiming the compensation, and shall make an award of— 
+(i) the true area of the land; 
+(ii) the compensation which in his opinion should be allowed for the land; and 
+(iii) the apportionment of such compensation among all the persons known or believed to be interested in the land of whom, or of whose claims, he has information, whether or not they have appeared before him. 
+(2) Notwithstanding anything contained in this Ordinance, where land includes a building or built up property, the Deputy Commissioner may issue two separate awards one for the land and another for the building or built up property.
+===
+SECTION: 32
+TITLE: Vesting of land in the Authority
+TEXT:
+Immediately on the making of the award under section 28, the land shall vest in the Authority free from all encumbrances and thereupon the Deputy Commissioner may, after giving reasonable notice to the occupier, enter upon and take possession of the same: 
+Provided that in case of a separate award for land and the buildings thereon, the land or the building, as the case may be, shall vest in the Authority free from all encumbrances upon the making of the respective award.
+===
+SECTION: 32A
+TITLE: Additional Compensation
+TEXT:
+When the compensation is determined under section 29 and sub-sections (3) and (4) of section 30, is not paid, deposited or tendered with the Deputy Commissioner on or before taking possession of the land, the Deputy Commissioner shall, in addition to such compensation, pay additional compensation computed at the rate of eight per centum per annum on such amount. [penalty/punishment clause omitted]
+===
+SECTION: 36A
+TITLE: Deputy Commissioner and Commissioner to have powers of civil court, etc.
+TEXT:
+(1) The Deputy Commissioner making any enquiry, or conducting any proceedings for an award under this Ordinance, or the Commissioner hearing an appeal or holding a review under section 36, shall have the same powers in respect of the following matters as are vested in a civil court, when trying a suit, under the Code of Civil Procedure, 1908 (Act V of 1908), namely:— 
+(a) summoning and enforcing attendance of any person and examining him on oath or affirmation; 
+(b) requiring the discovery and production of any document; 
+(c) requisitioning any record from any court or office; 
+(d) issuing commissions for examination of witnesses, inspection of property or making any local investigations; 
+(e) appointing guardian ad litem or next friends; 
+(f) adding or substituting representatives of deceased parties to proceedings; 
+(g) adding or dropping parties from pending proceedings; 
+(h) restoration of cases dismissed for default; 
+(i) consolidating and splitting up cases; and 
+(j) any other matter connected with the holding of an inquiry or hearing of an appeal. 
+(2) The Deputy Commissioner or the Commissioner exercising powers under this Ordinance shall be deemed to be a court for the purposes of sections 480 and 482 of the Code of Criminal Procedure, 1898 (V of 1898), and a proceeding before him shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228 of the Pakistan Penal Code (XLV of 1860).
+===
+SECTION: 46A
+TITLE: Causing damage to property
+TEXT:
+Whoever willfully causes damage or allows damage to be caused to any property which vests in the Authority or unlawfully converts it to his own use or to that of any other person. [penalty clause omitted]
+===
+SECTION: 49
+TITLE: Power to dispose of land
+TEXT:
+The Authority may retain, or may lease, sell, exchange, rent or otherwise dispose of any land vested in it.

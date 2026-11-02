@@ -1,0 +1,34 @@
+===
+AUTHORITY: National Cyber Crime Investigation Agency (NCCIA)
+DESCRIPTION: The primary federal investigative agency responsible for inquiring into, investigating, and prosecuting electronic crimes, cyberstalking, online financial frauds, hacking, and offenses under the Prevention of Electronic Crimes Act (PECA), 2016.
+COMPLAINT_PROCESS: Victims can lodge complaints online through the official NCCIA portal or submit written applications to the designated regional cyber crime circle offices.
+SOURCE: https://nccia.gov.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: Securities and Exchange Commission of Pakistan (SECP)
+DESCRIPTION: The apex regulatory body that regulates the corporate sector, non-banking financial companies (NBFCs), insurance companies, securities exchanges (PSX), and digital lending/loan apps to prevent corporate and investment fraud.
+COMPLAINT_PROCESS: Complaints regarding corporate fraud, illegal digital lending apps, or company disputes can be submitted via the SECP Service Desk online complaints portal.
+SOURCE: https://www.secp.gov.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: State Bank of Pakistan (SBP)
+DESCRIPTION: The central bank of Pakistan that regulates the banking sector, commercial banks, electronic fund transfers (EFT), and monetary policies, safeguarding consumers against unauthorized banking transactions.
+COMPLAINT_PROCESS: Consumers must first approach their respective bank branch or helpline; if unresolved, complaints can be lodged via the SBP Banking Services Corporation consumer portal.
+SOURCE: https://www.sbp.org.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: Pakistan Telecommunication Authority (PTA)
+DESCRIPTION: The regulatory authority for telecommunication systems, mobile network operators, internet service providers, SIM card issuance verification, and blocking unlawful online/social media content.
+COMPLAINT_PROCESS: Complaints regarding telecom services, blocked SIMs, or objectionable online content can be registered via the PTA Complaint Management System (CMS) portal or mobile helpline.
+SOURCE: https://www.pta.gov.pk
+DATE_CHECKED: 2026-11-01
+
+===
+AUTHORITY: Banking Mohtasib Pakistan
+DESCRIPTION: An independent institutional forum providing swift and free resolution of financial disputes, unauthorized electronic fund withdrawals, fraudulent transfers, and banking malpractices between banks and customers.
+COMPLAINT_PROCESS: After filing a formal written complaint with the bank and waiting for a response (or rejection), a petition can be filed online or via postal form on the official website.
+SOURCE: https://www.bankingmohtasib.gov.pk
+DATE_CHECKED: 2026-11-01

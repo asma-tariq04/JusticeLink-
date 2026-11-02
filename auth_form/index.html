@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JusticeLink - Sign in & Sign up</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+    }
+    @media (max-width: 768px) {
+    .wrapper {
+        width: 300px !important;
+        height: 460px !important;
+        transform: scale(0.85);
+        transform-origin: center;
+    }
+}
+@media (max-width: 768px) {
+    .wrapper {
+        width: 350px;
+        height: 540px;
+        transform: scale(0.82);
+        transform-origin: center center;
+    }
+}
+@media (max-width: 768px) {
+    .wrapper .form-container form h2 {
+        font-size: 24px !important;
+        margin-bottom: 2px !important;
+    }
+    .wrapper .form-container form .form-group {
+        width: 100% !important;
+        margin: 12px 0 !important;
+    }
+    .wrapper .form-container form .form-group input {
+        height: 36px !important;
+        font-size: 14px !important;
+    }
+    .wrapper .form-container form .btn {
+        height: 38px !important;
+        font-size: 14px !important;
+    }
+}
+    :root {
+        --mainColor: #89216b;
+        --whiteColor: #ffffff;
+        --titleColor: #4A3A36;
+        --labelColor: #333333;
+    }
+
+    html { font-size: 16px; scroll-behavior: smooth; }
+
+    body {
+        background: transparent;
+        font-weight: 400;
+        min-height: 100vh;
+        display: grid;
+        place-content: center;
+        overflow: hidden;
+    }
+
+    .wrapper { position: relative; width: 350px; height: 540px; }
+
+    @media(min-width: 540px) { .wrapper { width: 400px; } }
+
+    .wrapper .form-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        background-color: var(--whiteColor);
+        border-radius: 8px;
+        box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.2);
+    }
+
+    .wrapper .form-container form h2 {
+        font-size: 30px;
+        text-align: center;
+        text-transform: capitalize;
+        color: var(--titleColor);
+    }
+
+    .wrapper .form-container form .form-group {
+        position: relative;
+        width: 320px;
+        max-width: 100%;
+        margin: 26px 0;
+    }
+
+    .wrapper .form-container form .form-group i,
+    .wrapper .form-container form .form-group label {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 16px;
+        text-transform: capitalize;
+        color: var(--labelColor);
+        padding: 0 5px;
+        pointer-events: none;
+        transition: all .5s ease;
+    }
+
+    .wrapper .form-container form .form-group i { left: 5px; }
+    .wrapper .form-container form .form-group label { left: 25px; }
+
+    .wrapper .form-container form .form-group input {
+        width: 100%;
+        height: 40px;
+        padding: 0 10px;
+        border-radius: 5px;
+        border: none;
+        outline: none;
+        border: 1px solid var(--labelColor);
+        font-size: 16px;
+        color: var(--labelColor);
+        background: transparent;
+    }
+
+    form .form-group input:focus~label,
+    form .form-group input:valid~label,
+    form .form-group input:focus~i,
+    form .form-group input:valid~i {
+        top: 0 !important;
+        font-size: 12px !important;
+        background-color: var(--whiteColor);
+    }
+
+    .wrapper .form-container form .forgot-pass { margin: -15px 0 15px; }
+
+    .wrapper .form-container form .forgot-pass a {
+        color: var(--labelColor);
+        text-decoration: none;
+        font-size: 14px;
+        text-transform: capitalize;
+        transition: all .5s ease;
+    }
+    .wrapper .form-container form .forgot-pass a:hover { color: var(--mainColor); }
+
+    
+    .msg {
+        font-size: 13px;
+        text-align: center;
+        margin: -8px 0 10px 0;
+    }
+    .msg:empty { display: none; }
+    .msg.err { color: #b3261e; }
+    .msg.ok  { color: #2e7d32; }
+
+    .wrapper .form-container form .btn {
+        background: linear-gradient(90deg, #5A4231 0%, #7E614A 100%) !important;
+        color: var(--whiteColor);
+        text-transform: capitalize;
+        width: 100%;
+        height: 40px;
+        font-size: 16px;
+        font-weight: 500;
+        outline: none;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
+    }
+    .wrapper .form-container form .btn:hover {
+        background: linear-gradient(90deg, #443224 0%, #634C38 100%) !important;
+    }
+    .wrapper .form-container form .btn:disabled { opacity: 0.6; cursor: wait; }
+
+    .wrapper .form-container form .link {
+        text-align: center;
+        font-size: 14px;
+        color: #8a7350;
+        margin: 22px 0;
+    }
+    .wrapper .form-container form .link a {
+        text-transform: capitalize;
+        color: #795548;
+        text-decoration: none;
+        font-weight: 600;
+        transition: all .5s ease;
+    }
+    .wrapper .form-container form .link a:hover { color: #4A3A36; }
+
+    .wrapper .sign-up { transform: rotate(7deg); }
+
+    /* Flip Animations (tumhari wahi) */
+    .wrapper.animated-signin .form-container.sign-in { animation: signin-flip 1s ease-in-out forwards; }
+    @keyframes signin-flip {
+        0%   { transform: translateX(0); }
+        50%  { transform: translateX(-500px) scale(1.1); }
+        100% { transform: translateX(0) rotate(7deg) scale(1); }
+    }
+    .wrapper.animated-signin .form-container.sign-up { animation: rotatecard .7s ease-in-out forwards; }
+    .wrapper.animated-signup .form-container.sign-up { animation: signup-flip 1s ease-in-out forwards; }
+    @keyframes signup-flip {
+        0%   { transform: translateX(0); z-index: 1; }
+        50%  { transform: translateX(500px) scale(1.1); }
+        100% { transform: translateX(0) rotate(7deg) scale(1); }
+    }
+    .wrapper.animated-signup .form-container.sign-in {
+        transform: rotate(7deg);
+        animation: rotatecard .7s ease-in-out forwards;
+        animation-delay: .3s;
+    }
+    @keyframes rotatecard {
+        0%   { transform: rotate(7deg); }
+        100% { transform: rotate(0); z-index: 1; }
+    }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <!-- Sign Up Card -->
+        <div class="form-container sign-up">
+            <form id="signup-form" action="#" novalidate>
+                <h2>sign up</h2>
+                <div class="form-group">
+                    <input type="text" id="su-username" autocomplete="username" required>
+                    <i class="fas fa-user"></i>
+                    <label>username</label>
+                </div>
+                <div class="form-group">
+                    <input type="email" id="su-email" autocomplete="email" required>
+                    <i class="fas fa-at"></i>
+                    <label>email</label>
+                </div>
+                <div class="form-group">
+                    <input type="password" id="su-password" autocomplete="new-password" required>
+                    <i class="fas fa-lock"></i>
+                    <label>password</label>
+                </div>
+                <div class="form-group">
+                    <input type="password" id="su-confirm" autocomplete="new-password" required>
+                    <i class="fas fa-lock"></i>
+                    <label>confirm password</label>
+                </div>
+                <p class="msg" id="su-msg"></p>
+                <button type="submit" class="btn" id="su-btn">sign up</button>
+                <div class="link">
+                    <p>You already have an account?<a href="#" class="signin-link"> sign in</a></p>
+                </div>
+            </form>
+        </div>
+
+        <!-- Login Card -->
+        <div class="form-container sign-in">
+            <form id="login-form" action="#" novalidate>
+                <h2>login</h2>
+                <div class="form-group">
+                    <input type="text" id="li-username" autocomplete="username" required>
+                    <i class="fas fa-user"></i>
+                    <label>username</label>
+                </div>
+                <div class="form-group">
+                    <input type="password" id="li-password" autocomplete="current-password" required>
+                    <i class="fas fa-lock"></i>
+                    <label>password</label>
+                </div>
+                <div class="forgot-pass">
+                    <a href="#" id="forgot-link">forgot password?</a>
+                </div>
+                <p class="msg" id="li-msg"></p>
+                <button type="submit" class="btn" id="li-btn">login</button>
+                <div class="link">
+                    <p>Don't have an account?<a href="#" class="signup-link"> sign up</a></p>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+    (function () {
+        // ------------------------------------------------------------
+        // Streamlit se baat karne ka chhota bridge (React ki zaroorat nahi)
+        // ------------------------------------------------------------
+        function sendToStreamlit(type, data) {
+            var msg = { isStreamlitMessage: true, type: type };
+            for (var key in data) { msg[key] = data[key]; }
+            window.parent.postMessage(msg, "*");
+        }
+        function componentReady() { sendToStreamlit("streamlit:componentReady", { apiVersion: 1 }); }
+        function setFrameHeight(h) { sendToStreamlit("streamlit:setFrameHeight", { height: h }); }
+        function setComponentValue(v) { sendToStreamlit("streamlit:setComponentValue", { value: v, dataType: "json" }); }
+
+        function newNonce() { return Date.now() + "-" + Math.random().toString(36).slice(2); }
+
+        // ------------------------------------------------------------
+        // Tumhari flip animation (wahi code)
+        // ------------------------------------------------------------
+        var wrapper = document.querySelector('.wrapper');
+        var signUpLink = document.querySelector('.link .signup-link');
+        var signInLink = document.querySelector('.link .signin-link');
+
+        function clearMessages() {
+            document.getElementById("su-msg").textContent = "";
+            document.getElementById("li-msg").textContent = "";
+        }
+
+        signUpLink.addEventListener('click', function (e) {
+            e.preventDefault();
+            clearMessages();
+            wrapper.classList.add('animated-signin');
+            wrapper.classList.remove('animated-signup');
+        });
+        signInLink.addEventListener('click', function (e) {
+            e.preventDefault();
+            clearMessages();
+            wrapper.classList.add('animated-signup');
+            wrapper.classList.remove('animated-signin');
+        });
+
+        // ------------------------------------------------------------
+        // Messages
+        // ------------------------------------------------------------
+        function showMessage(id, text, kind) {
+            var el = document.getElementById(id);
+            el.textContent = text;
+            el.className = "msg " + (kind === "ok" ? "ok" : "err");
+        }
+
+        
+        var loginForm = document.getElementById("login-form");
+        var signupForm = document.getElementById("signup-form");
+        var loginBtn = document.getElementById("li-btn");
+        var signupBtn = document.getElementById("su-btn");
+
+        loginForm.addEventListener("submit", function (e) {
+            e.preventDefault();
+            clearMessages();
+            var username = document.getElementById("li-username").value.trim();
+            var password = document.getElementById("li-password").value;
+            if (!username || !password) {
+                showMessage("li-msg", "Please enter username and password.", "err");
+                return;
+            }
+            loginBtn.disabled = true;
+            setComponentValue({ event: "login", username: username, password: password, nonce: newNonce() });
+        });
+
+        signupForm.addEventListener("submit", function (e) {
+            e.preventDefault();
+            clearMessages();
+            var username = document.getElementById("su-username").value.trim();
+            var email = document.getElementById("su-email").value.trim();
+            var password = document.getElementById("su-password").value;
+            var confirm = document.getElementById("su-confirm").value;
+
+            if (!username || !email || !password || !confirm) {
+                showMessage("su-msg", "Please fill all the fields.", "err");
+                return;
+            }
+            if (password.length < 8) {
+                showMessage("su-msg", "Password must be at least 8 characters.", "err");
+                return;
+            }
+            if (password !== confirm) {
+                showMessage("su-msg", "Passwords do not match.", "err");
+                return;
+            }
+            signupBtn.disabled = true;
+            setComponentValue({
+                event: "signup", username: username, email: email,
+                password: password, confirm: confirm, nonce: newNonce()
+            });
+        });
+
+        document.getElementById("forgot-link").addEventListener("click", function (e) {
+            e.preventDefault();
+            showMessage("li-msg", "Password reset is coming soon.", "ok");
+        });
+
+        
+        function onRender(args) {
+            loginBtn.disabled = false;
+            signupBtn.disabled = false;
+            var text = args.message || "";
+            if (text) {
+                var target = args.message_target === "signup" ? "su-msg" : "li-msg";
+                showMessage(target, text, args.message_type === "success" ? "ok" : "err");
+            }
+        }
+
+        window.addEventListener("message", function (event) {
+            if (event.data && event.data.type === "streamlit:render") {
+                onRender(event.data.args || {});
+            }
+        });
+
+        componentReady();
+        setFrameHeight(640);
+    })();
+    </script>
+</body>
+</html>

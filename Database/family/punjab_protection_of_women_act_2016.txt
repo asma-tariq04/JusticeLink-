@@ -1,0 +1,82 @@
+SOURCE: https://punjablaws.punjab.gov.pk/uploads/articles/PUNJAB_PROTECTION_OF_WOMEN_AGAINST_VIOLENCE_ACT_2016.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 2
+TITLE: Definitions
+TEXT:
+(1) In this Act:
+(a) "aggrieved person" means a female who has been subjected to violence by a defendant;
+(b) "Committee" means a District Women Protection Committee established under the Act;
+(c) “Code” means the Code of Criminal Procedure, 1898 (V of 1898);
+(d) “Court” means the Family Court established under the Family Courts Act, 1964 (XXXV of 1964);
+(e) “dependent child” means a male child who is below the age of twelve years of age and includes any adopted, step or foster child;
+(f) “District Coordination Officer” means the District Coordination Officer of the district;
+(g) “District Women Protection Officer” means the District Women Protection Officer appointed under the Act;
+(h) “domestic violence” means the violence committed by the defendant with whom the aggrieved is living or has lived in a house when they are related to each other by consanguinity, marriage or adoption;
+(i) “Government” means Government of the Punjab;
+(j) “house” includes a place where the aggrieved person lives in a domestic relationship irrespective of right to ownership or possession of the aggrieved person, defendant or joint family;
+(k) “prescribed” means prescribed by rules made under the Act;
+(l) “Protection Centre” means a Violence against Women Centre established under the Act;
+(m) “protection system” means the protection system constituted under the Act and includes a Committee, a Protection Centre and a shelter home established under the Act;
+(n) "defendant" means a person against whom relief has been sought by the aggrieved person;
+(o) “resident” means a woman residing in a shelter home or a dependent child of such woman residing with her in the shelter home or a child residing in a shelter home;
+(p) “rules” means the rules made under the Act;
+(q) “shelter home” means a premises established or licensed by the Government under the Act to provide board and lodging and rehabilitation services to the aggrieved persons, other women and their children;
+(r) “violence” means any offence committed against the human body of the aggrieved person including abetment of an offence, domestic violence, sexual violence, psychological abuse, economic abuse, stalking or a cybercrime;
+Explanations.– In this clause:
+(1) “economic abuse” means denial of food, clothing and shelter in a domestic relationship to the aggrieved person by the defendant in accordance with the defendant’s income or taking away the income of the aggrieved person without her consent by the defendant; and
+(2) “psychological violence includes psychological deterioration of aggrieved person which may result in anorexia, suicide attempt or clinically proven depression resulting from defendant’s oppressive behavior or limiting freedom of movement of the aggrieved person and that condition is certified by a panel of psychologists appointed by District Women Protection Committee; and
+(s) “Women Protection Officer” means a Women Protection Officer appointed under the Act.
+(2) A word or expression
+===
+SECTION: 7
+TITLE: Protection order
+TEXT:
+(1) If the Court is satisfied that any violence has been committed or is likely to be committed, the Court may pass a protection order in favour of the aggrieved person and direct the defendant:
+(a) not to have any communication with the aggrieved person, with or without exceptions;
+(b) stay away from the aggrieved person, with or without exceptions;
+(c) stay at such distance from the aggrieved person as may, keeping in view the peculiar facts and circumstances of the case, be determined by the Court;
+(d) wear ankle or wrist bracelet GPS tracker for any act of grave violence or likely grave violence which may endanger the life, dignity or reputation of the aggrieved person;
+(e) move out of the house in case of an act of grave violence if the life, dignity or reputation of the aggrieved person is in danger;
+(f) surrender any weapon or firearm which the defendant lawfully possesses or prohibit the defendant from purchasing a firearm or obtaining license of a firearm;
+(g) refrain from aiding or abetting an act of violence;
+(h) refrain from entering the place of employment of the aggrieved person or any other place frequently visited by the aggrieved person;
+(i) refrain from causing violence to a dependent, other relative or any person who provides assistance to the aggrieved person against violence; or
+(j) refrain from committing such other acts as may be specified in the protection order.
+(2) The Court may issue one or more directions contained in subsection (1) even if the aggrieved person has not prayed for such direction and may, keeping in view the peculiar facts and circumstances of the case, specify the period for which the protection order shall remain operative.
+(3) The Court may impose any additional conditions or pass any other direction which it may deem reasonably necessary to protect and provide for the safety of the aggrieved person or any dependent child of the aggrieved person.
+(4) The Court may require the defendant to execute a bond, with or without sureties, for preventing the commission of violence.
+(5) While making an order under this section or section 8, the Court may, pass an order directing the Women Protection Officer to provide protection to the aggrieved person or to assist the aggrieved person or the person making a complaint on behalf of the aggrieved person.
+(6) The Court may direct the police to assist the Women Protection Officer in the implementation of the protection or residence order.
+===
+SECTION: 13
+TITLE: Protection Centres and shelter homes
+TEXT:
+(1) The Government shall establish Protection Centres through a phased programme for protection of the aggrieved persons.
+(2) A Protection Centre shall:
+(a) be a converging point for all essential services to ensure justice delivery including police reporting, registration of criminal cases, medical examination, collection of forensic and other evidence;
+(b) register the cases of violence and facilitate medical examination, collection of forensic and other evidence and proper prosecution of the cases;
+(c) provide first aid relief to an aggrieved person;
+(d) collect and assist to collect evidence within twenty four hours to facilitate investigation and effective prosecution;
+(e) provide immediate protection to an aggrieved person;
+(f) establish an effective system for the receipt and disposal of the complaints within the time mentioned in the operating procedures;
+(g) maintain an effective system of mediation and reconciliation for resolution of disputes under this Act;
+(h) register information against the perpetrators of violence;
+(i) initiate cases of state-inflicted violence, if any, against women;
+(j) maintain audio-visual record of all actions carried out under the Act;
+(k) provide or arrange to provide legal aid to an aggrieved person;
+(l) provide psychological counseling to an aggrieved person;
+(m) mediate between an aggrieved person and the defendant for resolution of disputes under the Act; and
+(n) act as a community centre to guide women in all Government related inquiries.
+(3) The Government shall, through a phased programme, establish a shelter home in each district or for a local area within a district, for board and lodging of the aggrieved persons and needy women and provision of social and rehabilitative services to the residents.
+(4) A shelter home shall:
+(a) provide shelter and other allied facilities to an aggrieved person or other needy women along with dependent children;
+(b) provide, with the consent of the resident, rehabilitation services to reintegrate residents with their families and society where necessary;
+(c) refer the case of a resident to the appropriate authority or body for redressal of her grievance and regularly monitor provision of services to the residents;
+(d) arrange for technical and vocational training of the residents;
+(e) provide legal, medical, emotional support, guidance and psychological counseling to the residents;
+(f) repatriate or rehabilitate the residents in the shortest possible time;
+(g) maintain discipline and regulate visitation and timings; and
+(h) perform any other prescribed function or a function assigned to it by the Committee for purposes of protection of women, children and vulnerable persons.
+(5) Subject to general or special direction of the Committee, a male child who is not a dependent child shall not be admitted in the shelter home and instead may be referred to the Child Protection and Welfare Bureau for provision of shelter, board and lodging, education and training.
+===

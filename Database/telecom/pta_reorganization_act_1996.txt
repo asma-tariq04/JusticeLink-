@@ -1,0 +1,52 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administratorcf6de2451af9e9d016e5fef2ac7e1562.pdf
+DATE_CHECKED: 2026-11-01
+===
+SECTION: 5
+TITLE: Powers of the Authority (PTA)
+TEXT:
+(1) The Authority shall exercise all powers as shall enable it to effectively perform its functions specified in section 4.
+(2) In particular, and without prejudice to the generality of the foregoing power, the Authority shall—
+(a) grant and renew licences for any telecommunication system and service on payment of specified fees;
+(b) monitor and enforce licences;
+(c) receive applications for radio frequency spectrum and refer to the Board;
+(d) modify licences or conditions thereof;
+(e) establish or modify accounting procedures for licences and regulate tariffs;
+(f) regulate the transfer of licences;
+(g) prescribe standards for telecommunication equipment and terminal equipment and certify compliance;
+(h) provide guidelines for and determine terms of inter-connection arrangements;
+(i) carry out inspections of telecommunication equipment and premises and summon any person for investigation and enquiry;
+(j) appoint an Administrator where necessary;
+(k) develop national telecommunication numbering plans;
+(l) collect information with respect to telecommunications and review the impact thereof;
+(m) enter into contracts;
+(n) acquire, lease, dispose of movable or immovable property;
+(o) issue regulations for exercising its powers and performance of its functions;
+(p) levy fees and other charges;
+(q) regulate allocation of revenues from international telephony service;
+(r) undertake auctions or open competitive processes for radio frequency spectrum.
+===
+SECTION: 7A
+TITLE: Establishment of the Tribunal (Telecom Appellate Tribunal)
+TEXT:
+(1) The Federal Government shall establish a Tribunal for the purpose of exercising jurisdiction under this Act and the Prevention of Electronic Crimes Act, 2016, consisting of a Chairperson (former Judge of High Court or qualified advocate) and two professional members (one in ICT/Telecom and one in Finance/Economics).
+(4) The Tribunal shall have the same powers as are vested in a civil court under the CPC 1908 in respect of summoning attendance, requiring discovery and production of documents, receiving evidence on affidavits, and issuing commissions.
+(18) The Chairperson and members of the Tribunal shall be public servants within the meaning of section 21 of the Pakistan Penal Code, 1860.
+===
+SECTION: 7B
+TITLE: Appeal to Supreme Court
+TEXT:
+Any person aggrieved by an order of the Tribunal may within sixty days thereof prefer an appeal to the Supreme Court.
+===
+SECTION: 24
+TITLE: Powers of Administrator
+TEXT:
+(1) An Administrator appointed under section 23 shall have powers relating to the management of the licensee, preservation of assets, remedying contraventions, and ensuring compliance with orders issued by the Authority.
+(2) Upon satisfaction that the contravention has been remedied, the Authority shall withdraw the order and the Administrator shall hand over management back to the person from whom it was taken.
+(3) The Authority or the Administrator shall not be liable for any loss or damages caused by any act or omission undertaken in good faith.
+===
+SECTION: 25
+TITLE: Accounting procedures, investments and contracts
+TEXT:
+(1) The Authority may require any licensee to establish and maintain specified accounting procedures to obtain information for determining tariffs or exercising powers.
+(2) Accounting procedures once established may only be modified after providing reasons and an opportunity of being heard.
+(3) No licensee shall enter into any agreement or arrangement inconsistent with obligations under this Act, rules, or licence conditions; any such agreement shall be void to that extent.

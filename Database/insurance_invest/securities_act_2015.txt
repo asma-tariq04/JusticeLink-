@@ -1,0 +1,217 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administratorbefe371f44334c699795e0346e82aa98.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 40
+TITLE: Annual report of clearing house
+TEXT:
+(1) A clearing house shall, within three months after the end of each financial year or such later time as allowed by the Commission, give to the Commission an annual report that includes — 
+(a) a description of the activities undertaken by the clearing house in the financial year; 
+(b) the resources, including financial, technological and human resources, that the clearing house had available, and used, in order to ensure compliance with its obligations; 
+(c) an analysis of the extent to which the clearing house considers that the activities undertaken, and resources used, have resulted in full compliance with all of its obligations under this Act, rules and regulations made under the Act; and 
+(d) an independent regulations compliance report from the auditor certifying regulatory compliance of the clearing house during the financial year. 
+(2) The clearing house shall ensure that the annual report is accompanied by such other information and statements as may be prescribed. 
+(3) The annual report shall be accompanied by an audit report where required by the Commission under sub-section (4). 
+(4) The Commission may, by giving written notice to the clearing house, require the clearing house to obtain an audit report by a person to be approved by the Commission on the annual report and on any information or statements accompanying it.
+===
+SECTION: 41
+TITLE: Disclaimer of property, rescission of contracts, etc.
+TEXT:
+(1) Section 407 of the Companies Ordinance, 1984 (XLVII of 1984) shall not apply in relation to — 
+(a) a market contract; 
+(b) a contract effected by a clearing house for the purpose of realizing property provided as market collateral; 
+(c) a market charge; or 
+(d) any default proceedings. 
+(2) Section 406 of the Companies Ordinance, 1984 (XLVII of 1984) shall not apply to any act, matter or thing which has been done pursuant to — 
+(a) a market contract; 
+(b) a disposition of property pursuant to a market contract; 
+(c) the provision of market collateral; 
+(d) a contract effected by a clearing house for the purpose of realizing property provided as market collateral or any disposal of property pursuant to such a contract; 
+(e) a disposal of property in accordance with the regulations of a clearing house as to the application of property provided as market collateral; 
+(f) a disposal of property as a result of which the property becomes subject to a market charge or any transaction pursuant to which that disposal is made; 
+(g) a disposal of property made in enforcing a market charge; 
+(h) a market charge; or 
+(i) any default proceedings.
+===
+SECTION: 42
+TITLE: Enforcement of judgments over property subject to market charge, etc.
+TEXT:
+(1) Notwithstanding anything contained in any other law for the time being in force, where property is subject to a market charge or has been provided as market collateral, no execution or other legal process for the enforcement of a judgment or order may be commenced or continued, and no distress may be levied, against the property by a person not seeking to enforce any interest in or security over the property, except with the consent of the clearing house concerned. 
+(2) Where by virtue of this section a person would not be entitled to enforce a judgment or order against any property, any injunction or other remedy granted with a view to facilitating the enforcement of any such judgment or order shall not extend to that property.
+===
+SECTION: 43
+TITLE: Clearing member to be party to transactions as principal
+TEXT:
+Where for the purposes of fulfilling clearing and settlement obligation or margin call or mark-to-market loss or any other obligation, whatsoever, a clearing member enters into any transaction or contract with a clearing house, irrespective of its nature, including but not limited to a market contract, in the capacity as a principal or agent, notwithstanding anything contained in any other law, rule or regulation, in such transaction or contract the clearing member shall act and considered as Principal and liable to make payment or delivery, to the clearing house, as the case may be.
+===
+SECTION: 44
+TITLE: Property deposited with clearing house
+TEXT:
+(1) Subject to sub-section (2), where any property is deposited as market collateral by a clearing member with a clearing house in accordance with the regulations of the clearing house, then, notwithstanding any other law or rules or regulations , no action, claim or demand, either civil or criminal, in respect of any right, title or interest in such property held or enjoyed by any person shall lie or shall be commenced or allowed, against the clearing house or its nominees. 
+(2) The operation of sub-section (1) in respect of any property deposited as market collateral with a clearing house is subject to any modifications and exclusions provided in the regulations of the clearing house.
+===
+SECTION: 45
+TITLE: Preservation of rights, etc.
+TEXT:
+Except to the extent that they expressly provide, the provisions of this Part shall not operate to limit, restrict or otherwise affect — 
+(a) any right, title, interest, privilege, obligation or liability of a person; 
+(b) any investigation, legal proceeding or remedy in respect of any such right, title, interest, privilege, obligation or liability.
+===
+SECTION: 46
+TITLE: Interpretation (Central Depository Companies)
+TEXT:
+In this Part — 
+(a) “account holder” shall have the same meaning as is assigned to it in sub-section (3) of section 2 of the Central Depositories Act, 1997 (XIX of 1997) ; 
+(b) “CDS element” means central depository system element and includes an account holder, a participant, an issuer of eligible securities, an eligible pledgee or any other market intermediary as may be prescribed under the Central Depositories Act, 1997 (XIX of 1997) ; 
+(c) “investor account” means the account opened by an investor with a central depository in accordance with the terms and conditions specified by such central depository; 
+(d) “investor account holder” means any individual who, or other entity which, is allowed by central depository at its discretion to open and maintain an investor account with central depository with or without having direct access to CDS; 
+(e) “participant” shall have the same meaning as is assigned to it in clause (17) of section 2 of the Central Depositories Act, 1997 (XIX of 1997) ; and 
+(f) “sub-account holder” has the same meaning as given in clause (28) of section 2 of the Central Depositories Act, 1997 (XIX of 1997).
+===
+SECTION: 47
+TITLE: Licensing requirement for depository facility
+TEXT:
+No person shall establish or operate or assist in establishing or operating or hold himself out as operating a depository facility except under and in accordance with a central depository licence granted by the Commission under section 49: 
+Provided that a licensing requirement provided in this section shall not be applicable on depository facility provided by State Bank of Pakistan through State Bank of Pakistan-Banking Services Corporation for government securities.
+===
+SECTION: 48
+TITLE: Eligibility for licensing (Central Depository)
+TEXT:
+A company shall be eligible for licensing as a central depository only if — 
+(a) the company is incorporated as a public company under the Companies Ordinance, 1984 (XLVII of 1984); 
+(b) the company complies with all the requirements in Central Depositories Act, 1997 (XIX of 1997); 
+(c) it has, and maintains at all times, a minimum paid-up capital (net of losses) of rupees five hundred million or such higher amount as may be notified by the Commission; 
+(d) the collective shareholding of the securities exchanges does not exceed such percentage as the Commission may notify, of the total shareholding of the company: 
+Provided that the Commission may in the official Gazette notify any class or classes of persons to hold such number of shares of the central depository as the Commission deems appropriate: 
+Provided further that any sale or purchase of shares of the central depository shall be subject to the prior approval of the Commission; 
+(e) no promoter, director, majority shareholders, senior management officer or employee of such a company — 
+(i) has been convicted of fraud, breach of trust or an offence involving moral turpitude or removed from service for misconduct or has been adjudicated as insolvent; 
+(ii) has been associated with any illegal banking business, deposit taking or financial dealings; 
+(iii) has been a sponsor, director, chief executive or a senior management officer of any defaulting entity; 
+(iv) has ever been a defaulter of any commercial bank or financial institution, including non-banking financial institution, securities exchange and clearing house or has suspended payment or has compounded with his creditors; 
+(v) has ever been a defaulter or non-payer of verified unsettled claims of its customer as a TRE certificate holder of securities exchange; and 
+(vi) fulfill the fit and proper criteria as may be prescribed; 
+(f) the promoters of such company are persons of experience and integrity and have special knowledge of matters which the company may have to deal with as a central depository company; and 
+(g) it satisfies such other conditions as may be prescribed.
+===
+SECTION: 49
+TITLE: Grant of licence
+TEXT:
+(1) A public company eligible for a licence may apply to the Commission to be licensed as a central depository in such form and manner as may be prescribed. 
+(2) The application under sub-section (1) shall be accompanied by a prescribed fee. 
+(3) The Commission may require an applicant to provide the Commission with such further information as it considers necessary in relation to the application, in such form or verified in such manner as the Commission may direct. 
+(4) The Commission may, in writing, subject to such conditions or restrictions as it may think fit to impose, license a public company as a central depository if the Commission is satisfied that the company will ensure that, as far as is reasonably practicable, there are fair, transparent and efficient depository facilities, the company will manage any risk associated with its business and operations prudently, in the manner prescribed and the company will enforce compliance by CDS element with its regulations. 
+(5) In the exercise of its powers to grant licence under sub-section (4), the Commission shall have regard to, whether— 
+(a) the company's regulations make satisfactory provision for — 
+(i) the proper regulation and efficient operation of the depository facility which it operates; 
+(ii) the proper regulation and supervision of CDS element; 
+(iii) maintaining the accounts of its account holders, participants, sub-account holders and investor account holders in the manner as may be prescribed; 
+(iv) equitable allocation of dues, fees and other charges among the CDS element and other persons using its facilities; and 
+(v) any other matters as may be prescribed; 
+(b) the company has sufficient financial, human and system resources to— 
+(i) establish and operate a fair, transparent and efficient depository facility; 
+(ii) meet contingencies or disasters (including events such as technical complications occurring with automated systems) ; and 
+(iii) provide adequate security arrangements; and 
+(c) it would not be contrary to the public interest to license the company. 
+(6) Subject to the provisions of this Act, a licence granted under this section shall be subject to such annual renewal fee as may be prescribed.
+===
+SECTION: 50
+TITLE: Duties of central depository
+TEXT:
+(1) It shall be the duty of a central depository to ensure— 
+(a) fair, transparent and efficient depository facility; 
+(b) that risks associated with its business and operations are managed prudently; 
+(c) compliance with all the provisions of the Central Depositories Act, 1997 (XIX of 1997); and 
+(d) that requirements referred to in clause (b) of sub-section (4) of section 49 shall be evaluated, examined and certified by such independent and reputable expert and in such time intervals as may be prescribed. 
+(2) In discharging its duty under sub-section (1), a central depository shall act in the interest of the CDS elements and in particular shall give paramount importance to the interest of the public. 
+(3) A central depository shall operate its facilities in accordance with the Central Depositories Act, 1997 (XIX of 1997) and the regulations made thereunder. 
+(4) A central depository shall formulate and implement appropriate procedures under its regulations, compliance of which shall be mandatory on all CDS elements. 
+(5) A central depository shall have efficient procedures and arrangements for addressing complaints and taking enforcement actions thereof. 
+(6) A central depository shall immediately notify the Commission if it becomes aware — 
+(a) of a financial irregularity or other matter which in the opinion of the central depository may indicate that its financial integrity is in question or that it is unable to meet its legal obligations; 
+(b) that any of its CDS element is unable to comply with any regulation of the central depository; and 
+(c) of a financial irregularity or other matter which in the opinion of the central depository may indicate that the financial standing or integrity of a CDS element is in question or that a CDS element may not be able to comply with legal and regulatory requirements. 
+(7) A central depository shall ensure that appointment or removal of its chief executive officer by whatever name called is made with the prior approval of the Commission. 
+(8) A central depository shall at all times provide and maintain — 
+(a) adequate and properly equipped premises; 
+(b) automated systems with adequate capacity, facilities to meet contingencies or emergencies, security arrangements and technical support; and 
+(c) comprehensive business continuity plan for the conduct of its business.
+===
+SECTION: 51
+TITLE: Regulations of central depository
+TEXT:
+(1) Without limiting the generality of sub-section (4) of section 49, the regulations of a central depository, may make provision — 
+(a) with respect to the constitution, powers and functions of the governing body of the central depository; 
+(b) with respect to the appointment and functioning of internal auditors; 
+(c) with respect to operational, information system, risk evaluation and regulatory audit of the central depository; 
+(d) with respect to the mechanism for inspection, enforcement and other punitive actions relating to audit and compliance of CDS Elements including cooperation with other licensed entities for violation of any requirement of this Act or any rules or regulations made thereunder; 
+(e) with respect to the equitable allocation of the dues, fees and other charges levied by the central depository; 
+(f) with respect to dissemination of information to CDS element, securities exchange, clearing house, other entities or institutions and general public; 
+(g) with respect to integrity and professional conduct of its employees; and 
+(h) generally for carrying on the business of the central depository. 
+(2) The power to make regulations conferred by this section on the central depository shall, for eliciting public opinion thereon, be subject to condition of previous publication of the said regulations alongwith their rationale on the website of central depository for a period of seven days starting from the date of its placement on website: 
+Provided that, on an application by the central depository, the Commission may waive the condition of placement of proposed regulations on the website of the central depository in cases requiring the immediate implementation of a proposed regulation. 
+(3) The Commission may, by notice in writing served on a central depository, require it — 
+(a) to make regulations specified in the notice within the period specified; or 
+(b) to amend regulations referred to in the notice in the manner and within the period specified in the notice. 
+(4) Where the Commission is satisfied that a central depository has not complied with a requirement referred to in sub-section (3) within the specified period the Commission may make or amend the regulations specified in the notice instead of the central depository and the regulations so made or amended shall have effect accordingly.
+===
+SECTION: 55
+TITLE: Power of the Commission to issue directions to central depository
+TEXT:
+(1) The Commission may, if it considers it necessary or expedient— 
+(a) for ensuring fair, transparent and efficient working of the central depository; 
+(b) for ensuring the integrity and proper management of systemic risks in the securities markets; 
+(c) in the interests of the public or a section of the public or for the protection of customers, the CDS elements and their clients, 
+issue directions by notice in writing either of a general or specific nature to a central depository. 
+(2) Without prejudice to the generality of sub-section (1), any direction issued under that sub-section may relate to — 
+(a) the book-entry system of the central depository; 
+(b) the manner in which a central depository carries on its business; 
+(c) removing or suspending the directors or officers of the central depository from office or suspending CDS elements of the central depository; 
+(d) the settlement of investor or customers claims and enforcement and other punitive actions against CDS element; and 
+(e) any other matter that the Commission considers necessary for the proper administration of this Act and the Central Depositories Act, 1997 (XIX of 1997) or the rules and regulations made hereunder, and the central depository shall comply with any such direction.
+===
+SECTION: 56
+TITLE: Emergency powers of the Commission
+TEXT:
+(1) Where the Commission has reason to believe or decides on the recommendation of the central depository, that an emergency exists or where the Commission considers it necessary or expedient in the interest of the public or section of the public or for the protection of customers or where the Commission takes action under section 13 or section 32, the Commission may direct by notice in writing a central depository to take such action as it considers necessary and the central depository shall comply with that direction. 
+(2) Where a central depository fails to comply with a direction of the Commission under sub-section (1), within such time as is specified by the Commission, the Commission may take such other action, including but not limited to those specified in sub-section (1), as the Commission considers fit to maintain or restore fair, transparent and efficient depository facility. 
+(3) In this section, “emergency” means — 
+(a) any act of government affecting securities; 
+(b) any major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for securities; or 
+(c) any other situation or practice which in the opinion of the Commission constitutes an emergency.
+===
+SECTION: 57
+TITLE: Suspension or cancellation of licence
+TEXT:
+(1) The Commission may, by notice in writing served on the central depository,— 
+(i) suspend the license granted under this Act with effect from the date specified in the notice for such period as may be specified in the notice; or 
+(ii) supersede the board of directors or other authority of the central depository; or 
+(iii) suspend or remove the director, officer or member from his office; or 
+(iv) cancel the licence granted under this Act with effect from the date, specified in the notice, if the central depository — 
+(a) ceases to comply with the eligibility conditions specified in section 48; 
+(b) ceases to operate the central depository facility that it has been licensed to operate under section 49; 
+(c) is being wound up; 
+(d) fails to comply with any requirement of this Act or the Central Depositories Act, 1997 (XIX of 1997); 
+(e) fails to comply with a direction of the Commission; 
+(f) fails to provide the Commission with information required by the Commission or provides false or misleading information; 
+(g) is operating in a manner detrimental to the public interest; or 
+(h) requests the Commission to do so. 
+(2) For the purposes of clause (b) of sub-section (1) a central depository shall be deemed to have ceased to operate as a central depository if — 
+(a) it has ceased to operate its depository facility for more than thirty days unless it has obtained the prior approval of the Commission to do so; or 
+(b) it has ceased to operate such depository facility under a direction issued by the Commission. 
+(3) The Commission may by the notice served under sub-section (1) permit the central depository to continue, on or after the date on which the suspension or cancellation is to take effect, to carry on such activities affected by the suspension or cancellation as the Commission may specify in the notice for the purpose of closing. 
+(4) Except where responding to a request under clause (h) of sub-section (1), the Commission shall not take any action under sub-section (1) against the central depository without first giving the central depository an opportunity of being heard. 
+(5) Where the Commission suspends or cancels the licence of a central depository under this section, it shall cause notice of that fact to be published in at least two daily newspapers having wide circulation.
+===
+SECTION: 58
+TITLE: Effect of cancellation of licence
+TEXT:
+A cancellation of licence under section 57 shall not operate so as to — 
+(a) avoid or affect any agreement, transaction or arrangement entered into on the securities market of a securities exchange where the agreement, transaction or arrangement was entered into before the cancellation of the licence; or 
+(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
+===
+SECTION: 59
+TITLE: Accounts and audit of central depository
+TEXT:
+(1) A central depository shall keep proper books of accounts and records of its profit and loss, assets and liabilities and all other transactions of the central depository as may be prescribed. 
+(2) The central depository shall, within three months after the end of each financial year, prepare financial statement of the central depository for the financial year, including a profit and loss account,

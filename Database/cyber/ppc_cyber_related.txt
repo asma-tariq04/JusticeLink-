@@ -1,0 +1,43 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administratord5622ea3f15bfa00b17d2cf7770a8434.pdf
+DATE_CHECKED: 2026-11-01
+===
+SECTION: 383
+TITLE: Extortion
+TEXT:
+Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property or valuable security or anything signed or sealed which may be converted into a valuable security, commits “extortion”.
+===
+SECTION: 405
+TITLE: Criminal breach of trust
+TEXT:
+Whoever, being in any manner entrusted with property or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits “criminal breach of trust”.
+===
+SECTION: 415
+TITLE: Cheating
+TEXT:
+Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person or any other person in body, mind, reputation or property, is said to “cheat”.
+Explanation.— A dishonest concealment of facts is a deception within the meaning of this section.
+Illustration (g): A intentionally deceives Z into a belief that A means to deliver to Z a certain quantity of indigo plant which he does not intend to deliver, and thereby dishonestly induces Z to advance money upon the faith of such delivery. A cheats; but if A, at the time of obtaining the money, intends to deliver the indigo plant, and afterwards breaks his contract and does not deliver it, he does not cheat, but is liable only to a civil action for breach of contract.
+===
+SECTION: 420
+TITLE: Cheating and dishonestly inducing delivery of property
+TEXT:
+Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security. [penalty clause omitted]
+===
+SECTION: 499
+TITLE: Defamation
+TEXT:
+(1) [BEGINNING MISSING: PDF mein "499. Defamation" dhoondo aur "Whoever by words..." se "...visible rep" tak ka hissa yahan copy karo] representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person.
+Explanation 1.— It may amount to defamation to impute anything to a deceased person, if the imputation would harm the reputation of that person if living, and is intended to be hurtful to the feelings of his family or other near relatives.
+Explanation 2.— It may amount to defamation to make an imputation concerning a company or an association or collection of persons as such.
+Explanation 3.— An imputation in the form of an alternative or expressed ironically, may amount to defamation.
+Explanation 4.— No imputation is said to harm a person’s reputation, unless that imputation directly or indirectly, in the estimation of others, lowers the moral or intellectual character of that person, or lowers the character of that person in respect of his caste or of his calling, or lowers the credit of that person, or causes it to be believed that the body of that person is in a loathsome state, or in a state generally considered as disgraceful.
+First Exception.— Imputation of truth which public good requires to be made or published. It is not defamation to impute anything which is true concerning any person, if it be for the public good that the imputation should be made or published. Whether or not it is for the public good is a question of fact.
+Second Exception.— Public conduct of public servants. It is not defamation to express in good faith any opinion whatever respecting the conduct of a public servant in the discharge of his public functions, or respecting his character, so far as his character appears in that conduct, and no further.
+Third Exception.— Conduct of any person touching any public question. It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any public question, and respecting his character, so far as his character appears in that conduct, and no further.
+[Fourth to Tenth Exceptions not included]
+===
+SECTION: 503
+TITLE: Criminal intimidation
+TEXT:
+[BEGINNING MISSING: PDF mein "503. Criminal intimidation" dhoondo aur "Whoever threatens another with any injury to his person, reputat" tak ka hissa yahan copy karo] ion or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation.
+Explanation.— A threat to injure the reputation of any deceased person in whom the person threatened is interested, is within this section.

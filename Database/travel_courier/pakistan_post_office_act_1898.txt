@@ -1,0 +1,8 @@
+SOURCE: https://pakistancode.gov.pk/pdffiles/administrator76aadf17aac1b3e1809b622fc6afdce5.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 6
+TITLE: Exemption from liability for loss, misdelivery, delay or damage
+TEXT:
+The Federal Government shall not incur any liability by reason of the loss, misdelivery or delay of, or damage to, any postal article in course of transmission by post, except in so far as such liability may in express terms be undertaken by the Federal Government as hereinafter provided; and no officer of the Post Office shall incur any liability by reason of any such loss, misdelivery, delay or damage, unless he has caused the same fraudulently or by his wilful act or default.
+===

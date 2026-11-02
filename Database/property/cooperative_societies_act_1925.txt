@@ -1,0 +1,126 @@
+SOURCE: https://punjabcode.punjab.gov.pk/uploads/articles/THE_CO-OPERATIVE_SOCIETIES_ACT,_1925.pdf
+DATE_CHECKED: 2026-11-02
+===
+SECTION: 9
+TITLE: Application for registration
+TEXT:
+(1) For purposes of registration an application to register shall be made to the Registrar.
+(2) The application for registration of a cooperative society shall be–
+(a) made in writing specifying the address of its proposed registered office;
+(b) signed by at least fifty persons in case of producers’ or housing society and at least thirty persons for any other category of societies with proof of the identifications of those persons; provided that this condition as to the number of persons shall not be applicable in case where at least one of the proposed member is a society;
+(c) accompanied, in the case of producers, or housing society or any other society which is likely to adversely affect the environment, approval of the competent authority in accordance with section 12 of the Pakistan Environmental Protection Act, 1997 (Act XXXIV of 1997);
+(d) accompanied by the following documents:
+(i) a feasibility report showing its financial viability;
+Explanation.– Financial viability shall include a statement of finances relating to the expected business turn over of the society, stating the number of members and expenditures being within its income;
+(ii) proof that promoter members’ contributions towards the paid up share capital are in accordance with the feasibility report;
+(iii) proof of the payment of such registration fee as may be prescribed; provided that different registration fee may be prescribed for different categories of societies; provided further that in case of agriculture society, the registration fee shall not exceed five hundred rupees; and
+(iv) a copy of the proposed by-laws of the society.
+(3) A housing society shall, within a period of one year of its registration, furnish the schedule of proposed development of land, master plan, site plan indicating availability of the existing public utilities, public amenities and other allied facilities in the area and, in case of its failure, the Registrar may de-register the society after affording it an opportunity of hearing.
+(4) The registration fee shall be deposited in the account of the Registrar and shall be utilized in the prescribed manner.
+===
+SECTION: 10
+TITLE: Registration
+TEXT:
+If the Registrar is satisfied that a society has complied with the provisions of this Act and the rules and that its proposed by-laws are not contrary to any law for the time being in force, he may register the society and its by-laws.
+===
+SECTION: 11
+TITLE: Evidence of registration
+TEXT:
+A certificate of registration signed by the Registrar shall be conclusive evidence that the society therein mentioned is duly registered unless it is proved that the registration of the society has been cancelled.
+===
+SECTION: 16
+TITLE: Amendment of the by-laws of a society
+TEXT:
+(1) No amendment of the by-laws of a society shall be valid until it is registered under this Act.
+(2) If the Registrar is satisfied that any amendment of the by-laws made by a society is not contrary to any law for the time being in force, he may register the amendment.
+(3) When the Registrar registers an amendment of by-laws of a society under sub-section(2), he shall issue to the society a copy of the amendment certified by him, which shall be conclusive evidence that the same is duly registered.
+===
+SECTION: 16-A
+TITLE: Powers of the Registrar to amend bye-laws
+TEXT:
+(1) If the Registrar is satisfied that the bye-laws of a society are inconsistent with any law for the time being in force, or it is necessary in the interest of the society and its members to make amendments in such bye-laws, he may, by means of a notice in writing, giving reasons, bring the fact to the notice of the society and advise the society to make the amendments within a period of sixty days.
+(2) If the society fails to make such amendments within the time specified in sub-section (1), the Registrar may, after giving the society an opportunity of being heard, register such amendments as he may decide and issue to the society a copy of the amendment registered by him.
+(3) An appeal shall lie to the Government from an order of the Registrar passed under sub-section (2) within two months of the date of communication of the order.
+===
+SECTION: 17
+TITLE: No rights of membership to be exercised till due payments are made
+TEXT:
+No person shall exercise the rights of a member of a society unless or until he has made such payment to the society in respect of membership, or acquired such interest in the society as may be prescribed by the rules or the by-laws of such society.
+===
+SECTION: 17-A
+TITLE: Special provisions for membership of resource societies
+TEXT:
+Notwithstanding anything contained in this Act and any other law for the time being in force–
+(i) every application made by any person for membership of an Agricultural Credit Society shall be accompanied by a declaration specifying the immovable property on which he agrees to have a charge created for the dues of the society; and no such person shall be admitted as a member or shall exercise rights of a member of such society unless he makes such declaration;
+(ii) any member of an Agricultural Credit Society may at any time make a declaration as in clause(i) regarding immovable property on which heagrees to have a charge created for the dues of the society of which he is a member;
+(iii) a declaration made under clause(i) or (ii) may be varied at any time by a member with the consent of the society in favour of which such charge is created;
+(iv) no member of an Agricultural Credit Society so long as he continues to remain such member shall alienate the whole or any part of the property specified in the declaration made under clause(i) or (ii);
+(v) any alienation of any property specified in the declaration made under clause (i) or (ii) by such member shall be void;
+(vi) subject to the prior claim of Government in respect of land revenue or any money recoverable as arrears of land revenue, there shall be a first charge in favour of the society on the property specified in the declaration under clause (i) or (ii) in respect of and to the extent of any debt or other outstanding demand owing by such member to the society;
+(vii) an entry regarding a charge on immovable property created by a declaration under clause (i) or (ii) or any variation made therein under clause (iii) shall be made in the record of rights maintained under Chapter X-A of the Sind Land Revenue Code, 1879, or the relevant provisions of any other law relating to land revenue in force in the area, notwithstanding anything contained in the said Chapter.
+Explanation.– For the purposes of this section an ‘Agricultural Credit Society’ means a resource society of which the primary object is the creation of funds to be lent to its members and of which a majority of the members are agriculturists and of which no member is a registered society and the liability of which is limited.
+===
+SECTION: 17-B
+TITLE: Expulsion of a member
+TEXT:
+(1) A society may recommend to the Registrar to expel from its membership a member who is a persistent defaulter of the dues of the society or who commits any act prejudicial to the interests of the society:
+Provided that the managing committee of the society shall, after affording the member an opportunity of hearing, place the matter before the general body of the society and approval thereof shall be communicated to the Registrar.
+(2) The Registrar may expel such a member from the society after affording him an opportunity of hearing
+(3) The Registrar shall, before passing the expulsion order, determine the amount payable, if any, by the society to the member and may direct that the expulsion order would take effect from the date of payment of the amount to such member or its deposit in the account of the Registrar.
+(4) The member shall cease to be member of the society from the date when the expulsion order of the Registrar takes effect:
+Provided that the provisions of this section shall not apply to a member of a housing society who has made full payment towards the cost of land and the requisite development charges.
+===
+SECTION: 18
+TITLE: Votes of members
+TEXT:
+(1) No member of any society shall have more than one vote in its affairs, provided that in the case of an equality of votes the chairman shall have a casting vote.
+(2) A Society which has invested any part of its funds in the shares of another society, may appoint one of its members to vote in the affairs of such other registered society.
+===
+SECTION: 18-A
+TITLE: General body and managing committee
+TEXT:
+(1) The powers and management of a society shall vest in its general body consisting of all its members.
+(2) A society shall have a managing committee, constituted in accordance with the rules and the by-laws, which shall exercise such powers and functions as may be delegated to it by the general body.
+(3) Subject to any general or special order of the Provincial Government, the Registrar may, on such terms and conditions as he may deem fit, appoint not more than two experts on the managing committee of a society for the development and proper management of the society.
+(4) The Registrar may require a society to obtain approval of its general body, in any matter concerning the business of the society, before proceeding further in the matter.
+===
+SECTION: 18-B
+TITLE: Disqualification for being, and for voting at an election of Director, Manager or other officer of the society
+TEXT:
+A member of the society to which the provisions of this section have been applied by the Provincial Government by notification in the Official Gazette shall be disqualified for being, and for voting at an election of, a Director, Manager or other officer of the society–
+(a) if he has taken a loan from the society which has been outstanding for six months or more after it has become payable and has not been re-paid upto the day immediately preceding the date of the election, or
+(b) if he has taken a loan from the society which is repayable by installments and the amount of three or more installments has been outstanding for six months or more from the date on which the amount of the last installment became payable and has not been re-paid upto the day immediately preceding the date of the election.
+Explanation.–The date on which the loan or installment becomes payable is the date specified in the bond or any other instrument in writing evidencing the loan but does not include any extension thereof.
+===
+SECTION: 19
+TITLE: Restrictions on transfer of share or interest
+TEXT:
+(1) The transfer or charge of the share or interest of a member in the capital of a society shall be subject to such conditions as to maximum holding as may be prescribed by this Act or by the rules.
+(2) A member shall not transfer any share held by him or his interest in the capital or property of any society or any part thereof unless–
+(a) he has held such share or interest for not less than one year; and
+(b) the transfer or charge is made to the society or to a member of the society or to a person whose application for membership has been accepted by the societ
+===
+SECTION: 54-A
+TITLE: Registrar’s power to set aside the award and order the dispute to be referred back to arbitration
+TEXT:
+(1) In the case of any award made by the arbitrators under section 54, the Registrar, if he is not one of such arbitrators, may of his own motion or on the application of any of the parties to the award, by an order in writing recording reasons therefore,–
+(a) modify or correct the award (i) where it appears that a part of the award is upon a matter not referred to arbitration and such part can be separated from the other part and does not affect the decision on the matter referred; or (ii) Where the award is imperfect in form or contains any obvious error which can be amended without affecting such decision; or (iii) where the award contains a clerical mistake or an error arising from an accidental slip or omission; or
+(b) remit the award or any matter referred to arbitration to the arbitrators for reconsideration–
+(i) where the award has left undetermined any of the matters referred to arbitration or where it determines any matter not referred to arbitration and such matter cannot be separated without affecting the determination of the matters referred, or
+(ii) where the award is so indefinite as to be incapable of execution, or
+(c) set aside the award and order that the dispute shall be referred to arbitration in the manner provided in the said section:
+Provided that no order referred to in clauses (a) to (c) shall be made after the issue of a certificate under section 59 for the execution of the award:
+Provided further that no order under clause (c) shall be made unless the Registrar is of opinion that–
+(i) an objection to the legality of the award is apparent on the face of it, or
+(ii) the award has been vitiated in consequence of corruption or misconduct on the part of the arbitrators, or
+(iii) the award is in any way perverse.
+(2) In making an order under clause (c) of sub-section (1), the Registrar may direct that all or any of the arbitrators who made the award shall not act again as arbitrators for deciding the dispute.
+(3) Where a dispute is referred back to arbitration under clause (c) of sub-section (1), the arbitrators shall make a fresh award within such time as may be fixed by the Registrar. If the arbitrators fail to make a fresh award within the time so fixed, the Registrar or his nominee shall decide the dispute.
+===
+SECTION: 55
+TITLE: Attachment before award
+TEXT:
+Where a dispute has been referred to the Registrar under section 54 or to arbitration under clause (g) of section 50, the Registrar or his nominee or the arbitrators, as the case may be, if satisfied on inquiry or otherwise, that a party to such arbitration with intent to delay or obstruct the execution of any award that may be made,–
+(a) is about to dispose of the whole or any part of his property, or
+(b) is about to remove the whole or any part of his property from the jurisdiction of the Registrar, may unless adequate security is furnished direct the conditional attachment of the said property; and such attachment shall have the same effect as if made by a competent Civil Cour
+===
