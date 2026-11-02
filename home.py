@@ -24,11 +24,7 @@ if not is_logged_in():
         [data-testid="collapsedControl"] {
             display: none !important;
         }
-        [data-testid="stToolbarActions"] { display: none !important; }
-[data-testid="stMainMenu"] { display: none !important; }
-[data-testid="stAppDeployButton"] { display: none !important; }
-
-footer { visibility: hidden !important; }
+        
         </style>
         """,
       unsafe_allow_html=True,
