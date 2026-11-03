@@ -200,24 +200,33 @@ def analyze_case(problem, docs, evidence):
         Text from documents: {docs_text[:600]}
         Evidence images details: {evidence_text[:600]}
 
-        Respond in English, in ONLY valid JSON, matching this exact shape with no extra text:
-        {{
-            "category": "short case category",
-            "authorities": ["authority 1", "authority 2", "authority 3"],
-            "evidence_checklist": [
-                {{"item": "short evidence name", "provided": true}},
-                {{"item": "short evidence name", "provided": false}}
-            ],
-            "suggestions": ["suggestion 1", "suggestion 2", "suggestion 3", "suggestion 4"]
-        }}
+        Respond in English, in ONLY valid JSON, matching this exact shape with no extra text before or after:
+    {{
+        "category": "short case category",
+        "authorities": ["authority 1", "authority 2", "authority 3"],
+        "evidence_checklist": [
+            {{"item": "short evidence name", "provided": true}},
+            {{"item": "short evidence name", "provided": false}}
+        ],
+        "suggestions": ["suggestion 1", "suggestion 2", "suggestion 3"]
+    }}
 
-        Rules:
-        - evidence_checklist: exactly 6 items. 2 to 4 words only.
-        - Set "provided" to true if the evidence, docs, OR the user's problem description indicates it exists. Otherwise false.
-        - authorities: maximum 3 items, official names only, no explanation.
-        - suggestions: maximum 4 items, clear sentence under 25 words.
-        - Do NOT include links, markdown formatting (*, [], **). Use plain ASCII.
-        """
+    Rules:
+    - evidence_checklist: exactly 6 items. These are the evidence items normally needed for this
+      kind of case in Pakistan. Each item is 2 to 4 words only.
+    - Set "provided" to true only if the problem text, the document text, or an uploaded file name
+      clearly shows that the user already has that item. Otherwise set it to false.
+    - missing_evidences: do not list anything that already appears in the  documents or evidence images above.
+    - Be honest. Do not mark an item as provided just to be encouraging.
+    - authorities: maximum 3 items, official names only, no explanation.
+    - suggestions: maximum 4 items, each one clear sentence under 25 words.
+    - Do NOT include any links, URLs, or website addresses.
+    - Do NOT use markdown formatting (no *, no [ ], no **).
+    - Use plain ASCII characters only: normal hyphen (-) and straight quotes.
+    - Never invent law names or section numbers. Stay general if unsure.
+    - authorities: official institutional departments only (e.g., FIA Cyber Crime Circle, District Consumer Court). Do NOT include legal acts, statutes, or section names here.
+    """
+  
 
         response = client.chat.completions.create(
             model="openai/gpt-oss-120b",
